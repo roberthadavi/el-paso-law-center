@@ -1,0 +1,33 @@
+---
+import Base from '../layouts/Base.astro';
+import CtaBand from '../components/CtaBand.astro';
+import { HUBS, COURT_LABEL, hubPath, servicePath, type Lang } from '../data/catalog';
+import { PATHS, t } from '../data/site';
+import { PRACTICE } from '../data/pages';
+import { hubContent } from '../lib/content';
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const alt: Lang = lang === 'en' ? 'es' : 'en';
+---
+<Base lang={lang} title={PRACTICE.title[lang]} description={PRACTICE.metaDescription[lang]} path={PATHS.practiceAreas[lang]} altPath={PATHS.practiceAreas[alt]}>
+  <section class="hero hero-inner on-dark">
+    <div class="container">
+      <div class="hero-copy">
+        <nav class="crumbs" aria-label={t('breadcrumbAria', lang)}><ol><li><a href={PATHS.home[lang]}>{t('home', lang)}</a></li><li aria-current="page">{t('practiceAreas', lang)}</li></ol></nav>
+        <div class="eyebrow gold">{PRACTICE.eyebrow[lang]}</div>
+        <h1>{PRACTICE.h1[lang]}</h1>
+        <p class="lede">{PRACTICE.lede[lang]}</p>
+      </div>
+    </div>
+  </section>
+  <section class="section-tight">
+    <div class="container">
+      {HUBS.map((h) => <div class="hub-block" id={h.id}>
+        <h2><span aria-hidden="true">{h.icon}</span> <a href={hubPath(h, lang)} style="text-decoration:none">{h.name[lang]}</a></h2>
+        <p class="muted" style="max-width:70ch">{hubContent(h.id).summary[lang]}</p>
+        <div class="links">{h.services.map((s) => <a href={servicePath(s, lang)}>{s.name[lang]} <span class="muted" style="font-size:.78rem">· {COURT_LABEL[s.court][lang]}</span></a>)}</div>
+      </div>)}
+    </div>
+  </section>
+  <CtaBand lang={lang} />
+</Base>

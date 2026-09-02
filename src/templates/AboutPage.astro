@@ -1,0 +1,39 @@
+---
+import Base from '../layouts/Base.astro';
+import CtaBand from '../components/CtaBand.astro';
+import { HUBS, hubPath, type Lang } from '../data/catalog';
+import { SITE, PATHS, t } from '../data/site';
+import { ABOUT } from '../data/pages';
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const alt: Lang = lang === 'en' ? 'es' : 'en';
+const person = { '@context': 'https://schema.org', '@type': 'Person', name: SITE.attorneyFull, jobTitle: 'Attorney', worksFor: { '@id': `${SITE.url}/#organization` }, url: new URL(PATHS.about[lang], SITE.url).href, image: `${SITE.url}/images/robert-navar-el-paso-attorney.webp`, address: { '@type': 'PostalAddress', addressLocality: 'El Paso', addressRegion: 'TX' }, knowsLanguage: ['en', 'es'] };
+---
+<Base lang={lang} title={ABOUT.title[lang]} description={ABOUT.metaDescription[lang]} path={PATHS.about[lang]} altPath={PATHS.about[alt]} jsonLd={[person]}>
+  <section class="hero hero-inner on-dark">
+    <div class="container">
+      <div class="hero-copy">
+        <nav class="crumbs" aria-label={t('breadcrumbAria', lang)}><ol><li><a href={PATHS.home[lang]}>{t('home', lang)}</a></li><li aria-current="page">{t('about', lang)}</li></ol></nav>
+        <div class="eyebrow gold">{ABOUT.eyebrow[lang]}</div>
+        <h1>{ABOUT.h1[lang]}</h1>
+        <p class="lede">{ABOUT.lede[lang]}</p>
+      </div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="container about-grid">
+      <div>
+        <img src="/images/robert-navar-el-paso-attorney.webp" width="900" height="1200" alt={`${SITE.attorneyFull} — El Paso attorney`} />
+        <div class="aside-box" style="margin-top:1.25rem">
+          <ul>{ABOUT.facts.map((f) => <li><b style="display:block;font-size:.7rem;text-transform:uppercase;letter-spacing:.1em;color:var(--muted-text)">{f.k[lang]}</b>{typeof f.v === 'string' ? f.v : f.v[lang]}</li>)}</ul>
+        </div>
+      </div>
+      <div class="prose">
+        {ABOUT.body[lang].map((p) => <p>{p}</p>)}
+        <h2>{t('practiceAreas', lang)}</h2>
+        <ul>{HUBS.map((h) => <li><a href={hubPath(h, lang)}>{h.icon} {h.name[lang]}</a></li>)}</ul>
+      </div>
+    </div>
+  </section>
+  <CtaBand lang={lang} />
+</Base>

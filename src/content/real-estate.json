@@ -1,0 +1,1764 @@
+{
+  "hub": {
+    "title": {
+      "en": "El Paso Real Estate Lawyer | El Paso Law Center",
+      "es": "Abogado de Bienes Raíces en El Paso | El Paso Law Center"
+    },
+    "metaDescription": {
+      "en": "Flat-fee real estate lawyer in El Paso, TX. Deeds, purchase contracts, owner financing, leases, title fixes and eviction notices. Call (915) 526-0787.",
+      "es": "Abogado de bienes raíces en El Paso, TX a tarifa fija. Escrituras, compraventas, financiamiento, rentas, título y avisos de desalojo. Llame al (915) 526-0787."
+    },
+    "eyebrow": {
+      "en": "EL PASO REAL ESTATE ATTORNEY",
+      "es": "ABOGADO DE BIENES RAÍCES EN EL PASO"
+    },
+    "h1": {
+      "en": "El Paso Real Estate Lawyer — Deeds, Contracts, Leases and Title Work for a Flat Fee",
+      "es": "Abogado de Bienes Raíces en El Paso — Escrituras, Contratos, Rentas y Título a Tarifa Fija"
+    },
+    "summary": {
+      "en": "Flat-fee real estate documents and title work for El Paso homeowners, buyers, sellers, investors and landlords — prepared by a Texas attorney, recorded with the El Paso County Clerk, and handled without a court appearance.",
+      "es": "Documentos de bienes raíces y trabajo de título a tarifa fija para propietarios, compradores, vendedores, inversionistas y arrendadores de El Paso — preparados por un abogado de Texas, registrados con el County Clerk y sin comparecer en corte."
+    },
+    "intro": [
+      {
+        "en": "Real estate in El Paso is where most families keep the bulk of their wealth, and the paperwork behind it matters more than most people realize. A deed with the wrong legal description, a handwritten purchase agreement, a contract-for-deed that ignores the Texas Property Code, or a lease copied from the internet can cost far more to fix than it would have cost to do right. The Law Office of Robert Navar prepares and reviews deeds, purchase contracts, owner-financing packages, residential and commercial leases, and eviction notices for a flat fee quoted before we start, in English or Spanish.",
+        "es": "En El Paso, la mayoría de las familias tienen la mayor parte de su patrimonio en bienes raíces, y el papeleo detrás de esa propiedad importa más de lo que muchos creen. Una escritura con la descripción legal equivocada, un contrato de compraventa escrito a mano, un contrato de venta a plazos (contract for deed) que ignora el Código de Propiedad de Texas, o un contrato de renta copiado del internet puede costar mucho más arreglarlo que hacerlo bien desde el principio. La oficina del Lic. Robert Navar prepara y revisa escrituras, contratos de compraventa, paquetes de financiamiento del vendedor, arrendamientos residenciales y comerciales, y avisos de desalojo a tarifa fija cotizada antes de empezar, en inglés o español."
+      },
+      {
+        "en": "Texas real estate law lives mostly in the Texas Property Code: Chapter 5 governs conveyances and executory contracts, Chapter 13 governs recording, Chapter 92 governs residential tenancies, Chapter 93 governs commercial leases, and Chapter 24 governs evictions. Layered on top are the homestead protections in Article XVI, Section 50 of the Texas Constitution and the TREC promulgated contract forms. None of the services in this practice group require you to appear in court. We draft, review, notarize and record documents with the El Paso County Clerk, and when a matter does need a filing, such as an eviction suit, we tell you exactly what that involves before you decide.",
+        "es": "El derecho inmobiliario de Texas vive principalmente en el Código de Propiedad de Texas (Texas Property Code): el Capítulo 5 regula las transferencias y los contratos de venta a plazos, el Capítulo 13 el registro de documentos, el Capítulo 92 las rentas residenciales, el Capítulo 93 los arrendamientos comerciales y el Capítulo 24 los desalojos. Encima de eso están las protecciones de homestead del Artículo XVI, Sección 50 de la Constitución de Texas y los formularios de contrato de TREC. Ninguno de los servicios de este grupo requiere que usted comparezca en corte. Redactamos, revisamos, notarizamos y registramos documentos con el County Clerk del Condado de El Paso, y cuando un asunto sí requiere una demanda, como un juicio de desalojo, le explicamos exactamente qué implica antes de que decida."
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "Do I need a lawyer to transfer property in El Paso, Texas?",
+          "es": "¿Necesito un abogado para transferir una propiedad en El Paso, Texas?"
+        },
+        "a": {
+          "en": "Texas does not require a lawyer to sign or record a deed, but it does require the deed to be correctly drafted, signed and acknowledged before a notary to be valid and recordable under Texas Property Code Chapter 12 and 13. A defective deed can cloud title for decades. An attorney-prepared deed costs a modest flat fee and is recorded with the El Paso County Clerk the same week.",
+          "es": "Texas no exige un abogado para firmar o registrar una escritura, pero sí exige que la escritura esté bien redactada, firmada y reconocida ante notario para ser válida y registrable bajo los Capítulos 12 y 13 del Código de Propiedad. Una escritura defectuosa puede nublar el título por décadas. Una escritura preparada por abogado cuesta una tarifa fija modesta y se registra con el County Clerk de El Paso la misma semana."
+        }
+      },
+      {
+        "q": {
+          "en": "Can a real estate lawyer replace a title company in Texas?",
+          "es": "¿Un abogado de bienes raíces puede reemplazar a una compañía de título en Texas?"
+        },
+        "a": {
+          "en": "They do different jobs. A title company issues title insurance and handles escrow; an attorney drafts and reviews the contract, deed, note and deed of trust, explains what you are signing, and fixes title defects the title company flags. For family transfers, owner-financed sales and small deals in El Paso that never go through a title company, the attorney is often the only professional looking out for you.",
+          "es": "Hacen trabajos distintos. La compañía de título emite seguro de título y maneja el escrow; el abogado redacta y revisa el contrato, la escritura, el pagaré y la deed of trust, le explica lo que firma y corrige los defectos de título que la compañía señala. En transferencias familiares, ventas con financiamiento del vendedor y tratos pequeños en El Paso que nunca pasan por compañía de título, el abogado suele ser el único profesional cuidando sus intereses."
+        }
+      },
+      {
+        "q": {
+          "en": "Will I have to go to court for any of these real estate services?",
+          "es": "¿Tendré que ir a corte por alguno de estos servicios de bienes raíces?"
+        },
+        "a": {
+          "en": "No. Deeds, contracts, owner-financing documents, leases, lease reviews, title curative affidavits and eviction notices are all handled in our office and at the El Paso County Clerk without any court appearance. If a tenant ignores a notice to vacate, the next step is an eviction suit in a Justice of the Peace court, which is a separate matter we can discuss with you when the time comes.",
+          "es": "No. Escrituras, contratos, documentos de financiamiento, arrendamientos, revisiones de contrato de renta, declaraciones para corregir título y avisos de desalojo se manejan en nuestra oficina y con el County Clerk de El Paso sin ninguna comparecencia en corte. Si un inquilino ignora el aviso de desalojo, el siguiente paso es una demanda de desalojo en una corte de Juez de Paz (Justice of the Peace), que es un asunto aparte que podemos platicar con usted cuando llegue el momento."
+        }
+      }
+    ]
+  },
+  "services": {
+    "commercial-lease": {
+      "title": {
+        "en": "Commercial Lease Lawyer El Paso | El Paso Law Center",
+        "es": "Abogado de Arrendamiento Comercial El Paso | El Paso Law Center"
+      },
+      "metaDescription": {
+        "en": "Commercial lease drafting, review and negotiation in El Paso, TX for business tenants and landlords. Flat fee, English or Spanish. Call (915) 526-0787.",
+        "es": "Redacción, revisión y negociación de arrendamientos comerciales en El Paso, TX para negocios y arrendadores. Tarifa fija, sin corte. Llame al (915) 526-0787."
+      },
+      "eyebrow": {
+        "en": "EL PASO COMMERCIAL LEASE ATTORNEY",
+        "es": "ARRENDAMIENTOS COMERCIALES EN EL PASO"
+      },
+      "h1": {
+        "en": "Commercial Leases in El Paso — Know What You Are Signing Before You Open the Doors",
+        "es": "Arrendamientos Comerciales en El Paso — Sepa Qué Firma Antes de Abrir su Negocio"
+      },
+      "summary": {
+        "en": "Drafting, review and negotiation of retail, office, restaurant, warehouse and industrial leases for El Paso business owners and property owners — CAM charges, personal guaranties, build-out and renewal terms explained and negotiated for a flat fee.",
+        "es": "Redacción, revisión y negociación de arrendamientos de local comercial, oficina, restaurante, bodega e industrial para dueños de negocios y de propiedades en El Paso — cargos CAM, garantías personales, adecuaciones y renovaciones explicados y negociados a tarifa fija."
+      },
+      "feeModel": {
+        "en": "Flat fee for review; flat fee for drafting, quoted upfront",
+        "es": "Tarifa fija para revisión; tarifa fija para redacción, cotizada por adelantado"
+      },
+      "timeline": {
+        "en": "Review in 2–4 business days; negotiation typically 1–3 weeks",
+        "es": "Revisión en 2–4 días hábiles; negociación normalmente 1–3 semanas"
+      },
+      "intro": [
+        {
+          "en": "A commercial lease is usually the largest financial commitment a small business in El Paso makes, often bigger than its startup loan. A five-year lease on a strip center space on Montana, a restaurant on the Westside, a warehouse near the Zaragoza bridge or an office suite off Mesa can add up to hundreds of thousands of dollars in rent, plus common area maintenance, taxes, insurance and a personal guaranty that follows the owner even if the business closes. Landlords write these leases in their favor, and unlike residential tenants, business tenants get almost no statutory protection.",
+          "es": "Un arrendamiento comercial suele ser el compromiso financiero más grande que hace un negocio pequeño en El Paso, muchas veces mayor que su préstamo inicial. Un contrato de cinco años en una plaza comercial en Montana, un restaurante en el Westside, una bodega cerca del puente de Zaragoza o una oficina por Mesa puede sumar cientos de miles de dólares en renta, más mantenimiento de áreas comunes, impuestos, seguro y una garantía personal que persigue al dueño aunque el negocio cierre. Los arrendadores redactan estos contratos a su favor, y a diferencia de los inquilinos residenciales, los inquilinos comerciales casi no tienen protección legal."
+        },
+        {
+          "en": "Texas Property Code Chapter 93 covers commercial tenancies, but it is short and mostly permissive: it addresses security deposit returns within 60 days under Section 93.005, landlord lockout rules under Section 93.002, and little else. Nearly everything is left to the contract. That means the lease itself decides who pays for a broken HVAC unit, whether rent escalates every year, what happens if the anchor tenant leaves, whether the tenant can assign the lease when selling the business, and how much of a personal guaranty survives. Chapter 54 gives landlords a statutory lien on the tenant's property for unpaid rent, and Chapter 24 governs eviction of commercial tenants just as it does residential ones.",
+          "es": "El Capítulo 93 del Código de Propiedad de Texas cubre los arrendamientos comerciales, pero es corto y mayormente permisivo: trata la devolución del depósito dentro de 60 días bajo la Sección 93.005, las reglas de cierre de cerradura por el arrendador bajo la Sección 93.002, y poco más. Casi todo queda en manos del contrato. Eso significa que el propio contrato decide quién paga un aire acondicionado descompuesto, si la renta sube cada año, qué pasa si el inquilino ancla se va, si el inquilino puede ceder el contrato al vender el negocio, y cuánto de la garantía personal sobrevive. El Capítulo 54 da a los arrendadores un gravamen legal sobre los bienes del inquilino por renta impagada, y el Capítulo 24 regula el desalojo de inquilinos comerciales igual que los residenciales."
+        },
+        {
+          "en": "For tenants, we review the landlord's draft, explain every clause in plain English or Spanish, and negotiate the terms that matter most: a cap on CAM increases, a limited or burn-off personal guaranty, an early termination or relocation right, exclusive-use protection, assignment rights for a future sale, and a clear build-out and rent-abatement schedule. For El Paso landlords, we draft a lease that protects the property, complies with Chapter 93 lockout and deposit rules, and gives clean default remedies. None of this involves court. The cost of a flat-fee review is a small fraction of one month's rent, and the concessions it typically produces pay for it many times over.",
+          "es": "Para inquilinos, revisamos el borrador del arrendador, explicamos cada cláusula en inglés o español sencillo, y negociamos los términos que más importan: un tope a los aumentos de CAM, una garantía personal limitada o que se extingue con el tiempo, un derecho de terminación anticipada o reubicación, protección de uso exclusivo, derechos de cesión para una venta futura, y un calendario claro de adecuaciones y renta condonada. Para arrendadores de El Paso, redactamos un contrato que protege la propiedad, cumple las reglas de cierre y depósito del Capítulo 93, y da remedios claros en caso de incumplimiento. Nada de esto involucra corte. El costo de una revisión a tarifa fija es una pequeña fracción de un mes de renta, y las concesiones que normalmente produce lo pagan muchas veces."
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "The clauses that cost El Paso business owners the most",
+            "es": "Las cláusulas que más les cuestan a los dueños de negocio en El Paso"
+          },
+          "body": [
+            {
+              "en": "Triple-net (NNN) leases pass taxes, insurance and common area maintenance to the tenant with no cap, so a reappraisal by the El Paso Central Appraisal District or a parking lot repaving lands on your rent bill. Unlimited personal guaranties keep the owner liable for the full remaining term after the business fails. Relocation clauses let the landlord move you to a worse space. Use clauses drafted too narrowly prevent you from adding a product line. Holdover rent at 150 or 200 percent punishes a late move-out. Each of these is negotiable before signing and almost impossible to change afterward.",
+              "es": "Los contratos triple neto (NNN) pasan impuestos, seguro y mantenimiento de áreas comunes al inquilino sin tope, así que un reavalúo del Distrito de Avalúo Central de El Paso o la repavimentación del estacionamiento cae en su renta. Las garantías personales ilimitadas dejan al dueño responsable por todo el plazo restante después de que el negocio fracasa. Las cláusulas de reubicación permiten al arrendador moverlo a un espacio peor. Las cláusulas de uso demasiado estrechas le impiden agregar una línea de productos. La renta de permanencia al 150 o 200 por ciento castiga una salida tardía. Cada una de estas es negociable antes de firmar y casi imposible de cambiar después."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Lockouts, deposits and defaults under Texas Property Code Chapter 93",
+            "es": "Cierres, depósitos e incumplimientos bajo el Capítulo 93 del Código de Propiedad"
+          },
+          "body": [
+            {
+              "en": "Unlike residential landlords, a commercial landlord in Texas may change the locks on a tenant who is behind on rent under Section 93.002, but only if the lease allows it and a notice with the location of the new key is posted on the front door. A lockout that violates the statute exposes the landlord to damages and attorney fees. Deposits must be returned within 60 days after surrender under Section 93.005, less itemized deductions. Because these remedies are so fast, tenants need cure periods written into the lease, and landlords need the lease to spell out exactly when a default occurs and what notice is required before locks change or an eviction notice goes out.",
+              "es": "A diferencia de los arrendadores residenciales, un arrendador comercial en Texas puede cambiar las cerraduras a un inquilino atrasado en la renta bajo la Sección 93.002, pero solo si el contrato lo permite y se coloca un aviso en la puerta principal con la ubicación de la nueva llave. Un cierre que viola la ley expone al arrendador a daños y honorarios de abogado. Los depósitos deben devolverse dentro de 60 días después de la entrega bajo la Sección 93.005, menos deducciones detalladas. Como estos remedios son tan rápidos, los inquilinos necesitan periodos de corrección escritos en el contrato, y los arrendadores necesitan que el contrato diga exactamente cuándo ocurre un incumplimiento y qué aviso se requiere antes de cambiar cerraduras o enviar un aviso de desalojo."
+            }
+          ]
+        }
+      ],
+      "included": [
+        {
+          "en": "Full review of the proposed lease, exhibits and guaranty with a written issues memo",
+          "es": "Revisión completa del contrato propuesto, anexos y garantía con memorándum escrito de puntos"
+        },
+        {
+          "en": "Plain-language explanation of rent, CAM, escalation, renewal and termination terms",
+          "es": "Explicación en lenguaje sencillo de renta, CAM, aumentos, renovación y terminación"
+        },
+        {
+          "en": "Negotiation of changes with the landlord or tenant, including a proposed redline",
+          "es": "Negociación de cambios con el arrendador o inquilino, incluyendo un borrador marcado"
+        },
+        {
+          "en": "Drafting of a landlord-side lease compliant with Property Code Chapters 93 and 24",
+          "es": "Redacción de un contrato del lado del arrendador conforme a los Capítulos 93 y 24 del Código de Propiedad"
+        },
+        {
+          "en": "Personal guaranty review and negotiation of caps or burn-off provisions",
+          "es": "Revisión de la garantía personal y negociación de topes o cláusulas de extinción"
+        },
+        {
+          "en": "Coordination with your LLC formation so the lease is signed by the entity, not you personally",
+          "es": "Coordinación con la formación de su LLC para que el contrato lo firme la entidad y no usted personalmente"
+        }
+      ],
+      "process": [
+        {
+          "title": {
+            "en": "Send the lease",
+            "es": "Envíe el contrato"
+          },
+          "body": {
+            "en": "Email us the proposed lease, letter of intent and any exhibits. We confirm the flat fee and the turnaround, usually two to four business days for an initial review.",
+            "es": "Envíenos por correo el contrato propuesto, la carta de intención y los anexos. Confirmamos la tarifa fija y el plazo, normalmente de dos a cuatro días hábiles para la revisión inicial."
+          }
+        },
+        {
+          "title": {
+            "en": "Review and strategy call",
+            "es": "Revisión y llamada de estrategia"
+          },
+          "body": {
+            "en": "You receive an issues memo ranking the problems by dollar impact. We meet by phone, Zoom or at our El Paso office to decide what to push for and what to accept.",
+            "es": "Recibe un memorándum que clasifica los problemas por impacto económico. Nos reunimos por teléfono, Zoom o en nuestra oficina en El Paso para decidir qué exigir y qué aceptar."
+          }
+        },
+        {
+          "title": {
+            "en": "Negotiate and sign",
+            "es": "Negociar y firmar"
+          },
+          "body": {
+            "en": "We send the redline to the other side, negotiate the language, and confirm the final version matches what was agreed before your business or entity signs.",
+            "es": "Enviamos el borrador marcado a la otra parte, negociamos el lenguaje y confirmamos que la versión final refleje lo acordado antes de que su negocio o entidad firme."
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "How much does a commercial lease review cost in El Paso?",
+            "es": "¿Cuánto cuesta la revisión de un arrendamiento comercial en El Paso?"
+          },
+          "a": {
+            "en": "We charge a flat fee for reviewing a standard retail, office or warehouse lease and delivering a written issues memo, and a second flat fee if you want us to negotiate the redline with the landlord. Both are quoted before we begin. For most El Paso businesses the review fee is well under one month's rent.",
+            "es": "Cobramos una tarifa fija por revisar un contrato estándar de local, oficina o bodega y entregar un memorándum escrito, y una segunda tarifa fija si quiere que negociemos los cambios con el arrendador. Ambas se cotizan antes de empezar. Para la mayoría de los negocios en El Paso la tarifa de revisión es bastante menor que un mes de renta."
+          }
+        },
+        {
+          "q": {
+            "en": "Should I sign a commercial lease personally or through my LLC?",
+            "es": "¿Debo firmar un arrendamiento comercial a mi nombre o a través de mi LLC?"
+          },
+          "a": {
+            "en": "Through the LLC whenever possible, so the entity and not you is the tenant. Most landlords will still ask for a personal guaranty; the goal is to limit it to a set number of months or have it burn off after two or three years of on-time rent. If you have not formed an LLC yet, we can do that before the lease is signed.",
+            "es": "A través de la LLC siempre que sea posible, para que la entidad y no usted sea el inquilino. La mayoría de los arrendadores igual pedirán una garantía personal; la meta es limitarla a cierto número de meses o que se extinga después de dos o tres años de renta puntual. Si aún no ha formado una LLC, podemos hacerlo antes de firmar el contrato."
+          }
+        },
+        {
+          "q": {
+            "en": "What does NNN or triple net mean in a Texas commercial lease?",
+            "es": "¿Qué significa NNN o triple neto en un arrendamiento comercial en Texas?"
+          },
+          "a": {
+            "en": "In a triple-net lease the tenant pays base rent plus its share of the property's taxes, insurance and common area maintenance. Those pass-through charges can rise sharply after a reappraisal or a major repair. We negotiate caps on annual CAM increases, exclude capital expenditures, and require an annual reconciliation with audit rights so El Paso tenants are not overbilled.",
+            "es": "En un contrato triple neto el inquilino paga la renta base más su parte de los impuestos, seguro y mantenimiento de áreas comunes de la propiedad. Esos cargos pueden subir mucho después de un reavalúo o una reparación mayor. Negociamos topes a los aumentos anuales de CAM, excluimos gastos de capital y exigimos una conciliación anual con derecho a auditar para que los inquilinos de El Paso no sean sobrefacturados."
+          }
+        },
+        {
+          "q": {
+            "en": "Can a landlord lock out a business tenant in Texas?",
+            "es": "¿Puede un arrendador cerrarle el local a un negocio en Texas?"
+          },
+          "a": {
+            "en": "Yes, if the tenant is delinquent in rent and the lease permits it. Property Code Section 93.002 requires the landlord to post a notice on the front door stating where the new key can be obtained during business hours. A lockout done without following the statute, or for reasons other than unpaid rent, entitles the tenant to damages, and a court can order the tenant back in.",
+            "es": "Sí, si el inquilino está atrasado en la renta y el contrato lo permite. La Sección 93.002 del Código de Propiedad exige que el arrendador coloque un aviso en la puerta principal indicando dónde se puede obtener la nueva llave en horario de negocio. Un cierre hecho sin seguir la ley, o por razones distintas a la renta impagada, da al inquilino derecho a daños, y una corte puede ordenar que lo dejen volver."
+          }
+        },
+        {
+          "q": {
+            "en": "Do I have to go to court for a commercial lease?",
+            "es": "¿Tengo que ir a corte por un arrendamiento comercial?"
+          },
+          "a": {
+            "en": "No. Reviewing, negotiating and signing a commercial lease is a transactional matter handled entirely from our El Paso office. Court is only involved if the relationship later breaks down into an eviction or a suit for unpaid rent, and a well-negotiated lease with cure periods and clear default terms is the best protection against that.",
+            "es": "No. Revisar, negociar y firmar un arrendamiento comercial es un asunto transaccional manejado completamente desde nuestra oficina en El Paso. La corte solo interviene si la relación después se rompe en un desalojo o una demanda por renta impagada, y un contrato bien negociado con periodos de corrección y términos claros de incumplimiento es la mejor protección contra eso."
+          }
+        }
+      ],
+      "keywords": [
+        "commercial lease lawyer El Paso",
+        "commercial lease review El Paso TX",
+        "business lease attorney Texas",
+        "triple net lease review El Paso",
+        "restaurant lease lawyer El Paso",
+        "Texas Property Code Chapter 93"
+      ],
+      "related": [
+        "llc-formation",
+        "contract-drafting",
+        "residential-lease",
+        "eviction-notice"
+      ],
+      "outbound": [
+        {
+          "label": {
+            "en": "Texas Property Code Chapter 93 — Commercial Tenancies",
+            "es": "Código de Propiedad de Texas, Capítulo 93 — Arrendamientos Comerciales"
+          },
+          "url": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.93.htm"
+        },
+        {
+          "label": {
+            "en": "Texas Secretary of State — Business Filings",
+            "es": "Secretario de Estado de Texas — Registros de Negocios"
+          },
+          "url": "https://www.sos.state.tx.us/corp/index.shtml"
+        }
+      ]
+    },
+    "deeds": {
+      "title": {
+        "en": "Deed Preparation Lawyer El Paso | El Paso Law Center",
+        "es": "Abogado de Escrituras en El Paso | El Paso Law Center"
+      },
+      "metaDescription": {
+        "en": "Warranty, quitclaim and gift deeds drafted by an El Paso attorney for a flat fee, notarized and recorded with the County Clerk. Call (915) 526-0787.",
+        "es": "Escrituras de garantía, finiquito y donación por un abogado de El Paso a tarifa fija, notarizadas y registradas con el County Clerk. Llame al (915) 526-0787."
+      },
+      "eyebrow": {
+        "en": "EL PASO DEED PREPARATION ATTORNEY",
+        "es": "PREPARACIÓN DE ESCRITURAS EN EL PASO"
+      },
+      "h1": {
+        "en": "Warranty, Quitclaim and Gift Deeds in El Paso — Drafted, Notarized and Recorded",
+        "es": "Escrituras de Garantía, Finiquito y Donación en El Paso — Redactadas, Notarizadas y Registradas"
+      },
+      "summary": {
+        "en": "Attorney-drafted deeds to transfer El Paso property between family members, add or remove a spouse, move property into an LLC or trust, or close a private sale — recorded with the El Paso County Clerk, no court involved.",
+        "es": "Escrituras redactadas por abogado para transferir propiedad en El Paso entre familiares, agregar o quitar a un cónyuge, pasar propiedad a una LLC o fideicomiso, o cerrar una venta privada — registradas con el County Clerk, sin corte."
+      },
+      "feeModel": {
+        "en": "Flat fee + El Paso County recording fee",
+        "es": "Tarifa fija + cuota de registro del Condado de El Paso"
+      },
+      "timeline": {
+        "en": "Typically 3–7 business days to draft, sign and record",
+        "es": "Normalmente 3–7 días hábiles para redactar, firmar y registrar"
+      },
+      "intro": [
+        {
+          "en": "A deed is the document that actually moves ownership of land or a house from one person to another. El Paso families use deeds constantly: a parent giving a lot in the Lower Valley to a son, a divorced spouse signing over the house on Zaragoza, siblings consolidating an inherited property, an investor moving rentals into an LLC, or neighbors closing a cash sale without a title company. The right deed depends on what the grantor is willing to promise about title. A general warranty deed promises clean title back to the beginning of time; a special warranty deed covers only the grantor's own period of ownership; a quitclaim deed promises nothing and simply releases whatever interest the signer may have; a gift deed transfers property for love and affection rather than money.",
+          "es": "Una escritura (deed) es el documento que realmente pasa la propiedad de un terreno o casa de una persona a otra. Las familias de El Paso usan escrituras todo el tiempo: un padre que le da un lote en el Valle Bajo a su hijo, un cónyuge divorciado que cede la casa en Zaragoza, hermanos que consolidan una propiedad heredada, un inversionista que pasa sus rentas a una LLC, o vecinos que cierran una venta de contado sin compañía de título. La escritura correcta depende de lo que el otorgante está dispuesto a prometer sobre el título. La escritura de garantía general (general warranty deed) garantiza título limpio desde el principio; la de garantía especial cubre solo el periodo en que el otorgante fue dueño; la de finiquito (quitclaim deed) no promete nada y solo cede el interés que el firmante pudiera tener; y la escritura de donación (gift deed) transfiere la propiedad por cariño y no por dinero."
+        },
+        {
+          "en": "Texas Property Code Chapter 5 sets the basic rules for conveyances, including the statutory warranty language in Section 5.023 and the required notices for certain properties. To be recordable, a deed must be signed by the grantor and acknowledged before a notary under Chapter 12, and it takes effect against third parties only when it is filed with the county clerk under Chapter 13. The deed must contain a legal description matching the prior deed of record, not just a street address. Homestead property adds another layer: under Article XVI, Section 50 of the Texas Constitution and Family Code Section 5.001, a married person generally cannot convey the homestead without the other spouse joining, even when title is in one name.",
+          "es": "El Capítulo 5 del Código de Propiedad de Texas fija las reglas básicas de las transferencias, incluyendo el lenguaje de garantía de la Sección 5.023 y los avisos obligatorios para ciertas propiedades. Para ser registrable, la escritura debe ser firmada por el otorgante y reconocida ante notario bajo el Capítulo 12, y surte efecto frente a terceros solo cuando se registra con el county clerk bajo el Capítulo 13. La escritura debe contener la descripción legal que coincida con la escritura anterior, no solo la dirección. La propiedad homestead agrega otra capa: bajo el Artículo XVI, Sección 50 de la Constitución de Texas y la Sección 5.001 del Código de Familia, una persona casada generalmente no puede transferir el homestead sin que el otro cónyuge también firme, aun cuando el título esté a nombre de uno solo."
+        },
+        {
+          "en": "We pull the current deed of record from the El Paso County Clerk, confirm the legal description and vesting, check for liens or a mortgage with a due-on-sale clause, and advise which deed type fits your goal. Then we draft the deed, arrange notarization at our office on Vista Del Sol or remotely, and e-record it with the El Paso County Clerk. There is no court appearance for any deed. The most common DIY mistakes we fix later are deeds with an address instead of a legal description, a missing spouse signature on a homestead, a quitclaim used where the buyer needed a warranty, and unrecorded deeds found in a drawer after the grantor has died. A flat attorney fee is far cheaper than the title curative work those errors create.",
+          "es": "Obtenemos la escritura vigente del County Clerk de El Paso, confirmamos la descripción legal y la titularidad, revisamos gravámenes o una hipoteca con cláusula de vencimiento por venta (due-on-sale), y le aconsejamos qué tipo de escritura cumple su objetivo. Luego redactamos la escritura, coordinamos la notarización en nuestra oficina en Vista Del Sol o a distancia, y la registramos electrónicamente con el County Clerk del Condado de El Paso. No hay comparecencia en corte para ninguna escritura. Los errores más comunes que corregimos después en escrituras hechas por cuenta propia son: usar la dirección en lugar de la descripción legal, la falta de firma del cónyuge en un homestead, un quitclaim donde el comprador necesitaba garantía, y escrituras sin registrar encontradas en un cajón después de que el otorgante falleció. Una tarifa fija de abogado sale mucho más barata que el trabajo de corrección de título que esos errores generan."
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Which deed do you need? Warranty vs. special warranty vs. quitclaim vs. gift",
+            "es": "¿Qué escritura necesita? Garantía, garantía especial, finiquito o donación"
+          },
+          "body": [
+            {
+              "en": "Use a general warranty deed when a buyer is paying real money and expects the seller to stand behind the title. Use a special warranty deed for sales from an estate, an LLC, or an investor who only wants to warrant their own period of ownership. Use a quitclaim deed for releases between people who already know each other, such as an ex-spouse releasing an interest after divorce, though Texas title companies dislike quitclaims and may not insure title based on one. Use a gift deed for transfers to children or relatives for no consideration, keeping in mind possible federal gift tax reporting on Form 709 and the loss of a stepped-up basis compared with a transfer on death deed or Lady Bird deed.",
+              "es": "Use una escritura de garantía general cuando el comprador paga dinero real y espera que el vendedor respalde el título. Use una escritura de garantía especial para ventas de una herencia, una LLC o un inversionista que solo quiere garantizar su propio periodo como dueño. Use un quitclaim para cesiones entre personas que ya se conocen, como un ex cónyuge que cede su interés después del divorcio, aunque a las compañías de título en Texas no les gustan los quitclaims y pueden negarse a asegurar título basado en uno. Use una escritura de donación para transferir a hijos o familiares sin pago, tomando en cuenta el posible reporte de impuesto federal de donaciones en el Formulario 709 y la pérdida de la base fiscal ajustada (stepped-up basis) en comparación con una escritura de transferencia por muerte o Lady Bird."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Recording with the El Paso County Clerk",
+            "es": "Registro con el County Clerk del Condado de El Paso"
+          },
+          "body": [
+            {
+              "en": "Deeds for property in El Paso County are recorded in the Official Public Records of the El Paso County Clerk. The clerk charges a per-page recording fee, requires the grantee's mailing address for tax notices, and rejects documents with illegible notary seals or missing acknowledgments. We e-record, so most deeds show up in the index within one to three business days. After recording, the El Paso Central Appraisal District updates the owner of record, and the new owner should file a homestead exemption application if the property will be their residence. We send you the recorded copy with the clerk's file stamp for your records.",
+              "es": "Las escrituras de propiedades en el Condado de El Paso se registran en los Registros Públicos Oficiales del County Clerk. El clerk cobra una cuota por página, exige la dirección postal del nuevo dueño para avisos de impuestos, y rechaza documentos con sellos de notario ilegibles o sin reconocimiento. Nosotros registramos electrónicamente, así que la mayoría de las escrituras aparecen en el índice en uno a tres días hábiles. Después del registro, el Distrito de Avalúo Central de El Paso actualiza al dueño de registro, y el nuevo dueño debe solicitar la exención de homestead si la propiedad será su residencia. Le enviamos la copia registrada con el sello del clerk para su archivo."
+            }
+          ]
+        }
+      ],
+      "included": [
+        {
+          "en": "Review of the current deed of record and legal description from El Paso County records",
+          "es": "Revisión de la escritura vigente y la descripción legal en los registros del Condado de El Paso"
+        },
+        {
+          "en": "Advice on which deed type fits your goal and its tax and homestead consequences",
+          "es": "Asesoría sobre qué tipo de escritura cumple su objetivo y sus consecuencias fiscales y de homestead"
+        },
+        {
+          "en": "Attorney-drafted warranty, special warranty, quitclaim or gift deed",
+          "es": "Escritura de garantía, garantía especial, finiquito o donación redactada por abogado"
+        },
+        {
+          "en": "Notarization at our office or coordination of remote signing",
+          "es": "Notarización en nuestra oficina o coordinación de firma a distancia"
+        },
+        {
+          "en": "E-recording with the El Paso County Clerk and a file-stamped copy for you",
+          "es": "Registro electrónico con el County Clerk de El Paso y copia con sello para usted"
+        },
+        {
+          "en": "Guidance on the homestead exemption filing with the El Paso Central Appraisal District",
+          "es": "Orientación para solicitar la exención de homestead ante el Distrito de Avalúo Central de El Paso"
+        }
+      ],
+      "process": [
+        {
+          "title": {
+            "en": "Tell us the transfer",
+            "es": "Cuéntenos la transferencia"
+          },
+          "body": {
+            "en": "Send the property address, who is giving and who is receiving, and why. We pull the current deed from the El Paso County Clerk, check for liens and homestead issues, and quote a flat fee.",
+            "es": "Envíe la dirección de la propiedad, quién cede y quién recibe, y por qué. Obtenemos la escritura vigente del County Clerk de El Paso, revisamos gravámenes y homestead, y cotizamos una tarifa fija."
+          }
+        },
+        {
+          "title": {
+            "en": "We draft, you sign",
+            "es": "Redactamos, usted firma"
+          },
+          "body": {
+            "en": "We prepare the correct deed with the full legal description and warranty language, explain it in English or Spanish, and notarize it at our office or arrange a remote signing.",
+            "es": "Preparamos la escritura correcta con la descripción legal completa y el lenguaje de garantía, se la explicamos en inglés o español, y la notarizamos en nuestra oficina o coordinamos una firma a distancia."
+          }
+        },
+        {
+          "title": {
+            "en": "We record it",
+            "es": "La registramos"
+          },
+          "body": {
+            "en": "We e-record the deed with the El Paso County Clerk, send you the file-stamped copy, and explain the next steps for the appraisal district and homestead exemption.",
+            "es": "Registramos electrónicamente la escritura con el County Clerk de El Paso, le enviamos la copia sellada y le explicamos los siguientes pasos ante el distrito de avalúo y la exención de homestead."
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "How much does it cost to prepare a deed in El Paso?",
+            "es": "¿Cuánto cuesta preparar una escritura en El Paso?"
+          },
+          "a": {
+            "en": "We charge a flat fee for a standard warranty, quitclaim or gift deed, plus the El Paso County Clerk's recording fee, which is a small per-page charge. The fee is quoted before we begin and covers drafting, notarization and recording. Deeds involving multiple tracts, an LLC or trust as grantee, or a title problem that must be fixed first are quoted separately.",
+            "es": "Cobramos una tarifa fija por una escritura estándar de garantía, finiquito o donación, más la cuota de registro del County Clerk de El Paso, que es un cargo pequeño por página. La tarifa se cotiza antes de empezar y cubre redacción, notarización y registro. Escrituras con varios lotes, una LLC o fideicomiso como receptor, o un problema de título que hay que corregir primero se cotizan por separado."
+          }
+        },
+        {
+          "q": {
+            "en": "How long does it take to transfer a deed in Texas?",
+            "es": "¿Cuánto tarda transferir una escritura en Texas?"
+          },
+          "a": {
+            "en": "Once we have the property information, drafting usually takes one to three business days. Signing can happen the same day you come in. E-recording with the El Paso County Clerk typically posts within one to three business days after signing, so most family transfers are complete in about a week from start to finish.",
+            "es": "Una vez que tenemos la información de la propiedad, la redacción normalmente toma de uno a tres días hábiles. La firma puede hacerse el mismo día que viene. El registro electrónico con el County Clerk de El Paso generalmente aparece en uno a tres días hábiles después de firmar, así que la mayoría de las transferencias familiares se completan en aproximadamente una semana."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I use a quitclaim deed to transfer a house to my child in Texas?",
+            "es": "¿Puedo usar un quitclaim para pasarle la casa a mi hijo en Texas?"
+          },
+          "a": {
+            "en": "You can, but a gift deed or a warranty deed is usually better. A quitclaim gives no warranty and Texas title companies often refuse to insure title that depends on one, which can cause problems when your child later sells or refinances. If your goal is to pass the house at your death while keeping control, a transfer on death deed or Lady Bird deed may be the smarter tool and preserves the stepped-up basis.",
+            "es": "Puede, pero una escritura de donación o de garantía suele ser mejor. Un quitclaim no da garantía y las compañías de título en Texas frecuentemente se niegan a asegurar un título que depende de uno, lo que causa problemas cuando su hijo luego vende o refinancia. Si su objetivo es pasar la casa al fallecer conservando el control, una escritura de transferencia por muerte o Lady Bird puede ser la herramienta más inteligente y conserva la base fiscal ajustada."
+          }
+        },
+        {
+          "q": {
+            "en": "Does my spouse have to sign the deed if the house is only in my name?",
+            "es": "¿Mi cónyuge tiene que firmar la escritura si la casa está solo a mi nombre?"
+          },
+          "a": {
+            "en": "If the property is your homestead, yes. Article XVI, Section 50 of the Texas Constitution and Texas Family Code Section 5.001 require both spouses to join in a conveyance of the homestead regardless of whose name is on title. Non-homestead separate property can be conveyed alone, but community property rules may still apply. We check this on every El Paso deed before anyone signs.",
+            "es": "Si la propiedad es su homestead, sí. El Artículo XVI, Sección 50 de la Constitución de Texas y la Sección 5.001 del Código de Familia exigen que ambos cónyuges firmen la transferencia del homestead sin importar a nombre de quién esté el título. La propiedad separada que no es homestead puede transferirse solo, pero las reglas de bienes gananciales aún pueden aplicar. Revisamos esto en cada escritura de El Paso antes de que alguien firme."
+          }
+        },
+        {
+          "q": {
+            "en": "Do I have to go to court to change a deed in El Paso?",
+            "es": "¿Tengo que ir a corte para cambiar una escritura en El Paso?"
+          },
+          "a": {
+            "en": "No. Preparing and recording a deed is a document transaction handled entirely between our office and the El Paso County Clerk. Court is only involved when the owner has died without a will or a deed and heirship must be established, which is a probate matter such as a determination of heirship or affidavit of heirship that we can also handle.",
+            "es": "No. Preparar y registrar una escritura es una transacción de documentos que se maneja completamente entre nuestra oficina y el County Clerk de El Paso. La corte solo interviene cuando el dueño falleció sin testamento ni escritura y hay que establecer a los herederos, lo cual es un asunto de sucesión como una determinación de herederos o declaración jurada de herederos que también podemos manejar."
+          }
+        }
+      ],
+      "keywords": [
+        "deed preparation El Paso",
+        "quitclaim deed El Paso TX",
+        "warranty deed lawyer El Paso",
+        "gift deed Texas attorney",
+        "transfer property to family member El Paso",
+        "record deed El Paso County Clerk"
+      ],
+      "related": [
+        "transfer-on-death-deed",
+        "lady-bird-deed",
+        "title-curative",
+        "affidavit-of-heirship"
+      ],
+      "outbound": [
+        {
+          "label": {
+            "en": "Texas Property Code Chapter 5 — Conveyances",
+            "es": "Código de Propiedad de Texas, Capítulo 5 — Transferencias"
+          },
+          "url": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.5.htm"
+        },
+        {
+          "label": {
+            "en": "El Paso County Clerk",
+            "es": "County Clerk del Condado de El Paso"
+          },
+          "url": "https://www.epcounty.com/clerk/"
+        }
+      ]
+    },
+    "eviction-notice": {
+      "title": {
+        "en": "Eviction Notice Lawyer El Paso | El Paso Law Center",
+        "es": "Aviso de Desalojo en El Paso | El Paso Law Center"
+      },
+      "metaDescription": {
+        "en": "Attorney-drafted notices to vacate and demand letters for El Paso landlords under Texas Property Code § 24.005. Flat fee. Call (915) 526-0787.",
+        "es": "Avisos de desalojo y cartas de demanda por abogado para arrendadores en El Paso bajo el § 24.005 del Código de Propiedad. Tarifa fija. Llame al (915) 526-0787."
+      },
+      "eyebrow": {
+        "en": "EL PASO LANDLORD EVICTION NOTICE ATTORNEY",
+        "es": "AVISOS DE DESALOJO EN EL PASO"
+      },
+      "h1": {
+        "en": "Eviction Notices and Demand Letters for El Paso Landlords — The First Step, Done Right",
+        "es": "Avisos de Desalojo y Cartas de Demanda para Arrendadores en El Paso — El Primer Paso, Bien Hecho"
+      },
+      "summary": {
+        "en": "We prepare and serve the Texas notice to vacate and the demand letters that must precede any eviction of a tenant in El Paso County — flat fee, no court appearance. The eviction suit itself, if it becomes necessary, is filed in a Justice of the Peace court and is a separate matter we can discuss with you.",
+        "es": "Preparamos y entregamos el aviso de desalojo (notice to vacate) de Texas y las cartas de demanda que deben preceder cualquier desalojo de un inquilino en el Condado de El Paso — tarifa fija, sin comparecer en corte. La demanda de desalojo en sí, si llega a ser necesaria, se presenta en una corte de Juez de Paz y es un asunto aparte que podemos platicar con usted."
+      },
+      "feeModel": {
+        "en": "Flat fee per notice or demand letter",
+        "es": "Tarifa fija por aviso o carta de demanda"
+      },
+      "timeline": {
+        "en": "Notice drafted and served within 1–2 business days; 3-day statutory period follows",
+        "es": "Aviso redactado y entregado en 1–2 días hábiles; después corre el plazo legal de 3 días"
+      },
+      "intro": [
+        {
+          "en": "Every eviction in Texas begins with a written notice to vacate, and more evictions in El Paso County are lost or delayed because of a defective notice than for any other reason. A landlord who texts the tenant, gives the wrong number of days, delivers it the wrong way, or includes demands the lease does not support will have the case dismissed by the Justice of the Peace and must start over, losing weeks of rent. This service is for El Paso landlords, property managers and owner-financers who need the notice to vacate, the rent demand letter, or a lease-violation cure letter drafted and served so that it holds up.",
+          "es": "Todo desalojo en Texas empieza con un aviso de desocupar por escrito (notice to vacate), y en el Condado de El Paso se pierden o se retrasan más desalojos por un aviso defectuoso que por cualquier otra razón. Un arrendador que le manda un texto al inquilino, da el número de días equivocado, lo entrega de forma incorrecta o incluye exigencias que el contrato no respalda, verá su caso desechado por el Juez de Paz y tendrá que empezar de nuevo, perdiendo semanas de renta. Este servicio es para arrendadores, administradores de propiedades y vendedores con financiamiento en El Paso que necesitan el aviso de desalojo, la carta de demanda de renta o la carta de corrección por violación del contrato redactados y entregados de manera que se sostengan."
+        },
+        {
+          "en": "Texas Property Code Section 24.005 requires the landlord to give a tenant at least three days' written notice to vacate before filing an eviction suit, unless the lease provides a shorter or longer period. The notice must be delivered by mail, by hand to the tenant or a person 16 or older at the premises, or by affixing it to the inside of the main entry door; posting on the outside of the door is allowed only under specific conditions added in 2015. For rental properties covered by the federal CARES Act, a 30-day notice may still be required. Chapter 92 adds separate rules for lockouts and utility shutoffs that a landlord may not use as self-help, and Section 24.005 also governs notices to holdover tenants and occupants under a defaulted contract for deed.",
+          "es": "La Sección 24.005 del Código de Propiedad de Texas exige que el arrendador entregue al inquilino un aviso escrito de desocupar con al menos tres días de anticipación antes de presentar una demanda de desalojo, a menos que el contrato fije un plazo más corto o más largo. El aviso debe entregarse por correo, en mano al inquilino o a una persona de 16 años o más en la vivienda, o pegándolo en el interior de la puerta principal; pegarlo por fuera de la puerta solo se permite bajo condiciones específicas agregadas en 2015. Para propiedades cubiertas por la ley federal CARES Act, todavía puede requerirse un aviso de 30 días. El Capítulo 92 agrega reglas separadas sobre cierres de cerradura y cortes de servicios que el arrendador no puede usar como autoayuda, y la Sección 24.005 también regula los avisos a inquilinos que permanecen después del plazo y a ocupantes bajo un contrato de venta a plazos incumplido."
+        },
+        {
+          "en": "We review your lease and the tenant's ledger, determine the correct notice period and grounds, draft the notice to vacate and any required demand letter, and serve it by a method that creates proof of delivery, with a signed certificate of service for the court file. Everything in this service happens outside a courtroom; you will not appear anywhere. If the tenant does not leave after the notice period expires, the next step is a forcible detainer suit filed in the El Paso County Justice of the Peace precinct where the property sits. That is a separate matter with its own filing fee, hearing and timeline, and we will explain it and quote it separately if you reach that point. Getting the notice right is what makes that later step fast.",
+          "es": "Revisamos su contrato y el estado de cuenta del inquilino, determinamos el plazo y los motivos correctos del aviso, redactamos el aviso de desalojo y cualquier carta de demanda requerida, y lo entregamos por un método que genere prueba de entrega, con un certificado de entrega firmado para el expediente de la corte. Todo en este servicio ocurre fuera de una sala de audiencias; usted no comparecerá en ningún lado. Si el inquilino no se va después de que vence el plazo del aviso, el siguiente paso es una demanda de desalojo (forcible detainer) presentada en la corte del Juez de Paz del Condado de El Paso del precinto donde está la propiedad. Ese es un asunto aparte con su propia cuota, audiencia y plazo, y se lo explicamos y cotizamos por separado si llega a ese punto. Hacer bien el aviso es lo que hace que ese paso posterior sea rápido."
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Why eviction notices get thrown out in El Paso JP courts",
+            "es": "Por qué los avisos de desalojo se desechan en las cortes de Juez de Paz de El Paso"
+          },
+          "body": [
+            {
+              "en": "The most common defects: a notice that demands rent or vacate when the lease requires a separate notice to pay before a notice to vacate; a notice that counts the day of delivery or a weekend as one of the three days; delivery by text message or email when the lease does not authorize electronic notice under Section 24.005(f-1); a notice posted on the outside of the door without the required mailing; a notice signed by a manager without authority; a notice served before the grace period in the lease has run; and a notice given to only one of several adult tenants. Each mistake means dismissal, a new notice, and a new filing fee. An attorney-prepared notice for a flat fee avoids all of them.",
+              "es": "Los defectos más comunes: un aviso que exige pagar o desocupar cuando el contrato requiere un aviso de pago separado antes del aviso de desocupar; un aviso que cuenta el día de entrega o un fin de semana como uno de los tres días; entrega por mensaje de texto o correo electrónico cuando el contrato no autoriza aviso electrónico bajo la Sección 24.005(f-1); un aviso pegado por fuera de la puerta sin el envío por correo requerido; un aviso firmado por un administrador sin autoridad; un aviso entregado antes de que corra el periodo de gracia del contrato; y un aviso dado a solo uno de varios inquilinos adultos. Cada error significa desechar el caso, un aviso nuevo y una nueva cuota de presentación. Un aviso preparado por abogado a tarifa fija evita todos."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "What happens after the notice period, and what we do not include",
+            "es": "Qué pasa después del plazo del aviso, y qué no está incluido"
+          },
+          "body": [
+            {
+              "en": "Many tenants pay or move once they receive a properly drafted notice from a law office, which is the best outcome for a landlord. If the tenant stays, the landlord may file an eviction petition in the Justice of the Peace court for the precinct where the property is located in El Paso County. The court sets a hearing 10 to 21 days after service, and a judgment for possession is followed by a writ of possession no sooner than the sixth day after judgment under Property Code Section 24.0061. Filing, hearing and writ costs are set by the court. The eviction suit and any hearing are not part of this flat-fee notice service; if you need to proceed, we will discuss representation for that stage separately.",
+              "es": "Muchos inquilinos pagan o se mudan en cuanto reciben un aviso bien redactado de un despacho de abogados, que es el mejor resultado para un arrendador. Si el inquilino se queda, el arrendador puede presentar una petición de desalojo en la corte del Juez de Paz del precinto donde se ubica la propiedad en el Condado de El Paso. La corte fija una audiencia de 10 a 21 días después de la notificación, y a la sentencia de posesión le sigue una orden de posesión (writ of possession) no antes del sexto día después de la sentencia bajo la Sección 24.0061 del Código de Propiedad. Las cuotas de presentación, audiencia y orden las fija la corte. La demanda de desalojo y cualquier audiencia no forman parte de este servicio de aviso a tarifa fija; si necesita proceder, platicaremos la representación para esa etapa por separado."
+            }
+          ]
+        }
+      ],
+      "included": [
+        {
+          "en": "Review of your lease, payment ledger and the tenant's default to confirm grounds and notice period",
+          "es": "Revisión de su contrato, estado de cuenta y el incumplimiento del inquilino para confirmar motivos y plazo del aviso"
+        },
+        {
+          "en": "Attorney-drafted notice to vacate compliant with Texas Property Code Section 24.005 and your lease",
+          "es": "Aviso de desalojo redactado por abogado conforme a la Sección 24.005 del Código de Propiedad de Texas y su contrato"
+        },
+        {
+          "en": "Demand letter for unpaid rent, or cure-or-quit letter for lease violations, when the lease requires one first",
+          "es": "Carta de demanda por renta impagada, o carta de corregir o desocupar por violaciones al contrato, cuando el contrato la exige primero"
+        },
+        {
+          "en": "Service by certified and regular mail, hand delivery, or posting as the statute allows, with proof of delivery",
+          "es": "Entrega por correo certificado y ordinario, en mano, o pegado como lo permite la ley, con prueba de entrega"
+        },
+        {
+          "en": "Signed certificate of service and a copy of the notice ready for a future eviction filing",
+          "es": "Certificado de entrega firmado y copia del aviso lista para una futura presentación de desalojo"
+        },
+        {
+          "en": "Spanish-language version of the notice when the tenant negotiated in Spanish",
+          "es": "Versión en español del aviso cuando el inquilino negoció en español"
+        },
+        {
+          "en": "Guidance on what to do, and what not to do, while the notice period runs",
+          "es": "Orientación sobre qué hacer, y qué no hacer, mientras corre el plazo del aviso"
+        }
+      ],
+      "process": [
+        {
+          "title": {
+            "en": "Send the lease and the problem",
+            "es": "Envíe el contrato y el problema"
+          },
+          "body": {
+            "en": "Email the lease, the tenant's payment history and what has happened. We confirm the correct type of notice and period, and quote a flat fee the same day.",
+            "es": "Envíe por correo el contrato, el historial de pagos del inquilino y lo que ha pasado. Confirmamos el tipo de aviso y el plazo correctos, y cotizamos una tarifa fija el mismo día."
+          }
+        },
+        {
+          "title": {
+            "en": "We draft and serve",
+            "es": "Redactamos y entregamos"
+          },
+          "body": {
+            "en": "Within one to two business days the notice to vacate or demand letter is drafted on law-office letterhead and served by a method that creates proof, with a certificate of service for your file.",
+            "es": "En uno a dos días hábiles el aviso de desalojo o la carta de demanda se redacta en papel membretado del despacho y se entrega por un método que genera prueba, con certificado de entrega para su expediente."
+          }
+        },
+        {
+          "title": {
+            "en": "The notice period runs",
+            "es": "Corre el plazo del aviso"
+          },
+          "body": {
+            "en": "Most El Paso tenants pay or leave. If not, we explain the eviction filing in the El Paso County Justice of the Peace court and quote that separate matter if you choose to proceed.",
+            "es": "La mayoría de los inquilinos en El Paso pagan o se van. Si no, le explicamos la presentación del desalojo en la corte del Juez de Paz del Condado de El Paso y cotizamos ese asunto aparte si decide proceder."
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "How many days notice do you have to give a tenant to move out in Texas?",
+            "es": "¿Cuántos días de aviso hay que darle a un inquilino para que se salga en Texas?"
+          },
+          "a": {
+            "en": "At least three days under Texas Property Code Section 24.005, unless your lease sets a different period. Many El Paso leases shorten it to one day, and some require a separate notice to pay before a notice to vacate. Properties covered by the federal CARES Act may need 30 days. We read your lease first so the notice states the correct period.",
+            "es": "Al menos tres días bajo la Sección 24.005 del Código de Propiedad de Texas, a menos que su contrato fije un plazo diferente. Muchos contratos en El Paso lo acortan a un día, y algunos exigen un aviso de pago separado antes del aviso de desocupar. Las propiedades cubiertas por la ley federal CARES Act pueden necesitar 30 días. Primero leemos su contrato para que el aviso indique el plazo correcto."
+          }
+        },
+        {
+          "q": {
+            "en": "How much does an eviction notice cost in El Paso?",
+            "es": "¿Cuánto cuesta un aviso de desalojo en El Paso?"
+          },
+          "a": {
+            "en": "We charge a flat fee for drafting and serving the notice to vacate, with a small additional fee if the lease also requires a separate rent demand or cure letter. Certified mail costs are included. The flat fee covers the notice stage only; the eviction suit in Justice of the Peace court, if needed, is quoted separately along with the court's filing and service fees.",
+            "es": "Cobramos una tarifa fija por redactar y entregar el aviso de desalojo, con una tarifa adicional pequeña si el contrato también exige una carta de demanda de renta o de corrección separada. El costo del correo certificado está incluido. La tarifa fija cubre solo la etapa del aviso; la demanda de desalojo en la corte de Juez de Paz, si se necesita, se cotiza por separado junto con las cuotas de presentación y notificación de la corte."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I change the locks or shut off utilities on a tenant who has not paid?",
+            "es": "¿Puedo cambiar las cerraduras o cortar los servicios a un inquilino que no ha pagado?"
+          },
+          "a": {
+            "en": "Not as a way to force them out. Texas Property Code Section 92.0081 allows a lockout for unpaid rent only with strict prior notice and a duty to provide a new key on request, and Section 92.008 prohibits shutting off utilities. Violations expose an El Paso landlord to a penalty of one month's rent plus $1,000, actual damages and attorney fees. The lawful route is the notice to vacate followed by an eviction suit.",
+            "es": "No como forma de sacarlos. La Sección 92.0081 del Código de Propiedad de Texas permite un cierre de cerradura por renta impagada solo con aviso previo estricto y el deber de dar una llave nueva a solicitud, y la Sección 92.008 prohíbe cortar los servicios. Las violaciones exponen a un arrendador en El Paso a una multa de un mes de renta más $1,000, daños reales y honorarios de abogado. La ruta legal es el aviso de desalojo seguido de una demanda de desalojo."
+          }
+        },
+        {
+          "q": {
+            "en": "Do I have to go to court to evict a tenant in El Paso?",
+            "es": "¿Tengo que ir a corte para desalojar a un inquilino en El Paso?"
+          },
+          "a": {
+            "en": "The notice stage, which is what this service covers, involves no court at all, and many tenants leave once they receive it. If the tenant stays, the eviction itself is a lawsuit filed in the El Paso County Justice of the Peace court for the property's precinct, with a hearing the landlord or their attorney attends. That is a separate matter we can discuss with you if it becomes necessary.",
+            "es": "La etapa del aviso, que es lo que cubre este servicio, no involucra ninguna corte, y muchos inquilinos se van en cuanto lo reciben. Si el inquilino se queda, el desalojo en sí es una demanda presentada en la corte del Juez de Paz del Condado de El Paso del precinto de la propiedad, con una audiencia a la que asiste el arrendador o su abogado. Ese es un asunto aparte que podemos platicar con usted si llega a ser necesario."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I evict a buyer under a contract for deed or a family member who pays no rent?",
+            "es": "¿Puedo desalojar a un comprador bajo contrato de venta a plazos o a un familiar que no paga renta?"
+          },
+          "a": {
+            "en": "Sometimes, but the notice differs. A contract-for-deed buyer must first receive the default and cure notices required by Property Code Sections 5.063 and 5.064, and after enough payments gains foreclosure-style protection. A family member or guest with no lease is a tenant at will who gets the standard three-day notice to vacate. We identify the occupant's legal status before drafting so the right notice goes out.",
+            "es": "A veces, pero el aviso es diferente. Un comprador bajo contrato de venta a plazos primero debe recibir los avisos de incumplimiento y corrección que exigen las Secciones 5.063 y 5.064 del Código de Propiedad, y después de suficientes pagos obtiene protección tipo ejecución hipotecaria. Un familiar o invitado sin contrato es un inquilino a voluntad que recibe el aviso estándar de tres días. Identificamos el estatus legal del ocupante antes de redactar para que salga el aviso correcto."
+          }
+        }
+      ],
+      "keywords": [
+        "eviction notice lawyer El Paso",
+        "notice to vacate Texas attorney",
+        "landlord lawyer El Paso TX",
+        "3 day notice to vacate El Paso",
+        "eviction demand letter Texas",
+        "Texas Property Code 24.005"
+      ],
+      "related": [
+        "residential-lease",
+        "demand-letter",
+        "commercial-lease",
+        "owner-finance"
+      ],
+      "outbound": [
+        {
+          "label": {
+            "en": "Texas Property Code Chapter 24 — Forcible Entry and Detainer",
+            "es": "Código de Propiedad de Texas, Capítulo 24 — Desalojos"
+          },
+          "url": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.24.htm"
+        },
+        {
+          "label": {
+            "en": "El Paso County Justice of the Peace Courts",
+            "es": "Cortes de Juez de Paz del Condado de El Paso"
+          },
+          "url": "https://www.epcounty.com/jp/"
+        }
+      ]
+    },
+    "lease-review": {
+      "title": {
+        "en": "Lease Review for Tenants El Paso | El Paso Law Center",
+        "es": "Revisión de Contrato de Renta en El Paso | El Paso Law Center"
+      },
+      "metaDescription": {
+        "en": "Flat-fee lease review for El Paso renters before you sign or when your landlord breaks the rules. Know your Texas tenant rights. Call (915) 526-0787.",
+        "es": "Revisión de contrato de renta a tarifa fija para inquilinos en El Paso, antes de firmar o cuando el arrendador rompe las reglas. Llame al (915) 526-0787."
+      },
+      "eyebrow": {
+        "en": "EL PASO TENANT LEASE REVIEW",
+        "es": "REVISIÓN DE CONTRATO DE RENTA EN EL PASO"
+      },
+      "h1": {
+        "en": "Lease Review for El Paso Tenants — Understand Your Rental Agreement Before You Sign",
+        "es": "Revisión de Contrato de Renta para Inquilinos en El Paso — Entienda su Contrato Antes de Firmar"
+      },
+      "summary": {
+        "en": "A Texas attorney reads your residential lease, tells you which clauses are unenforceable, what you are really committing to, and how to handle deposit, repair and early-termination problems — for a flat fee, with no court.",
+        "es": "Un abogado de Texas lee su contrato de renta, le dice qué cláusulas no son ejecutables, a qué se está comprometiendo realmente, y cómo manejar problemas de depósito, reparaciones y terminación anticipada — a tarifa fija, sin corte."
+      },
+      "feeModel": {
+        "en": "Flat fee, quoted upfront",
+        "es": "Tarifa fija, cotizada por adelantado"
+      },
+      "timeline": {
+        "en": "Typically 1–3 business days",
+        "es": "Normalmente 1–3 días hábiles"
+      },
+      "intro": [
+        {
+          "en": "Renters in El Paso sign leases of 20, 30 or 40 pages under pressure, often the same day they tour the apartment, and rarely get to read them. Soldiers arriving at Fort Bliss, UTEP students, families moving from Juárez and workers relocating for a job all end up bound by terms they never understood: automatic renewals, reletting fees, mandatory renter's insurance, pest and utility add-ons, and early termination penalties. A lease review is the tenant's chance to have someone on their side read the document, explain it in English or Spanish, and flag anything that Texas law does not allow.",
+          "es": "Los inquilinos en El Paso firman contratos de 20, 30 o 40 páginas bajo presión, muchas veces el mismo día que ven el departamento, y rara vez logran leerlos. Soldados que llegan a Fort Bliss, estudiantes de UTEP, familias que se mudan desde Juárez y trabajadores que se cambian por un empleo terminan atados a términos que nunca entendieron: renovaciones automáticas, cuotas de re-renta, seguro de inquilino obligatorio, cargos extra de plagas y servicios, y multas por terminación anticipada. Una revisión de contrato es la oportunidad del inquilino de que alguien de su lado lea el documento, se lo explique en inglés o español, y señale todo lo que la ley de Texas no permite."
+        },
+        {
+          "en": "Texas Property Code Chapter 92 gives residential tenants rights that no lease can take away. Section 92.006 voids most waivers of the landlord's duty to repair conditions that affect health or safety. Section 92.056 gives tenants a repair-and-deduct and lease-termination remedy after proper written notice. Sections 92.103 and 92.109 require the deposit back within 30 days and penalize bad-faith retention. Section 92.017 lets servicemembers terminate on deployment or permanent change of station orders, and Section 92.016 does the same for victims of family violence. Section 92.0081 bars lockouts without the required notices, and Section 92.331 prohibits retaliation for exercising these rights.",
+          "es": "El Capítulo 92 del Código de Propiedad de Texas da a los inquilinos residenciales derechos que ningún contrato puede quitar. La Sección 92.006 anula la mayoría de las renuncias al deber del arrendador de reparar condiciones que afectan la salud o seguridad. La Sección 92.056 da al inquilino el remedio de reparar y descontar o terminar el contrato después de aviso escrito adecuado. Las Secciones 92.103 y 92.109 exigen la devolución del depósito dentro de 30 días y castigan la retención de mala fe. La Sección 92.017 permite a militares terminar el contrato por despliegue u órdenes de cambio permanente de estación, y la Sección 92.016 hace lo mismo para víctimas de violencia familiar. La Sección 92.0081 prohíbe los cierres de cerradura sin los avisos requeridos, y la Sección 92.331 prohíbe represalias por ejercer estos derechos."
+        },
+        {
+          "en": "We read the entire lease and every addendum, then send you a plain-language summary: what you owe, when you can leave, which clauses are void under Chapter 92, and what to negotiate before signing. If you are already in the lease and the landlord is refusing repairs, keeping a deposit or threatening a lockout, we explain your options and draft the statutory notices or a demand letter that starts the clock on your remedies. None of this involves a court appearance. If a landlord ultimately has to be sued for a deposit or repairs, that is a separate matter in an El Paso Justice of the Peace court that we can discuss with you when the time comes.",
+          "es": "Leemos el contrato completo y cada anexo, y le enviamos un resumen en lenguaje sencillo: qué debe, cuándo puede irse, qué cláusulas son nulas bajo el Capítulo 92, y qué negociar antes de firmar. Si ya está en el contrato y el arrendador se niega a reparar, retiene el depósito o amenaza con cerrarle la puerta, le explicamos sus opciones y redactamos los avisos legales o una carta de demanda que activa sus remedios. Nada de esto involucra comparecer en corte. Si al final hay que demandar al arrendador por un depósito o reparaciones, ese es un asunto aparte en una corte de Juez de Paz en El Paso que podemos platicar con usted cuando llegue el momento."
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "What we look for in an El Paso apartment lease",
+            "es": "Qué buscamos en un contrato de departamento en El Paso"
+          },
+          "body": [
+            {
+              "en": "The Texas Apartment Association lease used by most El Paso complexes is heavily landlord-friendly. We check the reletting charge and early termination fee, the automatic month-to-month renewal and the notice required to stop it, late-fee and returned-check charges against Section 92.019, mandatory insurance and utility billing addenda, the pet and animal rules, the condition-of-premises clause and move-in form, jury waiver and attorney-fee provisions, and any clause that shifts repair obligations onto the tenant. For private landlords, we also confirm the lease is not missing the bold-print statutory notices, which changes your rights.",
+              "es": "El contrato de la Texas Apartment Association que usan la mayoría de los complejos en El Paso favorece fuertemente al arrendador. Revisamos el cargo de re-renta y la multa por terminación anticipada, la renovación automática mes a mes y el aviso necesario para detenerla, los recargos y cargos por cheque devuelto contra la Sección 92.019, los anexos de seguro obligatorio y cobro de servicios, las reglas de mascotas y animales, la cláusula de condición del inmueble y el formulario de entrada, la renuncia a jurado y las disposiciones de honorarios, y cualquier cláusula que pase obligaciones de reparación al inquilino. Con arrendadores privados, también confirmamos que el contrato no omita los avisos legales en negritas, lo cual cambia sus derechos."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Breaking a lease early in Texas: what actually applies",
+            "es": "Terminar un contrato antes de tiempo en Texas: qué aplica realmente"
+          },
+          "body": [
+            {
+              "en": "Texas has no general right to break a lease, but several statutory exits exist: military orders under Section 92.017, family violence with a protective order under Section 92.016, certain sexual offenses or stalking under Section 92.0161, the landlord's failure to repair after proper notice under Section 92.056, and the landlord's failure to install required security devices. Outside those, the lease's own early-termination or buyout clause controls, and the landlord has a duty under Section 91.006 to mitigate damages by trying to re-rent. We tell El Paso tenants exactly which exit, if any, applies and how to document it so the landlord cannot chase them for the rest of the term.",
+              "es": "Texas no tiene un derecho general de terminar un contrato, pero existen varias salidas legales: órdenes militares bajo la Sección 92.017, violencia familiar con orden de protección bajo la Sección 92.016, ciertos delitos sexuales o acoso bajo la Sección 92.0161, la falta de reparación del arrendador después de aviso adecuado bajo la Sección 92.056, y la falta de instalación de dispositivos de seguridad obligatorios. Fuera de esas, controla la cláusula de terminación anticipada o buyout del propio contrato, y el arrendador tiene el deber bajo la Sección 91.006 de mitigar daños intentando volver a rentar. A los inquilinos de El Paso les decimos exactamente qué salida aplica, si alguna, y cómo documentarla para que el arrendador no los persiga por el resto del plazo."
+            }
+          ]
+        }
+      ],
+      "included": [
+        {
+          "en": "Full read of the lease and every addendum, rider and community rules attachment",
+          "es": "Lectura completa del contrato y cada anexo, adenda y reglamento de la comunidad"
+        },
+        {
+          "en": "Written plain-language summary of costs, deadlines, renewal terms and exit options",
+          "es": "Resumen escrito en lenguaje sencillo de costos, plazos, renovación y opciones de salida"
+        },
+        {
+          "en": "List of clauses that are void or limited under Texas Property Code Chapter 92",
+          "es": "Lista de cláusulas nulas o limitadas bajo el Capítulo 92 del Código de Propiedad de Texas"
+        },
+        {
+          "en": "Suggested changes to request before signing",
+          "es": "Cambios sugeridos para pedir antes de firmar"
+        },
+        {
+          "en": "A phone or Zoom call to walk through the findings in English or Spanish",
+          "es": "Una llamada telefónica o por Zoom para repasar los hallazgos en inglés o español"
+        },
+        {
+          "en": "For current tenants: the statutory repair notice, deposit demand or termination letter your situation calls for",
+          "es": "Para inquilinos actuales: el aviso legal de reparación, la carta de demanda de depósito o la carta de terminación que su situación requiere"
+        }
+      ],
+      "process": [
+        {
+          "title": {
+            "en": "Send us the lease",
+            "es": "Envíenos el contrato"
+          },
+          "body": {
+            "en": "Email or text a photo or PDF of the full lease and addenda, and tell us what worries you: the cost, leaving early, a repair, or a deposit. We quote a flat fee immediately.",
+            "es": "Envíe por correo o mensaje una foto o PDF del contrato completo y los anexos, y díganos qué le preocupa: el costo, salirse antes, una reparación o un depósito. Cotizamos una tarifa fija de inmediato."
+          }
+        },
+        {
+          "title": {
+            "en": "Attorney review",
+            "es": "Revisión del abogado"
+          },
+          "body": {
+            "en": "Within one to three business days you receive a written summary of what the lease really says, the clauses Texas will not enforce, and what to ask the landlord to change.",
+            "es": "En uno a tres días hábiles recibe un resumen escrito de lo que realmente dice el contrato, las cláusulas que Texas no ejecutará, y qué pedirle al arrendador que cambie."
+          }
+        },
+        {
+          "title": {
+            "en": "Call and next steps",
+            "es": "Llamada y siguientes pasos"
+          },
+          "body": {
+            "en": "We go over the findings by phone or Zoom, answer your questions, and if needed prepare the notice or demand letter that protects your rights with your El Paso landlord.",
+            "es": "Repasamos los hallazgos por teléfono o Zoom, respondemos sus preguntas y, si hace falta, preparamos el aviso o la carta de demanda que protege sus derechos frente a su arrendador en El Paso."
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "How much does a lease review cost in El Paso?",
+            "es": "¿Cuánto cuesta una revisión de contrato de renta en El Paso?"
+          },
+          "a": {
+            "en": "We charge a modest flat fee for a residential lease review, quoted before we start, and it includes the written summary and a follow-up call. Drafting a repair notice, deposit demand or termination letter for an existing tenancy is a separate flat fee. Compared with a reletting charge or a lost deposit, an El Paso tenant usually comes out well ahead.",
+            "es": "Cobramos una tarifa fija modesta por la revisión de un contrato de renta residencial, cotizada antes de empezar, e incluye el resumen escrito y una llamada de seguimiento. Redactar un aviso de reparación, una demanda de depósito o una carta de terminación para una renta existente es otra tarifa fija. Comparado con un cargo de re-renta o un depósito perdido, un inquilino en El Paso normalmente sale ganando."
+          }
+        },
+        {
+          "q": {
+            "en": "Can my landlord keep my security deposit in Texas?",
+            "es": "¿Puede mi arrendador quedarse con mi depósito en Texas?"
+          },
+          "a": {
+            "en": "Only for actual damages beyond normal wear and tear, unpaid rent or other charges the lease allows, and only if the landlord sends an itemized list within 30 days after you move out and provide a forwarding address. A landlord who keeps a deposit in bad faith owes you three times the amount plus $100 and attorney fees under Property Code Section 92.109. A written demand letter usually resolves it.",
+            "es": "Solo por daños reales más allá del desgaste normal, renta impagada u otros cargos que el contrato permita, y solo si el arrendador envía una lista detallada dentro de 30 días después de que usted se muda y da una dirección de reenvío. Un arrendador que retiene el depósito de mala fe le debe tres veces la cantidad más $100 y honorarios de abogado bajo la Sección 92.109 del Código de Propiedad. Una carta de demanda escrita normalmente lo resuelve."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I break my lease in El Paso because of military orders?",
+            "es": "¿Puedo terminar mi contrato en El Paso por órdenes militares?"
+          },
+          "a": {
+            "en": "Yes. Texas Property Code Section 92.017 and the federal Servicemembers Civil Relief Act let a servicemember terminate a residential lease with written notice and a copy of deployment or permanent change of station orders. The lease ends 30 days after the next rent due date, and the landlord cannot charge an early-termination fee. We prepare the notice for Fort Bliss families regularly.",
+            "es": "Sí. La Sección 92.017 del Código de Propiedad de Texas y la ley federal Servicemembers Civil Relief Act permiten a un militar terminar un contrato residencial con aviso escrito y copia de las órdenes de despliegue o cambio permanente de estación. El contrato termina 30 días después de la siguiente fecha de pago de renta, y el arrendador no puede cobrar multa por terminación anticipada. Preparamos el aviso para familias de Fort Bliss con regularidad."
+          }
+        },
+        {
+          "q": {
+            "en": "What can I do if my landlord will not make repairs in Texas?",
+            "es": "¿Qué puedo hacer si mi arrendador no hace reparaciones en Texas?"
+          },
+          "a": {
+            "en": "Send written notice of the problem to the address in your lease, be current on rent, and give a reasonable time, presumed to be seven days. If nothing happens, send a second notice. After that, Section 92.056 lets you terminate the lease, repair and deduct within limits, or sue for damages and a rent reduction. The notices must be done precisely, which is what we prepare for El Paso tenants.",
+            "es": "Envíe aviso escrito del problema a la dirección que aparece en su contrato, esté al corriente en la renta y dé un tiempo razonable, que se presume de siete días. Si no pasa nada, envíe un segundo aviso. Después de eso, la Sección 92.056 le permite terminar el contrato, reparar y descontar dentro de ciertos límites, o demandar por daños y reducción de renta. Los avisos deben hacerse con precisión, y eso es lo que preparamos para inquilinos en El Paso."
+          }
+        },
+        {
+          "q": {
+            "en": "Do I have to go to court to enforce my tenant rights?",
+            "es": "¿Tengo que ir a corte para hacer valer mis derechos de inquilino?"
+          },
+          "a": {
+            "en": "Usually not. Most repair, deposit and early-termination problems are resolved once the landlord receives a properly drafted statutory notice or demand letter from an attorney. The lease review itself never involves court. If a landlord refuses to comply, a small claims suit in an El Paso Justice of the Peace court is available, and we can discuss that separately if it becomes necessary.",
+            "es": "Normalmente no. La mayoría de los problemas de reparaciones, depósito y terminación anticipada se resuelven una vez que el arrendador recibe un aviso legal o carta de demanda bien redactada por un abogado. La revisión del contrato nunca involucra corte. Si el arrendador se niega a cumplir, existe una demanda de menor cuantía en una corte de Juez de Paz en El Paso, y podemos platicar eso por separado si llega a ser necesario."
+          }
+        }
+      ],
+      "keywords": [
+        "lease review lawyer El Paso",
+        "tenant rights attorney El Paso TX",
+        "break lease Texas military orders",
+        "security deposit lawyer El Paso",
+        "apartment lease review Texas",
+        "landlord not making repairs Texas"
+      ],
+      "related": [
+        "demand-letter",
+        "contract-review",
+        "residential-lease",
+        "debt-collector-harassment"
+      ],
+      "outbound": [
+        {
+          "label": {
+            "en": "Texas Property Code Chapter 92 — Residential Tenancies",
+            "es": "Código de Propiedad de Texas, Capítulo 92 — Rentas Residenciales"
+          },
+          "url": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.92.htm"
+        },
+        {
+          "label": {
+            "en": "Texas Attorney General — Renters' Rights",
+            "es": "Procurador General de Texas — Derechos del Inquilino"
+          },
+          "url": "https://www.texasattorneygeneral.gov/consumer-protection/house-and-home/renters-rights"
+        }
+      ]
+    },
+    "owner-finance": {
+      "title": {
+        "en": "Owner Financing Lawyer El Paso | El Paso Law Center",
+        "es": "Financiamiento del Vendedor en El Paso | El Paso Law Center"
+      },
+      "metaDescription": {
+        "en": "Owner-financing and contract-for-deed documents for El Paso sellers and buyers: note, deed of trust and disclosures. Flat fee. Call (915) 526-0787.",
+        "es": "Documentos de financiamiento del vendedor y contrato de venta a plazos en El Paso: pagaré, deed of trust y avisos legales. Tarifa fija. Llame al (915) 526-0787."
+      },
+      "eyebrow": {
+        "en": "EL PASO OWNER FINANCING ATTORNEY",
+        "es": "FINANCIAMIENTO DEL VENDEDOR EN EL PASO"
+      },
+      "h1": {
+        "en": "Owner Financing Documents in El Paso — Seller-Financed Sales Done the Legal Way",
+        "es": "Documentos de Financiamiento del Vendedor en El Paso — Ventas a Plazos Hechas Legalmente"
+      },
+      "summary": {
+        "en": "Complete seller-financing packages for El Paso property: warranty deed with vendor's lien, promissory note, deed of trust and every disclosure the Texas Property Code requires — plus conversion of risky contracts for deed into proper financing.",
+        "es": "Paquetes completos de financiamiento del vendedor para propiedad en El Paso: escritura con vendor's lien, pagaré, deed of trust y cada aviso que exige el Código de Propiedad de Texas — más conversión de contratos de venta a plazos riesgosos en financiamiento adecuado."
+      },
+      "feeModel": {
+        "en": "Flat fee + El Paso County recording fees",
+        "es": "Tarifa fija + cuotas de registro del Condado de El Paso"
+      },
+      "timeline": {
+        "en": "Typically 1–2 weeks from intake to recorded documents",
+        "es": "Normalmente 1–2 semanas desde la consulta hasta los documentos registrados"
+      },
+      "intro": [
+        {
+          "en": "Owner financing, also called seller financing, is how a large share of homes and lots in El Paso County change hands, especially in the Lower Valley, Montana Vista, Horizon City and the colonias where buyers may not qualify for a bank loan. The seller acts as the lender: the buyer makes a down payment and monthly payments directly to the seller until the balance is paid. Done correctly, it is a legitimate and useful arrangement for both sides. Done with a two-page handwritten contrato or an old-style contract for deed, it exposes the seller to statutory penalties and leaves the buyer with no recorded ownership after years of payments.",
+          "es": "El financiamiento del vendedor (owner financing) es la forma en que una gran parte de las casas y terrenos del Condado de El Paso cambian de dueño, especialmente en el Valle Bajo, Montana Vista, Horizon City y las colonias donde los compradores no califican para un préstamo bancario. El vendedor actúa como prestamista: el comprador da un enganche y paga mensualidades directo al vendedor hasta liquidar el saldo. Hecho correctamente, es un arreglo legítimo y útil para ambos. Hecho con un contrato de dos páginas escrito a mano o un contrato de venta a plazos (contract for deed) al estilo antiguo, expone al vendedor a multas legales y deja al comprador sin propiedad registrada después de años de pagos."
+        },
+        {
+          "en": "Texas Property Code Chapter 5, Subchapter D, starting at Section 5.061, tightly regulates executory contracts, meaning contracts for deed, lease-purchase agreements and similar arrangements where the buyer takes possession but title does not pass until later. Sellers must give a seven-day notice before signing under Section 5.069, a Spanish-language version when negotiated in Spanish, an annual accounting under Section 5.077, and record the contract within 30 days under Section 5.076. Violations carry liquidated damages and give the buyer cancellation rights. The safer structure is a true sale: warranty deed with vendor's lien, promissory note and deed of trust, so the buyer owns the property and the seller holds a recorded lien. Texas Finance Code Chapters 156 and 157 and the federal SAFE Act also require a licensed residential mortgage loan originator for many seller-financed residential loans, with limited exemptions.",
+          "es": "El Capítulo 5, Subcapítulo D del Código de Propiedad de Texas, a partir de la Sección 5.061, regula estrictamente los contratos ejecutorios: contratos de venta a plazos, contratos de renta con opción a compra y arreglos similares donde el comprador toma posesión pero el título no pasa hasta después. El vendedor debe entregar un aviso siete días antes de firmar bajo la Sección 5.069, una versión en español si se negoció en español, un estado de cuenta anual bajo la Sección 5.077, y registrar el contrato dentro de 30 días bajo la Sección 5.076. Las violaciones traen daños liquidados y dan al comprador derecho de cancelar. La estructura más segura es una venta real: escritura de garantía con vendor's lien, pagaré y deed of trust, para que el comprador sea dueño y el vendedor tenga un gravamen registrado. Los Capítulos 156 y 157 del Código Financiero de Texas y la ley federal SAFE Act además exigen un originador de préstamos hipotecarios residenciales con licencia (RMLO) para muchos préstamos residenciales financiados por el vendedor, con exenciones limitadas."
+        },
+        {
+          "en": "We structure the transaction to fit your situation and the law: for most El Paso sales that means a deed with vendor's lien, a note with a lawful interest rate and clear late-payment terms, a deed of trust naming a trustee so the seller can foreclose non-judicially if the buyer stops paying, and the federal and state disclosures. When an RMLO is required we connect you with one or use an available exemption. We also convert existing contracts for deed into deed-and-note financing, which Property Code Section 5.081 allows the buyer to demand. Everything is signed in our office and recorded with the El Paso County Clerk. No court appearance is involved. A seller who skips the attorney and relies on a form risks penalties that dwarf the fee, and a buyer who signs without review may never get their deed.",
+          "es": "Estructuramos la transacción para que encaje con su situación y con la ley: para la mayoría de las ventas en El Paso eso significa una escritura con vendor's lien, un pagaré con tasa de interés legal y términos claros de pago tardío, una deed of trust que nombra a un fiduciario para que el vendedor pueda ejecutar el gravamen sin juicio si el comprador deja de pagar, y los avisos federales y estatales. Cuando se requiere un RMLO lo conectamos con uno o usamos una exención disponible. También convertimos contratos de venta a plazos existentes en financiamiento con escritura y pagaré, lo cual la Sección 5.081 del Código de Propiedad permite exigir al comprador. Todo se firma en nuestra oficina y se registra con el County Clerk del Condado de El Paso. No hay comparecencia en corte. Un vendedor que se salta al abogado y usa un formulario arriesga multas que superan por mucho la tarifa, y un comprador que firma sin revisión puede nunca recibir su escritura."
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Contract for deed vs. deed with note and deed of trust",
+            "es": "Contrato de venta a plazos vs. escritura con pagaré y deed of trust"
+          },
+          "body": [
+            {
+              "en": "In a contract for deed, the seller keeps title and the buyer only gets a deed after the last payment. Texas law now treats these contracts so harshly toward sellers that most El Paso attorneys advise against them: missed disclosures cost up to $250 per day, and a buyer who has paid 40 percent or 48 monthly payments gains foreclosure-style protections under Section 5.066. In a deed-and-note structure, the buyer gets title immediately and the seller gets a first lien enforced through the deed of trust under Property Code Chapter 51. The seller's remedy on default is a non-judicial foreclosure with the notice periods that chapter requires, not a simple eviction.",
+              "es": "En un contrato de venta a plazos, el vendedor conserva el título y el comprador recibe escritura solo después del último pago. La ley de Texas ahora trata estos contratos tan duramente contra el vendedor que la mayoría de los abogados en El Paso los desaconsejan: los avisos omitidos cuestan hasta $250 por día, y un comprador que ha pagado el 40 por ciento o 48 mensualidades obtiene protecciones tipo ejecución hipotecaria bajo la Sección 5.066. En la estructura de escritura y pagaré, el comprador recibe el título de inmediato y el vendedor obtiene un primer gravamen que se ejecuta a través de la deed of trust bajo el Capítulo 51 del Código de Propiedad. El remedio del vendedor en caso de incumplimiento es una ejecución no judicial con los plazos de aviso que exige ese capítulo, no un simple desalojo."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Do you need a licensed mortgage originator (RMLO)?",
+            "es": "¿Necesita un originador hipotecario con licencia (RMLO)?"
+          },
+          "body": [
+            {
+              "en": "Under the federal SAFE Act, Dodd-Frank and Texas Finance Code Chapters 156 and 157, a person who originates a residential mortgage loan, including a seller financing the buyer's home, generally must be licensed or work through an RMLO. Texas exempts an individual who finances no more than three properties in a twelve-month period under conditions set by the Texas Department of Savings and Mortgage Lending, and an owner selling their own homestead has additional room. The loan must still avoid balloon payments in many cases and use a fixed or properly adjustable rate. We tell you before drafting whether your El Paso sale fits an exemption or needs an RMLO, and we work with local originators when it does.",
+              "es": "Bajo la ley federal SAFE Act, Dodd-Frank y los Capítulos 156 y 157 del Código Financiero de Texas, quien origina un préstamo hipotecario residencial, incluyendo un vendedor que financia la casa del comprador, generalmente debe tener licencia o trabajar a través de un RMLO. Texas exime a una persona que financia no más de tres propiedades en un periodo de doce meses bajo condiciones fijadas por el Departamento de Ahorros y Préstamos Hipotecarios de Texas, y un dueño que vende su propio homestead tiene margen adicional. El préstamo aún debe evitar pagos globales (balloon) en muchos casos y usar una tasa fija o ajustable conforme a la ley. Le decimos antes de redactar si su venta en El Paso cabe en una exención o necesita un RMLO, y trabajamos con originadores locales cuando se requiere."
+            }
+          ]
+        }
+      ],
+      "included": [
+        {
+          "en": "Structuring advice: deed with note and deed of trust vs. executory contract, and RMLO analysis",
+          "es": "Asesoría de estructura: escritura con pagaré y deed of trust vs. contrato ejecutorio, y análisis de RMLO"
+        },
+        {
+          "en": "Warranty deed with vendor's lien reserved",
+          "es": "Escritura de garantía con vendor's lien reservado"
+        },
+        {
+          "en": "Promissory note with lawful interest, payment schedule and default terms",
+          "es": "Pagaré con interés legal, calendario de pagos y términos de incumplimiento"
+        },
+        {
+          "en": "Deed of trust naming a trustee, with Property Code Chapter 51 foreclosure provisions",
+          "es": "Deed of trust con fiduciario y disposiciones de ejecución bajo el Capítulo 51 del Código de Propiedad"
+        },
+        {
+          "en": "All Property Code Chapter 5 disclosures, in English and Spanish when required",
+          "es": "Todos los avisos del Capítulo 5 del Código de Propiedad, en inglés y español cuando se requiere"
+        },
+        {
+          "en": "Signing and notarization in our El Paso office and recording with the El Paso County Clerk",
+          "es": "Firma y notarización en nuestra oficina en El Paso y registro con el County Clerk del Condado de El Paso"
+        },
+        {
+          "en": "Amortization schedule and payment ledger template for the seller",
+          "es": "Tabla de amortización y plantilla de registro de pagos para el vendedor"
+        }
+      ],
+      "process": [
+        {
+          "title": {
+            "en": "Intake and structure",
+            "es": "Consulta y estructura"
+          },
+          "body": {
+            "en": "We learn the property, price, down payment, rate and term, check title at the El Paso County Clerk, and tell you whether the deal needs an RMLO or fits an exemption. Flat fee quoted.",
+            "es": "Conocemos la propiedad, precio, enganche, tasa y plazo, revisamos el título en el County Clerk de El Paso, y le decimos si el trato necesita un RMLO o cabe en una exención. Tarifa fija cotizada."
+          }
+        },
+        {
+          "title": {
+            "en": "Drafting and review",
+            "es": "Redacción y revisión"
+          },
+          "body": {
+            "en": "We prepare the deed, note, deed of trust and disclosures and review them line by line with both parties in English or Spanish so everyone understands the payment terms and default consequences.",
+            "es": "Preparamos la escritura, pagaré, deed of trust y avisos, y los revisamos línea por línea con ambas partes en inglés o español para que todos entiendan los términos de pago y las consecuencias del incumplimiento."
+          }
+        },
+        {
+          "title": {
+            "en": "Sign and record",
+            "es": "Firma y registro"
+          },
+          "body": {
+            "en": "Both sides sign before a notary at our office, we record the deed and deed of trust with the El Paso County Clerk, and deliver recorded copies and an amortization schedule.",
+            "es": "Ambas partes firman ante notario en nuestra oficina, registramos la escritura y la deed of trust con el County Clerk de El Paso, y entregamos copias registradas y una tabla de amortización."
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is owner financing legal in Texas?",
+            "es": "¿Es legal el financiamiento del vendedor en Texas?"
+          },
+          "a": {
+            "en": "Yes. Seller financing is legal and common in El Paso, but it is regulated. Contracts for deed must follow Texas Property Code Sections 5.061 through 5.085, and residential loans may require a licensed mortgage originator under the Texas Finance Code. A deed with a note and deed of trust is the structure that keeps sellers out of trouble and gives buyers real ownership.",
+            "es": "Sí. El financiamiento del vendedor es legal y común en El Paso, pero está regulado. Los contratos de venta a plazos deben seguir las Secciones 5.061 a 5.085 del Código de Propiedad de Texas, y los préstamos residenciales pueden requerir un originador hipotecario con licencia bajo el Código Financiero. Una escritura con pagaré y deed of trust es la estructura que mantiene al vendedor fuera de problemas y le da al comprador propiedad real."
+          }
+        },
+        {
+          "q": {
+            "en": "What documents do I need for an owner-financed sale in El Paso?",
+            "es": "¿Qué documentos necesito para una venta con financiamiento del vendedor en El Paso?"
+          },
+          "a": {
+            "en": "At minimum: a warranty deed with vendor's lien, a promissory note, a deed of trust, the seller's disclosure notice and the required federal truth-in-lending disclosures if the property is residential. Depending on the deal you may also need a purchase contract, an RMLO's loan file, and a Spanish-language version of the notices. We prepare the full package for a flat fee.",
+            "es": "Como mínimo: una escritura de garantía con vendor's lien, un pagaré, una deed of trust, el aviso de divulgación del vendedor y las divulgaciones federales de veracidad en préstamos si la propiedad es residencial. Según el trato, también puede necesitar un contrato de compraventa, el expediente de un RMLO y una versión en español de los avisos. Preparamos el paquete completo a tarifa fija."
+          }
+        },
+        {
+          "q": {
+            "en": "I have been paying on a contract for deed for years. How do I get my deed?",
+            "es": "Llevo años pagando un contrato de venta a plazos. ¿Cómo obtengo mi escritura?"
+          },
+          "a": {
+            "en": "Texas Property Code Section 5.081 lets a buyer under an executory contract demand that the seller convert it into a deed with a note and deed of trust for the remaining balance, and Section 5.077 entitles you to an annual accounting. If the seller never recorded the contract or gave the required notices, you may also have penalty claims. We send the demand and prepare the conversion documents for El Paso buyers.",
+            "es": "La Sección 5.081 del Código de Propiedad de Texas permite al comprador bajo un contrato ejecutorio exigir que el vendedor lo convierta en escritura con pagaré y deed of trust por el saldo restante, y la Sección 5.077 le da derecho a un estado de cuenta anual. Si el vendedor nunca registró el contrato ni dio los avisos requeridos, también puede tener reclamos por multas. Enviamos la demanda y preparamos los documentos de conversión para compradores en El Paso."
+          }
+        },
+        {
+          "q": {
+            "en": "What happens if the buyer stops paying on owner financing in Texas?",
+            "es": "¿Qué pasa si el comprador deja de pagar en un financiamiento del vendedor en Texas?"
+          },
+          "a": {
+            "en": "With a deed of trust, the seller sends the notice of default and 20-day cure period the loan documents and Property Code Section 51.002 require, then a 21-day notice of sale, and the trustee sells the property at the monthly El Paso County foreclosure sale. No lawsuit is needed. With a contract for deed the rules are stricter and, after enough payments, the buyer gets the same protections a homeowner would.",
+            "es": "Con una deed of trust, el vendedor envía el aviso de incumplimiento y el periodo de 20 días para corregir que exigen los documentos y la Sección 51.002 del Código de Propiedad, luego un aviso de venta de 21 días, y el fiduciario vende la propiedad en la venta mensual de ejecuciones del Condado de El Paso. No se necesita demanda. Con un contrato de venta a plazos las reglas son más estrictas y, después de suficientes pagos, el comprador obtiene las mismas protecciones que un propietario."
+          }
+        },
+        {
+          "q": {
+            "en": "Do I need to go to court for owner financing documents?",
+            "es": "¿Tengo que ir a corte por documentos de financiamiento del vendedor?"
+          },
+          "a": {
+            "en": "No. Preparing, signing and recording owner-financing documents is handled entirely at our El Paso office and the El Paso County Clerk. Even a later default is normally resolved through the non-judicial foreclosure process in the deed of trust rather than a lawsuit, which is one of the main reasons we recommend that structure over a contract for deed.",
+            "es": "No. Preparar, firmar y registrar los documentos de financiamiento se maneja completamente en nuestra oficina en El Paso y el County Clerk del Condado de El Paso. Incluso un incumplimiento posterior normalmente se resuelve mediante la ejecución no judicial de la deed of trust en lugar de una demanda, que es una de las razones principales por las que recomendamos esa estructura en lugar de un contrato de venta a plazos."
+          }
+        }
+      ],
+      "keywords": [
+        "owner financing lawyer El Paso",
+        "seller financing documents Texas",
+        "contract for deed El Paso attorney",
+        "promissory note and deed of trust El Paso",
+        "owner finance home El Paso TX",
+        "RMLO seller financing Texas"
+      ],
+      "related": [
+        "purchase-contracts",
+        "deeds",
+        "title-curative",
+        "demand-letter"
+      ],
+      "outbound": [
+        {
+          "label": {
+            "en": "Texas Property Code Chapter 5, Subchapter D — Executory Contracts",
+            "es": "Código de Propiedad de Texas, Capítulo 5, Subcapítulo D — Contratos Ejecutorios"
+          },
+          "url": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.5.htm"
+        },
+        {
+          "label": {
+            "en": "Texas Department of Savings and Mortgage Lending",
+            "es": "Departamento de Ahorros y Préstamos Hipotecarios de Texas"
+          },
+          "url": "https://www.sml.texas.gov/"
+        }
+      ]
+    },
+    "purchase-contracts": {
+      "title": {
+        "en": "Purchase Contract Lawyer El Paso | El Paso Law Center",
+        "es": "Contrato de Compraventa Inmobiliaria El Paso | El Paso Law Center"
+      },
+      "metaDescription": {
+        "en": "Flat-fee drafting and review of real estate purchase contracts in El Paso, TX. TREC forms, for-sale-by-owner and cash deals. Call (915) 526-0787.",
+        "es": "Redacción y revisión de contratos de compraventa inmobiliaria en El Paso, TX a tarifa fija. Formularios TREC, ventas por dueño y de contado. Llame al (915) 526-0787."
+      },
+      "eyebrow": {
+        "en": "EL PASO REAL ESTATE CONTRACT ATTORNEY",
+        "es": "CONTRATOS DE COMPRAVENTA EN EL PASO"
+      },
+      "h1": {
+        "en": "Real Estate Purchase Contracts in El Paso — Drafted or Reviewed Before You Sign",
+        "es": "Contratos de Compraventa Inmobiliaria en El Paso — Redactados o Revisados Antes de Firmar"
+      },
+      "summary": {
+        "en": "Attorney drafting and review of purchase and sale agreements for El Paso homes, lots and small commercial property, including for-sale-by-owner and cash deals that skip the realtor — flat fee, no court.",
+        "es": "Redacción y revisión por abogado de contratos de compraventa para casas, terrenos y pequeñas propiedades comerciales en El Paso, incluyendo ventas por dueño y de contado sin agente — tarifa fija, sin corte."
+      },
+      "feeModel": {
+        "en": "Flat fee, quoted upfront",
+        "es": "Tarifa fija, cotizada por adelantado"
+      },
+      "timeline": {
+        "en": "Review in 1–3 business days; drafting in about a week",
+        "es": "Revisión en 1–3 días hábiles; redacción en aproximadamente una semana"
+      },
+      "intro": [
+        {
+          "en": "A purchase contract is the agreement that controls everything about a real estate sale: price, earnest money, who pays closing costs, what happens if the inspection is bad, and when the buyer can walk away and still get their deposit back. In El Paso, a growing number of sales happen without a realtor: a homeowner selling directly to a neighbor, a family buying a lot in Socorro or Clint for cash, an investor picking up a rental off-market, or a Juárez family buying a house on this side of the border. Those buyers and sellers still need a solid contract, and it should be reviewed by someone whose only job is protecting them.",
+          "es": "El contrato de compraventa es el acuerdo que controla todo en una venta de bienes raíces: precio, depósito de garantía (earnest money), quién paga los costos de cierre, qué pasa si la inspección sale mal, y cuándo el comprador puede retirarse y recuperar su depósito. En El Paso, cada vez más ventas se hacen sin agente de bienes raíces: un propietario que vende directo a un vecino, una familia que compra un terreno en Socorro o Clint de contado, un inversionista que adquiere una renta fuera del mercado, o una familia de Juárez que compra casa de este lado de la frontera. Esos compradores y vendedores igual necesitan un contrato sólido, revisado por alguien cuyo único trabajo es protegerlos."
+        },
+        {
+          "en": "Texas requires contracts for the sale of real estate to be in writing and signed under the statute of frauds, Texas Business and Commerce Code Section 26.01. Licensed agents must use the Texas Real Estate Commission promulgated forms, most commonly TREC Form 20-18, the One to Four Family Residential Contract (Resale), together with addenda for financing, HOA, lead-based paint and third-party financing. Texas Property Code Chapter 5 adds required seller disclosures, including the Seller's Disclosure Notice under Section 5.008 and notices about water districts, floodplains and unimproved property. A private seller is not required to use the TREC form, but using it or a properly drafted custom contract avoids gaps that lead to earnest money fights and failed closings.",
+          "es": "Texas exige que los contratos de venta de bienes raíces sean por escrito y firmados bajo el estatuto de fraudes, Sección 26.01 del Código de Negocios y Comercio de Texas. Los agentes con licencia deben usar los formularios promulgados por la Comisión de Bienes Raíces de Texas (TREC), más comúnmente el Formulario TREC 20-18, el contrato residencial de una a cuatro familias (reventa), junto con anexos de financiamiento, HOA, pintura con plomo y financiamiento de terceros. El Capítulo 5 del Código de Propiedad agrega divulgaciones obligatorias del vendedor, incluyendo el Aviso de Divulgación del Vendedor bajo la Sección 5.008 y avisos sobre distritos de agua, zonas inundables y terrenos sin construir. Un vendedor privado no está obligado a usar el formulario TREC, pero usarlo o un contrato personalizado bien redactado evita huecos que llevan a pleitos por el depósito y cierres fallidos."
+        },
+        {
+          "en": "For buyers and sellers, we either draft the contract from scratch or mark up the contract the other side sent, explaining every clause in English or Spanish: the option period, financing contingency, survey and title objection deadlines, repairs, possession date and default remedies. We coordinate with the El Paso title company on the title commitment and closing documents, and if the deal is owner financed we prepare the note and deed of trust as well. No court appearance is ever involved in a purchase contract. Compared with signing a form found online, an attorney review costs a fraction of the earnest money at stake and catches the terms that quietly favor the other side.",
+          "es": "Para compradores y vendedores, redactamos el contrato desde cero o marcamos el contrato que envió la otra parte, explicando cada cláusula en inglés o español: el periodo de opción, la contingencia de financiamiento, los plazos para objetar el levantamiento topográfico y el título, reparaciones, fecha de posesión y remedios en caso de incumplimiento. Coordinamos con la compañía de título en El Paso el compromiso de título y los documentos de cierre, y si la venta es con financiamiento del vendedor preparamos también el pagaré y la deed of trust. Nunca hay comparecencia en corte en un contrato de compraventa. Comparado con firmar un formulario de internet, una revisión por abogado cuesta una fracción del depósito en juego y detecta los términos que discretamente favorecen a la otra parte."
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Common mistakes in for-sale-by-owner deals in El Paso",
+            "es": "Errores comunes en ventas por dueño en El Paso"
+          },
+          "body": [
+            {
+              "en": "The problems we see most often: no option period, so the buyer has no clean way to back out after a bad inspection; earnest money paid directly to the seller instead of a title company or escrow agent; no deadline for the seller to cure title objections; handshake agreements about repairs or appliances that never make it into the contract; and no seller's disclosure notice, which under Property Code Section 5.008 gives the buyer a right to terminate. Sellers, for their part, often agree to pay closing costs and repairs without a cap, or fail to require proof of funds from a cash buyer.",
+              "es": "Los problemas que más vemos: sin periodo de opción, así que el comprador no tiene forma limpia de retirarse después de una mala inspección; depósito pagado directo al vendedor en vez de a una compañía de título o agente de escrow; sin plazo para que el vendedor corrija objeciones de título; acuerdos de palabra sobre reparaciones o electrodomésticos que nunca llegan al contrato; y sin aviso de divulgación del vendedor, lo que bajo la Sección 5.008 del Código de Propiedad le da al comprador derecho a terminar. Los vendedores, por su parte, muchas veces aceptan pagar costos de cierre y reparaciones sin tope, o no exigen prueba de fondos a un comprador de contado."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "What happens between signing and closing",
+            "es": "Qué pasa entre la firma y el cierre"
+          },
+          "body": [
+            {
+              "en": "After both sides sign, the earnest money and option fee go to the title company, which issues a title commitment listing liens, easements and requirements to close. The buyer's inspection and option period run, followed by financing approval and a survey if required. We review the title commitment and Schedule C requirements, object to anything that should be cleared, and confirm the closing figures. At closing, typically at one of the El Paso title companies, the seller signs the deed and the buyer signs the loan documents. If the property will be the buyer's residence, they apply for the homestead exemption with the El Paso Central Appraisal District afterward.",
+              "es": "Después de que ambas partes firman, el depósito y la cuota de opción van a la compañía de título, que emite un compromiso de título con gravámenes, servidumbres y requisitos para cerrar. Corre la inspección y el periodo de opción del comprador, seguido por la aprobación del financiamiento y el levantamiento topográfico si se requiere. Revisamos el compromiso de título y los requisitos del Anexo C, objetamos lo que deba limpiarse y confirmamos las cifras de cierre. En el cierre, normalmente en una de las compañías de título de El Paso, el vendedor firma la escritura y el comprador los documentos del préstamo. Si la propiedad será la residencia del comprador, después solicita la exención de homestead ante el Distrito de Avalúo Central de El Paso."
+            }
+          ]
+        }
+      ],
+      "included": [
+        {
+          "en": "Custom purchase contract or completed TREC form with the addenda your deal needs",
+          "es": "Contrato de compraventa personalizado o formulario TREC completo con los anexos que su trato necesita"
+        },
+        {
+          "en": "Clause-by-clause review of a contract sent by the other side, with a written summary of risks",
+          "es": "Revisión cláusula por cláusula del contrato enviado por la otra parte, con resumen escrito de riesgos"
+        },
+        {
+          "en": "Seller's Disclosure Notice and other Property Code Chapter 5 notices",
+          "es": "Aviso de Divulgación del Vendedor y demás avisos del Capítulo 5 del Código de Propiedad"
+        },
+        {
+          "en": "Negotiation of earnest money, option period, repairs and closing cost terms",
+          "es": "Negociación de depósito, periodo de opción, reparaciones y costos de cierre"
+        },
+        {
+          "en": "Review of the title commitment and Schedule C requirements from the El Paso title company",
+          "es": "Revisión del compromiso de título y requisitos del Anexo C de la compañía de título en El Paso"
+        },
+        {
+          "en": "Deed preparation for cash sales that close without a title company",
+          "es": "Preparación de la escritura para ventas de contado que cierran sin compañía de título"
+        },
+        {
+          "en": "Plain-English or Spanish explanation of every deadline before you sign",
+          "es": "Explicación en inglés o español de cada plazo antes de que firme"
+        }
+      ],
+      "process": [
+        {
+          "title": {
+            "en": "Send us the deal",
+            "es": "Envíenos el trato"
+          },
+          "body": {
+            "en": "Share the property address, price, whether there is financing, and any draft contract you have received. We quote a flat fee for drafting or review and confirm the timeline.",
+            "es": "Comparta la dirección, el precio, si hay financiamiento y cualquier borrador de contrato que haya recibido. Cotizamos una tarifa fija para redacción o revisión y confirmamos el plazo."
+          }
+        },
+        {
+          "title": {
+            "en": "Draft or mark up",
+            "es": "Redactamos o marcamos"
+          },
+          "body": {
+            "en": "We prepare the contract or return a marked-up version with proposed changes and a plain-language summary, then walk you through it by phone, Zoom or at our El Paso office.",
+            "es": "Preparamos el contrato o devolvemos una versión marcada con cambios propuestos y un resumen en lenguaje sencillo, y lo repasamos con usted por teléfono, Zoom o en nuestra oficina en El Paso."
+          }
+        },
+        {
+          "title": {
+            "en": "Sign and move to closing",
+            "es": "Firme y avance al cierre"
+          },
+          "body": {
+            "en": "Once terms are agreed, we finalize the signed contract, track the option and title deadlines, and stay available through closing at the title company.",
+            "es": "Una vez acordados los términos, finalizamos el contrato firmado, damos seguimiento a los plazos de opción y título, y quedamos disponibles hasta el cierre en la compañía de título."
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Do I need a lawyer to buy a house in Texas without a realtor?",
+            "es": "¿Necesito abogado para comprar casa en Texas sin agente?"
+          },
+          "a": {
+            "en": "Texas does not require one, but without a realtor nobody is filling out the TREC contract, tracking deadlines or explaining the title commitment. An attorney review for a flat fee gives an El Paso buyer or seller the same protection at a fraction of a commission, and unlike an agent, the attorney owes duties only to you.",
+            "es": "Texas no lo exige, pero sin agente nadie está llenando el contrato TREC, dando seguimiento a plazos ni explicando el compromiso de título. Una revisión por abogado a tarifa fija le da a un comprador o vendedor en El Paso la misma protección por una fracción de la comisión, y a diferencia de un agente, el abogado tiene deberes únicamente con usted."
+          }
+        },
+        {
+          "q": {
+            "en": "How much does a real estate contract review cost in El Paso?",
+            "es": "¿Cuánto cuesta la revisión de un contrato inmobiliario en El Paso?"
+          },
+          "a": {
+            "en": "We charge a flat fee for reviewing a residential purchase contract and its addenda, and a separate flat fee for drafting one from scratch. Both are quoted before we start. Commercial or multi-parcel contracts are quoted based on complexity. There are no hourly surprises and no court costs, because nothing about a purchase contract goes to court.",
+            "es": "Cobramos una tarifa fija por revisar un contrato de compraventa residencial y sus anexos, y otra tarifa fija por redactarlo desde cero. Ambas se cotizan antes de empezar. Los contratos comerciales o de varios lotes se cotizan según su complejidad. No hay sorpresas por hora ni costos de corte, porque nada en un contrato de compraventa va a corte."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I back out of a house contract in Texas and get my earnest money back?",
+            "es": "¿Puedo retirarme de un contrato de compra en Texas y recuperar mi depósito?"
+          },
+          "a": {
+            "en": "Usually only during the option period, or if a contingency such as financing, appraisal or the seller's disclosure gives you a termination right. Outside those windows, backing out can forfeit the earnest money. The TREC contract also lets either party demand release of earnest money and the other has 15 days to object, so getting the contingencies right up front is what protects your deposit.",
+            "es": "Normalmente solo durante el periodo de opción, o si una contingencia como financiamiento, avalúo o la divulgación del vendedor le da derecho a terminar. Fuera de esas ventanas, retirarse puede significar perder el depósito. El contrato TREC también permite que cualquiera de las partes exija la liberación del depósito y la otra tiene 15 días para objetar, así que dejar bien las contingencias desde el principio es lo que protege su dinero."
+          }
+        },
+        {
+          "q": {
+            "en": "What is the Seller's Disclosure Notice in Texas?",
+            "es": "¿Qué es el Aviso de Divulgación del Vendedor en Texas?"
+          },
+          "a": {
+            "en": "Texas Property Code Section 5.008 requires most sellers of a single-family home to give the buyer a written disclosure of known defects, past flooding, repairs and similar conditions before the contract is signed. If the seller fails to deliver it, the buyer may terminate within seven days of receiving it. We prepare or review the notice for El Paso sellers so it is accurate and complete.",
+            "es": "La Sección 5.008 del Código de Propiedad de Texas exige que la mayoría de los vendedores de una casa unifamiliar entreguen al comprador una divulgación escrita de defectos conocidos, inundaciones pasadas, reparaciones y condiciones similares antes de firmar el contrato. Si el vendedor no lo entrega, el comprador puede terminar dentro de siete días de recibirlo. Preparamos o revisamos el aviso para vendedores en El Paso para que sea exacto y completo."
+          }
+        },
+        {
+          "q": {
+            "en": "Do I have to appear in court for a real estate purchase contract?",
+            "es": "¿Tengo que comparecer en corte por un contrato de compraventa?"
+          },
+          "a": {
+            "en": "No. Drafting, negotiating and signing a purchase contract is entirely a transactional matter handled between the parties, our office and the title company. Court would only enter the picture if a deal collapsed into a dispute over earnest money or specific performance, which is exactly what a well-drafted contract is designed to prevent.",
+            "es": "No. Redactar, negociar y firmar un contrato de compraventa es un asunto totalmente transaccional que se maneja entre las partes, nuestra oficina y la compañía de título. La corte solo entraría si el trato se derrumbara en una disputa por el depósito o cumplimiento forzoso, que es exactamente lo que un contrato bien redactado está diseñado para evitar."
+          }
+        }
+      ],
+      "keywords": [
+        "real estate purchase contract El Paso",
+        "real estate contract review El Paso TX",
+        "for sale by owner contract Texas lawyer",
+        "TREC contract attorney El Paso",
+        "buy house without realtor El Paso",
+        "real estate attorney El Paso"
+      ],
+      "related": [
+        "deeds",
+        "owner-finance",
+        "title-curative",
+        "contract-review"
+      ],
+      "outbound": [
+        {
+          "label": {
+            "en": "Texas Real Estate Commission — Contract Forms",
+            "es": "Comisión de Bienes Raíces de Texas — Formularios de Contrato"
+          },
+          "url": "https://www.trec.texas.gov/forms/contracts"
+        },
+        {
+          "label": {
+            "en": "Texas Property Code Chapter 5 — Conveyances",
+            "es": "Código de Propiedad de Texas, Capítulo 5 — Transferencias"
+          },
+          "url": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.5.htm"
+        }
+      ]
+    },
+    "residential-lease": {
+      "title": {
+        "en": "Residential Lease Lawyer El Paso | El Paso Law Center",
+        "es": "Contrato de Renta Residencial El Paso | El Paso Law Center"
+      },
+      "metaDescription": {
+        "en": "Custom residential lease drafting for El Paso landlords, compliant with Texas Property Code Ch. 92. Flat fee, English and Spanish. Call (915) 526-0787.",
+        "es": "Contratos de renta residencial para arrendadores en El Paso, conforme al Capítulo 92 del Código de Propiedad. Tarifa fija, inglés y español. Llame al (915) 526-0787."
+      },
+      "eyebrow": {
+        "en": "EL PASO RESIDENTIAL LEASE ATTORNEY",
+        "es": "ARRENDAMIENTOS RESIDENCIALES EN EL PASO"
+      },
+      "h1": {
+        "en": "Residential Lease Drafting in El Paso — A Landlord Lease Built for Texas Law",
+        "es": "Redacción de Contratos de Renta Residencial en El Paso — Un Contrato Hecho para la Ley de Texas"
+      },
+      "summary": {
+        "en": "A custom, Texas-compliant residential lease for El Paso landlords with every notice, deposit, repair and late-fee clause the Property Code requires — drafted once, reusable for every tenant, no court involved.",
+        "es": "Un contrato de renta residencial personalizado y conforme a la ley de Texas para arrendadores de El Paso, con cada cláusula de aviso, depósito, reparaciones y recargos que exige el Código de Propiedad — redactado una vez, reutilizable con cada inquilino, sin corte."
+      },
+      "feeModel": {
+        "en": "Flat fee, quoted upfront",
+        "es": "Tarifa fija, cotizada por adelantado"
+      },
+      "timeline": {
+        "en": "Typically 5–7 business days",
+        "es": "Normalmente 5–7 días hábiles"
+      },
+      "intro": [
+        {
+          "en": "El Paso has one of the highest renter populations in Texas, driven by Fort Bliss, UTEP, cross-border families and a strong small-landlord market of people who own two or three houses in the Northeast, Eastside or Lower Valley. Most of those landlords use a lease downloaded from the internet or handed down from a friend, often one written for California or Florida. When a tenant stops paying, damages the house, or disputes the security deposit, that lease is the only document a Justice of the Peace will look at, and the clauses that would have protected the landlord are frequently missing or unenforceable in Texas.",
+          "es": "El Paso tiene una de las poblaciones de inquilinos más altas de Texas, impulsada por Fort Bliss, UTEP, familias transfronterizas y un mercado fuerte de pequeños arrendadores que tienen dos o tres casas en el Noreste, el Eastside o el Valle Bajo. La mayoría de esos arrendadores usan un contrato bajado del internet o heredado de un amigo, muchas veces escrito para California o Florida. Cuando un inquilino deja de pagar, daña la casa o disputa el depósito, ese contrato es el único documento que un Juez de Paz va a revisar, y las cláusulas que habrían protegido al arrendador frecuentemente faltan o no son ejecutables en Texas."
+        },
+        {
+          "en": "Texas Property Code Chapter 92 governs residential tenancies and overrides any lease term that conflicts with it. It sets the rules for security deposits and the 30-day return deadline in Section 92.103, the landlord's repair duties and the tenant's remedies in Subchapter B, required smoke alarms and security devices in Subchapters D and F, and the late-fee limits in Section 92.019, which caps fees on most El Paso rentals at 12 percent of monthly rent and requires rent to be at least two full days late. Chapter 92 also requires specific lease language, in underlined or bold print, about the tenant's repair and lockout rights, and a lease that omits it hands the tenant additional remedies.",
+          "es": "El Capítulo 92 del Código de Propiedad de Texas regula las rentas residenciales y anula cualquier término del contrato que lo contradiga. Fija las reglas de depósitos de garantía y el plazo de 30 días para devolverlo en la Sección 92.103, los deberes de reparación del arrendador y los remedios del inquilino en el Subcapítulo B, las alarmas de humo y dispositivos de seguridad obligatorios en los Subcapítulos D y F, y los límites de recargos en la Sección 92.019, que en la mayoría de las rentas de El Paso los topa al 12 por ciento de la renta mensual y exige que la renta tenga al menos dos días completos de retraso. El Capítulo 92 también exige lenguaje específico, en negritas o subrayado, sobre los derechos de reparación y contra cierres de cerradura del inquilino, y un contrato que lo omite le da al inquilino remedios adicionales."
+        },
+        {
+          "en": "We draft a lease for your specific El Paso property and rental practice: rent and late-fee terms that survive Section 92.019, a deposit clause with an itemized deductions schedule, pet, occupancy and guest rules, utilities and yard responsibility, military clause language for Fort Bliss tenants under Section 92.017 and the Servicemembers Civil Relief Act, and a notice-to-vacate provision that shortens the eviction timeline as far as Property Code Section 24.005 allows. You receive a reusable template in English and, if you want it, a Spanish version. No court appearance is involved in drafting a lease; if an eviction later becomes necessary, we prepare the eviction notice and the suit is filed in a Justice of the Peace court, which we can discuss separately.",
+          "es": "Redactamos un contrato para su propiedad y su práctica de renta específica en El Paso: términos de renta y recargos que sobreviven la Sección 92.019, una cláusula de depósito con lista detallada de deducciones, reglas de mascotas, ocupación y visitas, responsabilidad de servicios y jardín, cláusula militar para inquilinos de Fort Bliss bajo la Sección 92.017 y la ley federal Servicemembers Civil Relief Act, y una disposición de aviso de desocupar que acorta el plazo de desalojo hasta donde lo permite la Sección 24.005 del Código de Propiedad. Usted recibe una plantilla reutilizable en inglés y, si lo desea, una versión en español. Redactar un contrato no involucra corte; si después se necesita un desalojo, preparamos el aviso de desalojo y la demanda se presenta en una corte de Juez de Paz, lo cual podemos platicar por separado."
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Clauses that get El Paso landlords in trouble",
+            "es": "Cláusulas que meten en problemas a los arrendadores en El Paso"
+          },
+          "body": [
+            {
+              "en": "Late fees that start on the second of the month or exceed the statutory cap; deposit clauses that call the deposit non-refundable, which Texas does not allow; waivers of the landlord's repair duty, void under Section 92.006; self-help clauses allowing the landlord to change locks or remove doors for nonpayment without following Section 92.0081; and automatic renewal or rent-increase clauses without the required notice. Each of these can cost the landlord actual damages, statutory penalties of $100 or more, and the tenant's attorney fees. A lease written for Texas avoids every one of them.",
+              "es": "Recargos que empiezan el día dos del mes o superan el tope legal; cláusulas que declaran el depósito no reembolsable, lo cual Texas no permite; renuncias al deber de reparación del arrendador, nulas bajo la Sección 92.006; cláusulas de autoayuda que permiten cambiar cerraduras o quitar puertas por falta de pago sin seguir la Sección 92.0081; y cláusulas de renovación automática o aumento de renta sin el aviso requerido. Cada una puede costarle al arrendador daños reales, multas legales de $100 o más, y los honorarios del abogado del inquilino. Un contrato escrito para Texas evita todas ellas."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Security deposits, move-in and move-out in Texas",
+            "es": "Depósitos, entrada y salida en Texas"
+          },
+          "body": [
+            {
+              "en": "Under Property Code Sections 92.103 and 92.104, the landlord must refund the deposit or send an itemized list of deductions within 30 days after the tenant surrenders the property, provided the tenant gave a forwarding address. Normal wear and tear cannot be deducted. A landlord who keeps a deposit in bad faith owes three times the amount wrongfully withheld plus $100 and attorney fees. Our lease includes a move-in condition form, a cleaning and damage schedule, and the forwarding-address requirement so that El Paso landlords can document deductions and avoid the bad-faith presumption that applies when no itemization is sent.",
+              "es": "Bajo las Secciones 92.103 y 92.104 del Código de Propiedad, el arrendador debe devolver el depósito o enviar una lista detallada de deducciones dentro de 30 días después de que el inquilino entrega la propiedad, siempre que el inquilino haya dado una dirección para reenvío. El desgaste normal no se puede deducir. Un arrendador que retiene el depósito de mala fe debe tres veces la cantidad retenida indebidamente más $100 y honorarios de abogado. Nuestro contrato incluye un formulario de condición de entrada, una tabla de limpieza y daños, y el requisito de dirección de reenvío para que los arrendadores de El Paso puedan documentar deducciones y evitar la presunción de mala fe que aplica cuando no se envía la lista."
+            }
+          ]
+        }
+      ],
+      "included": [
+        {
+          "en": "Custom residential lease drafted for your El Paso property and rental terms",
+          "es": "Contrato de renta residencial personalizado para su propiedad y términos en El Paso"
+        },
+        {
+          "en": "All Texas Property Code Chapter 92 required notices and bold-print disclosures",
+          "es": "Todos los avisos y divulgaciones en negritas que exige el Capítulo 92 del Código de Propiedad"
+        },
+        {
+          "en": "Late-fee, deposit and repair clauses that comply with Sections 92.019, 92.103 and 92.052",
+          "es": "Cláusulas de recargos, depósito y reparaciones conformes a las Secciones 92.019, 92.103 y 92.052"
+        },
+        {
+          "en": "Move-in and move-out condition checklist and deposit itemization form",
+          "es": "Lista de condición de entrada y salida y formulario de deducciones del depósito"
+        },
+        {
+          "en": "Optional addenda: pets, HOA rules, lead-based paint, military clause, roommates",
+          "es": "Anexos opcionales: mascotas, reglas de HOA, pintura con plomo, cláusula militar, compañeros de cuarto"
+        },
+        {
+          "en": "Spanish-language version of the lease on request",
+          "es": "Versión en español del contrato a solicitud"
+        },
+        {
+          "en": "A 30-minute walkthrough of how to use the lease and serve notices correctly",
+          "es": "Una explicación de 30 minutos sobre cómo usar el contrato y entregar avisos correctamente"
+        }
+      ],
+      "process": [
+        {
+          "title": {
+            "en": "Tell us about the property",
+            "es": "Cuéntenos sobre la propiedad"
+          },
+          "body": {
+            "en": "We ask about the house or unit, rent, deposit, pets, utilities, who mows the yard, and past tenant problems. We quote a flat fee and flag any terms Texas will not enforce.",
+            "es": "Preguntamos sobre la casa o unidad, renta, depósito, mascotas, servicios, quién corta el pasto y problemas pasados con inquilinos. Cotizamos una tarifa fija y señalamos términos que Texas no va a ejecutar."
+          }
+        },
+        {
+          "title": {
+            "en": "We draft the lease",
+            "es": "Redactamos el contrato"
+          },
+          "body": {
+            "en": "Within about a week you receive the lease, addenda and move-in checklist, with every Chapter 92 disclosure in place, ready to sign electronically or on paper with your next tenant.",
+            "es": "En aproximadamente una semana recibe el contrato, anexos y lista de entrada, con cada divulgación del Capítulo 92 en su lugar, listo para firmar electrónicamente o en papel con su próximo inquilino."
+          }
+        },
+        {
+          "title": {
+            "en": "Walkthrough and reuse",
+            "es": "Explicación y reutilización"
+          },
+          "body": {
+            "en": "We walk you through the lease and how to handle late rent, repair requests and move-outs. The template is yours to reuse for every El Paso tenant going forward.",
+            "es": "Le explicamos el contrato y cómo manejar renta atrasada, solicitudes de reparación y entregas. La plantilla es suya para reutilizarla con cada inquilino en El Paso de aquí en adelante."
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "How much does it cost to have a lease drafted in El Paso?",
+            "es": "¿Cuánto cuesta que le redacten un contrato de renta en El Paso?"
+          },
+          "a": {
+            "en": "We charge a flat fee for a custom residential lease with standard addenda and the move-in checklist, quoted before we start. Because the lease is a reusable template, most El Paso landlords pay once and use it for years. A Spanish version or property-specific addenda such as HOA rules are quoted as small add-ons.",
+            "es": "Cobramos una tarifa fija por un contrato de renta residencial personalizado con anexos estándar y la lista de entrada, cotizada antes de empezar. Como el contrato es una plantilla reutilizable, la mayoría de los arrendadores en El Paso pagan una vez y lo usan por años. Una versión en español o anexos específicos como reglas de HOA se cotizan como pequeños agregados."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I use a lease I found online for my Texas rental?",
+            "es": "¿Puedo usar un contrato de internet para mi renta en Texas?"
+          },
+          "a": {
+            "en": "You can, but many online leases contain clauses that are void under Texas Property Code Chapter 92, such as non-refundable deposits or repair waivers, and omit the bold-print notices Texas requires. Those defects do not just fail to protect you; they can create penalties. A lease drafted for El Paso and Texas law costs a modest flat fee and removes that risk.",
+            "es": "Puede, pero muchos contratos de internet contienen cláusulas nulas bajo el Capítulo 92 del Código de Propiedad de Texas, como depósitos no reembolsables o renuncias a reparaciones, y omiten los avisos en negritas que Texas exige. Esos defectos no solo no lo protegen; pueden crear multas. Un contrato redactado para El Paso y la ley de Texas cuesta una tarifa fija modesta y elimina ese riesgo."
+          }
+        },
+        {
+          "q": {
+            "en": "What is the maximum late fee a landlord can charge in Texas?",
+            "es": "¿Cuál es el recargo máximo que un arrendador puede cobrar en Texas?"
+          },
+          "a": {
+            "en": "Under Property Code Section 92.019, a late fee must be reasonable and, for a property with four or fewer units, is presumed reasonable if it does not exceed 12 percent of monthly rent, or 10 percent for larger properties. Rent must be unpaid for at least two full days after the due date before a fee applies, and the fee must be stated in a written lease.",
+            "es": "Bajo la Sección 92.019 del Código de Propiedad, el recargo debe ser razonable y, para una propiedad de cuatro unidades o menos, se presume razonable si no supera el 12 por ciento de la renta mensual, o 10 por ciento en propiedades más grandes. La renta debe estar sin pagar al menos dos días completos después de la fecha de vencimiento antes de que aplique el recargo, y el recargo debe estar escrito en el contrato."
+          }
+        },
+        {
+          "q": {
+            "en": "Does a Texas residential lease have to be notarized?",
+            "es": "¿Un contrato de renta residencial en Texas tiene que ser notarizado?"
+          },
+          "a": {
+            "en": "No. A residential lease is valid once both parties sign it; notarization is not required and leases of one year or less do not even need to be in writing, though a written lease is strongly recommended. Electronic signatures are valid in Texas. Leases longer than one year must be in writing under the statute of frauds.",
+            "es": "No. Un contrato de renta residencial es válido cuando ambas partes lo firman; no se requiere notarización y los contratos de un año o menos ni siquiera tienen que ser por escrito, aunque un contrato escrito es muy recomendable. Las firmas electrónicas son válidas en Texas. Los contratos de más de un año deben ser por escrito bajo el estatuto de fraudes."
+          }
+        },
+        {
+          "q": {
+            "en": "Do I have to go to court to have a lease prepared?",
+            "es": "¿Tengo que ir a corte para que me preparen un contrato de renta?"
+          },
+          "a": {
+            "en": "No. Drafting a lease is entirely an office matter. The only time a residential lease reaches a courtroom is an eviction or deposit dispute, and a well-drafted lease is what keeps those short. If a tenant must be removed, we prepare the notice to vacate and demand letter, and the eviction suit itself is filed in an El Paso County Justice of the Peace court, which we can discuss separately.",
+            "es": "No. Redactar un contrato es completamente un asunto de oficina. La única vez que un contrato de renta residencial llega a una corte es en un desalojo o una disputa de depósito, y un contrato bien redactado es lo que los mantiene cortos. Si hay que sacar a un inquilino, preparamos el aviso de desalojo y la carta de demanda, y la demanda de desalojo se presenta en una corte de Juez de Paz del Condado de El Paso, lo cual podemos platicar por separado."
+          }
+        }
+      ],
+      "keywords": [
+        "residential lease lawyer El Paso",
+        "Texas lease agreement attorney",
+        "landlord lease drafting El Paso TX",
+        "Texas Property Code Chapter 92 lease",
+        "rental agreement El Paso landlord",
+        "Spanish lease agreement Texas"
+      ],
+      "related": [
+        "eviction-notice",
+        "commercial-lease",
+        "lease-review",
+        "llc-formation"
+      ],
+      "outbound": [
+        {
+          "label": {
+            "en": "Texas Property Code Chapter 92 — Residential Tenancies",
+            "es": "Código de Propiedad de Texas, Capítulo 92 — Rentas Residenciales"
+          },
+          "url": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.92.htm"
+        },
+        {
+          "label": {
+            "en": "Texas Attorney General — Tenant Rights",
+            "es": "Procurador General de Texas — Derechos del Inquilino"
+          },
+          "url": "https://www.texasattorneygeneral.gov/consumer-protection/house-and-home/renters-rights"
+        }
+      ]
+    },
+    "title-curative": {
+      "title": {
+        "en": "Title Curative Lawyer El Paso | El Paso Law Center",
+        "es": "Corrección de Título de Propiedad El Paso | El Paso Law Center"
+      },
+      "metaDescription": {
+        "en": "Fix clouded title on El Paso property: correction deeds, heirship affidavits, lien releases and missing deeds solved for a flat fee. Call (915) 526-0787.",
+        "es": "Corrija el título de su propiedad en El Paso: escrituras de corrección, declaraciones de herederos y liberación de gravámenes a tarifa fija. Llame al (915) 526-0787."
+      },
+      "eyebrow": {
+        "en": "EL PASO TITLE CURATIVE ATTORNEY",
+        "es": "CORRECCIÓN DE TÍTULO EN EL PASO"
+      },
+      "h1": {
+        "en": "Title Curative in El Paso — Clear the Defects Blocking Your Sale or Refinance",
+        "es": "Corrección de Título en El Paso — Elimine los Defectos que Bloquean su Venta o Refinanciamiento"
+      },
+      "summary": {
+        "en": "When the title company says the property cannot close, we fix the problem: correction deeds, affidavits of heirship, releases of paid-off liens, missing signatures, wrong legal descriptions and unrecorded deeds on El Paso County property — flat fee, no court.",
+        "es": "Cuando la compañía de título dice que la propiedad no puede cerrar, nosotros arreglamos el problema: escrituras de corrección, declaraciones de herederos, liberación de gravámenes pagados, firmas faltantes, descripciones legales erróneas y escrituras sin registrar en el Condado de El Paso — tarifa fija, sin corte."
+      },
+      "feeModel": {
+        "en": "Flat fee per curative document + El Paso County recording fees",
+        "es": "Tarifa fija por documento de corrección + cuotas de registro del Condado de El Paso"
+      },
+      "timeline": {
+        "en": "Typically 2–6 weeks depending on how many signatures are needed",
+        "es": "Normalmente 2–6 semanas según cuántas firmas se necesiten"
+      },
+      "intro": [
+        {
+          "en": "Title curative work is the process of finding and fixing defects in the chain of ownership so that a property can be sold, refinanced, insured or passed to heirs. In El Paso County, where land has been in the same families for generations and many transfers happened by handshake, informal contrato or a deed that was never recorded, clouded title is extremely common. The problem usually surfaces at the worst moment: a buyer is under contract, the title company issues its commitment, and Schedule C lists requirements nobody can satisfy because a grandparent who died in 1985 is still the owner of record, or a lien paid off years ago was never released.",
+          "es": "La corrección de título (title curative) es el proceso de encontrar y arreglar defectos en la cadena de propiedad para que un inmueble pueda venderse, refinanciarse, asegurarse o pasar a los herederos. En el Condado de El Paso, donde la tierra ha estado en las mismas familias por generaciones y muchas transferencias se hicieron de palabra, con un contrato informal o con una escritura que nunca se registró, el título nublado es muy común. El problema normalmente aparece en el peor momento: hay un comprador bajo contrato, la compañía de título emite su compromiso, y el Anexo C lista requisitos que nadie puede cumplir porque un abuelo que murió en 1985 sigue siendo el dueño de registro, o un gravamen pagado hace años nunca se liberó."
+        },
+        {
+          "en": "The tools come from several Texas codes. Texas Property Code Sections 5.027 through 5.031 authorize correction instruments for both nonmaterial errors, such as a typo in a legal description, and material corrections signed by all parties. Texas Estates Code Chapter 203 governs affidavits of heirship, which after five years of record become prima facie evidence of who inherited from a person who died without probate, and Chapter 114 governs transfer on death deeds and their cancellation. Property Code Chapter 13 controls recording and the effect of unrecorded instruments, and Chapter 12 sets acknowledgment requirements. Releases of lien, partial releases, and affidavits of identity or non-production are drafted to satisfy the specific title company underwriting requirements listed in the commitment.",
+          "es": "Las herramientas vienen de varios códigos de Texas. Las Secciones 5.027 a 5.031 del Código de Propiedad autorizan instrumentos de corrección tanto para errores menores, como una errata en la descripción legal, como para correcciones materiales firmadas por todas las partes. El Capítulo 203 del Código de Sucesiones (Texas Estates Code) regula las declaraciones juradas de herederos, que después de cinco años registradas se convierten en evidencia prima facie de quién heredó de una persona que murió sin sucesión, y el Capítulo 114 regula las escrituras de transferencia por muerte y su cancelación. El Capítulo 13 del Código de Propiedad controla el registro y el efecto de instrumentos no registrados, y el Capítulo 12 fija los requisitos de reconocimiento notarial. Las liberaciones de gravamen, liberaciones parciales y declaraciones de identidad o de no producción se redactan para cumplir los requisitos específicos de la aseguradora listados en el compromiso de título."
+        },
+        {
+          "en": "We start with the title commitment or a search of the El Paso County Clerk records, identify each defect, and map the shortest lawful path to clear it, whether that is a correction deed, an affidavit of heirship signed by two disinterested witnesses, a release from the old lender, a deed from a missing co-owner, or a cancellation of an old contract for deed. We locate and coordinate signatures from heirs in El Paso, Juárez and elsewhere, record everything with the El Paso County Clerk, and work directly with the title company examiner until the requirement is cleared. No court appearance is involved in curative documents. When a defect genuinely requires a court order, such as a determination of heirship or a suit to quiet title, we tell you up front and explain that path separately.",
+          "es": "Empezamos con el compromiso de título o una búsqueda en los registros del County Clerk del Condado de El Paso, identificamos cada defecto y trazamos el camino legal más corto para limpiarlo, ya sea una escritura de corrección, una declaración jurada de herederos firmada por dos testigos desinteresados, una liberación del antiguo prestamista, una escritura de un copropietario faltante, o la cancelación de un viejo contrato de venta a plazos. Localizamos y coordinamos firmas de herederos en El Paso, Juárez y otros lugares, registramos todo con el County Clerk de El Paso y trabajamos directamente con el examinador de la compañía de título hasta que el requisito quede cumplido. Los documentos de corrección no involucran comparecer en corte. Cuando un defecto realmente requiere orden judicial, como una determinación de herederos o una demanda para aclarar el título, se lo decimos desde el principio y le explicamos ese camino por separado."
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Common title defects on El Paso County property",
+            "es": "Defectos de título comunes en propiedades del Condado de El Paso"
+          },
+          "body": [
+            {
+              "en": "The deceased owner still on title, with no will probated and no affidavit of heirship on record. A deed that describes the wrong lot, block or subdivision, or uses a street address instead of a legal description. A spouse who did not join in the conveyance of a homestead. A deed signed by only some of the heirs. A paid-off mortgage, tax lien, judgment or mechanic's lien that was never released of record. An old contract for deed or option that still shows as a cloud. A deed to or from a business entity that had been forfeited. A name discrepancy, such as a deed in to Maria Garcia and a deed out from Maria G. Lopez, that needs an affidavit of identity.",
+              "es": "El dueño fallecido que sigue en el título, sin testamento tramitado ni declaración de herederos registrada. Una escritura que describe el lote, la manzana o el fraccionamiento equivocado, o que usa la dirección en lugar de la descripción legal. Un cónyuge que no firmó la transferencia de un homestead. Una escritura firmada solo por algunos de los herederos. Una hipoteca pagada, un gravamen fiscal, una sentencia o un gravamen de contratista que nunca se liberó en el registro. Un viejo contrato de venta a plazos u opción que todavía aparece como nube. Una escritura hacia o desde una entidad comercial que había sido cancelada. Una discrepancia de nombre, como una escritura a nombre de María García y otra saliente de María G. López, que necesita una declaración de identidad."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Affidavit of heirship vs. probate: which one clears your title",
+            "es": "Declaración de herederos vs. sucesión: cuál limpia su título"
+          },
+          "body": [
+            {
+              "en": "When the owner of record died without a will and the family has simply lived on or paid taxes on the property, an affidavit of heirship under Estates Code Chapter 203, signed by two witnesses who knew the family but do not inherit, is often enough for an El Paso title company to close, especially when it has been on record for several years or the underwriter accepts it with a supporting deed from all heirs. When there is a will, a muniment of title probate may be needed. When heirs disagree, are unknown, or a lender insists, a judicial determination of heirship is required. We assess which route the specific title examiner will accept before you spend money on the wrong one.",
+              "es": "Cuando el dueño de registro murió sin testamento y la familia simplemente ha vivido en la propiedad o pagado los impuestos, una declaración jurada de herederos bajo el Capítulo 203 del Código de Sucesiones, firmada por dos testigos que conocían a la familia pero no heredan, muchas veces basta para que una compañía de título en El Paso cierre, especialmente cuando lleva varios años registrada o la aseguradora la acepta con una escritura de respaldo de todos los herederos. Cuando hay testamento, puede necesitarse una sucesión tipo muniment of title. Cuando los herederos no están de acuerdo, se desconocen, o un prestamista lo exige, se requiere una determinación judicial de herederos. Evaluamos qué ruta aceptará el examinador de título específico antes de que gaste dinero en la equivocada."
+            }
+          ]
+        }
+      ],
+      "included": [
+        {
+          "en": "Review of the title commitment, Schedule C requirements and El Paso County Clerk records",
+          "es": "Revisión del compromiso de título, requisitos del Anexo C y registros del County Clerk de El Paso"
+        },
+        {
+          "en": "Written curative plan listing each defect and the document that clears it",
+          "es": "Plan escrito de corrección con cada defecto y el documento que lo limpia"
+        },
+        {
+          "en": "Drafting of correction deeds, affidavits of heirship, identity or non-production, and releases of lien",
+          "es": "Redacción de escrituras de corrección, declaraciones de herederos, identidad o no producción, y liberaciones de gravamen"
+        },
+        {
+          "en": "Coordination of signatures from heirs and former owners, including in Ciudad Juárez",
+          "es": "Coordinación de firmas de herederos y antiguos dueños, incluso en Ciudad Juárez"
+        },
+        {
+          "en": "Notarization and e-recording with the El Paso County Clerk",
+          "es": "Notarización y registro electrónico con el County Clerk del Condado de El Paso"
+        },
+        {
+          "en": "Direct communication with the title company examiner until the requirement is cleared",
+          "es": "Comunicación directa con el examinador de la compañía de título hasta que el requisito quede cumplido"
+        }
+      ],
+      "process": [
+        {
+          "title": {
+            "en": "Diagnose the defect",
+            "es": "Diagnosticar el defecto"
+          },
+          "body": {
+            "en": "Send us the title commitment or the property address. We pull the chain of title from the El Paso County Clerk, identify every cloud, and quote a flat fee per curative document.",
+            "es": "Envíenos el compromiso de título o la dirección de la propiedad. Obtenemos la cadena de título del County Clerk de El Paso, identificamos cada nube y cotizamos una tarifa fija por documento de corrección."
+          }
+        },
+        {
+          "title": {
+            "en": "Draft and gather signatures",
+            "es": "Redactar y reunir firmas"
+          },
+          "body": {
+            "en": "We prepare the correction deed, affidavit or release, confirm the wording with the title examiner, and coordinate notarized signatures from heirs, ex-spouses or lenders wherever they are.",
+            "es": "Preparamos la escritura de corrección, declaración o liberación, confirmamos el texto con el examinador de título y coordinamos firmas notarizadas de herederos, ex cónyuges o prestamistas donde estén."
+          }
+        },
+        {
+          "title": {
+            "en": "Record and clear",
+            "es": "Registrar y limpiar"
+          },
+          "body": {
+            "en": "We record the documents with the El Paso County Clerk, deliver file-stamped copies to the title company, and confirm the Schedule C requirement is removed so your closing can proceed.",
+            "es": "Registramos los documentos con el County Clerk de El Paso, entregamos copias selladas a la compañía de título y confirmamos que el requisito del Anexo C se elimine para que su cierre pueda proceder."
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "How much does title curative work cost in El Paso?",
+            "es": "¿Cuánto cuesta la corrección de título en El Paso?"
+          },
+          "a": {
+            "en": "We quote a flat fee for each curative document, such as a correction deed, affidavit of heirship or release of lien, plus El Paso County recording fees. A single-defect file is inexpensive; a chain with several deceased owners and many heirs costs more because more documents and signatures are needed. You get the full quote after we review the commitment, before any work begins.",
+            "es": "Cotizamos una tarifa fija por cada documento de corrección, como una escritura de corrección, declaración de herederos o liberación de gravamen, más las cuotas de registro del Condado de El Paso. Un expediente con un solo defecto es económico; una cadena con varios dueños fallecidos y muchos herederos cuesta más porque se necesitan más documentos y firmas. Recibe la cotización completa después de revisar el compromiso, antes de empezar."
+          }
+        },
+        {
+          "q": {
+            "en": "How long does it take to clear a title in Texas?",
+            "es": "¿Cuánto tarda limpiar un título en Texas?"
+          },
+          "a": {
+            "en": "A simple correction deed or release can be drafted, signed and recorded in one to two weeks. Files that require signatures from multiple heirs, especially relatives in Juárez or out of state, usually take four to six weeks. If the title company will only accept a court order, a determination of heirship in El Paso probate court adds several months, which we discuss before choosing that route.",
+            "es": "Una escritura de corrección o liberación sencilla se puede redactar, firmar y registrar en una a dos semanas. Los expedientes que requieren firmas de varios herederos, especialmente familiares en Juárez o fuera del estado, normalmente toman de cuatro a seis semanas. Si la compañía de título solo acepta una orden judicial, una determinación de herederos en la corte de sucesiones de El Paso agrega varios meses, lo cual platicamos antes de elegir esa ruta."
+          }
+        },
+        {
+          "q": {
+            "en": "My parents died without a will and the house is still in their name. Can I sell it?",
+            "es": "Mis padres murieron sin testamento y la casa sigue a su nombre. ¿Puedo venderla?"
+          },
+          "a": {
+            "en": "Often yes, without probate. An affidavit of heirship recorded with the El Paso County Clerk, signed by two disinterested witnesses, plus a deed from all of the heirs to the buyer, satisfies many El Paso title companies. If any heir has died, is a minor, or refuses to sign, or if there is a will, the path changes, and we tell you which one applies before you list the property.",
+            "es": "Muchas veces sí, sin sucesión. Una declaración jurada de herederos registrada con el County Clerk de El Paso, firmada por dos testigos desinteresados, más una escritura de todos los herederos al comprador, satisface a muchas compañías de título en El Paso. Si algún heredero falleció, es menor de edad o se niega a firmar, o si hay testamento, el camino cambia, y le decimos cuál aplica antes de que ponga la propiedad en venta."
+          }
+        },
+        {
+          "q": {
+            "en": "What is a correction deed in Texas?",
+            "es": "¿Qué es una escritura de corrección en Texas?"
+          },
+          "a": {
+            "en": "A correction instrument under Texas Property Code Sections 5.027 through 5.031 fixes an error in a previously recorded deed. Nonmaterial errors, such as a misspelled name or a typo in the lot number, can be corrected by a person with knowledge of the facts. Material changes, such as adding land or changing the parties, require a correction deed signed by everyone who signed the original. It relates back to the original recording date.",
+            "es": "Un instrumento de corrección bajo las Secciones 5.027 a 5.031 del Código de Propiedad de Texas arregla un error en una escritura ya registrada. Los errores menores, como un nombre mal escrito o una errata en el número de lote, los puede corregir una persona con conocimiento de los hechos. Los cambios materiales, como agregar terreno o cambiar a las partes, requieren una escritura de corrección firmada por todos los que firmaron la original. Surte efecto desde la fecha del registro original."
+          }
+        },
+        {
+          "q": {
+            "en": "Do I have to go to court to fix my title?",
+            "es": "¿Tengo que ir a corte para corregir mi título?"
+          },
+          "a": {
+            "en": "For most defects, no. Correction deeds, affidavits of heirship, releases of lien and identity affidavits are prepared in our office and recorded with the El Paso County Clerk without any court involvement. Court is needed only when heirs cannot be identified or will not cooperate, or when a title company requires a judicial determination of heirship or a quiet title judgment, and we explain that separately if it applies.",
+            "es": "Para la mayoría de los defectos, no. Las escrituras de corrección, declaraciones de herederos, liberaciones de gravamen y declaraciones de identidad se preparan en nuestra oficina y se registran con el County Clerk del Condado de El Paso sin ninguna intervención judicial. La corte solo se necesita cuando los herederos no se pueden identificar o no cooperan, o cuando una compañía de título exige una determinación judicial de herederos o una sentencia para aclarar el título, y eso lo explicamos por separado si aplica."
+          }
+        }
+      ],
+      "keywords": [
+        "title curative lawyer El Paso",
+        "clear title El Paso TX",
+        "correction deed Texas attorney",
+        "affidavit of heirship El Paso",
+        "release of lien El Paso County",
+        "clouded title Texas property"
+      ],
+      "related": [
+        "affidavit-of-heirship",
+        "determination-of-heirship",
+        "deeds",
+        "muniment-of-title"
+      ],
+      "outbound": [
+        {
+          "label": {
+            "en": "Texas Property Code Chapter 5 — Correction Instruments (§§ 5.027–5.031)",
+            "es": "Código de Propiedad de Texas, Capítulo 5 — Instrumentos de Corrección (§§ 5.027–5.031)"
+          },
+          "url": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.5.htm"
+        },
+        {
+          "label": {
+            "en": "Texas Estates Code Chapter 203 — Affidavits of Heirship",
+            "es": "Código de Sucesiones de Texas, Capítulo 203 — Declaraciones de Herederos"
+          },
+          "url": "https://statutes.capitol.texas.gov/Docs/ES/htm/ES.203.htm"
+        }
+      ]
+    }
+  }
+}

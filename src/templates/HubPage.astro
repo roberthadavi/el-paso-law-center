@@ -1,0 +1,69 @@
+---
+import Base from '../layouts/Base.astro';
+import ServiceCard from '../components/ServiceCard.astro';
+import Faq from '../components/Faq.astro';
+import CtaBand from '../components/CtaBand.astro';
+import CtaMid from '../components/CtaMid.astro';
+import { HUBS, hubPath, type Lang, type CatalogHub } from '../data/catalog';
+import { SITE, PATHS, t } from '../data/site';
+import { hubContent, serviceContent } from '../lib/content';
+interface Props { lang: Lang; hub: CatalogHub }
+const { lang, hub } = Astro.props;
+const alt: Lang = lang === 'en' ? 'es' : 'en';
+const c = hubContent(hub.id);
+const path = hubPath(hub, lang);
+const others = HUBS.filter((h) => h.id !== hub.id).slice(0, 6);
+const crumbs = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
+  { '@type': 'ListItem', position: 1, name: t('home', lang), item: new URL(PATHS.home[lang], SITE.url).href },
+  { '@type': 'ListItem', position: 2, name: hub.name[lang], item: new URL(path, SITE.url).href },
+] };
+const faqLd = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: c.faqs.map((f) => ({ '@type': 'Question', name: f.q[lang], acceptedAnswer: { '@type': 'Answer', text: f.a[lang] } })) };
+const svcLd = { '@context': 'https://schema.org', '@type': 'Service', name: hub.name[lang], serviceType: hub.name.en, provider: { '@id': `${SITE.url}/#organization` }, areaServed: 'El Paso County, Texas', url: new URL(path, SITE.url).href, description: c.metaDescription[lang] };
+---
+<Base lang={lang} title={c.title[lang]} description={c.metaDescription[lang]} path={path} altPath={hubPath(hub, alt)} jsonLd={[crumbs, faqLd, svcLd]}>
+  <section class="hero hero-inner on-dark">
+    <div class="hero-bg"><img src="/images/franklin-mountains-el-paso.webp" alt="" width="1200" height="1500" /></div>
+    <div class="container">
+      <div class="hero-copy">
+        <nav class="crumbs" aria-label={t('breadcrumbAria', lang)}><ol><li><a href={PATHS.home[lang]}>{t('home', lang)}</a></li><li><a href={PATHS.practiceAreas[lang]}>{t('practiceAreas', lang)}</a></li><li aria-current="page">{hub.name[lang]}</li></ol></nav>
+        <div class="eyebrow gold">{c.eyebrow[lang]}</div>
+        <h1>{c.h1[lang]}</h1>
+        <p class="lede">{c.summary[lang]}</p>
+        <div class="actions">
+          <a class="btn btn-gold btn-lg" href={SITE.phoneHref}>📞 {t('callNow', lang)}</a>
+          <a class="btn btn-outline btn-lg" href={PATHS.contact[lang]}>{t('freeConsultation', lang)}</a>
+        </div>
+        <p class="fine">{t('lastReviewed', lang)} {SITE.attorneyFull} · {t('stateBar', lang)}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="narrow prose">
+      {c.intro.map((p) => <p>{p[lang]}</p>)}
+    </div>
+  </section>
+
+  <section class="section bg-paper2">
+    <div class="container">
+      <div class="section-head">
+        <div class="eyebrow">{t('services', lang)}</div>
+        <h2>{t('servicesIn', lang)}</h2>
+      </div>
+      <div class="grid grid-3">
+        {hub.services.map((s) => <ServiceCard lang={lang} service={s} summary={serviceContent(hub.id, s.id).summary[lang]} />)}
+      </div>
+      <div style="margin-top:2rem"><CtaMid lang={lang} /></div>
+    </div>
+  </section>
+
+  <Faq lang={lang} faqs={c.faqs} />
+
+  <section class="section-tight bg-paper2">
+    <div class="container">
+      <div class="eyebrow">{lang === 'en' ? 'Other practice areas' : 'Otras áreas de práctica'}</div>
+      <div class="pills">{others.map((h) => <span><a href={hubPath(h, lang)} style="text-decoration:none">{h.icon} {h.name[lang]}</a></span>)}<span><a href={PATHS.practiceAreas[lang]} style="text-decoration:none">{t('allPracticeAreas', lang)} →</a></span></div>
+    </div>
+  </section>
+  <CtaBand lang={lang} />
+</Base>

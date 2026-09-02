@@ -1,0 +1,209 @@
+{
+  "title": {
+    "en": "Failure to Appear Lawyer El Paso | El Paso Law Center",
+    "es": "Abogado Falta de Comparecencia El Paso | El Paso Law Center"
+  },
+  "metaDescription": {
+    "en": "El Paso failure-to-appear and OmniBase hold lawyer. We clear the FTA charge and the Chapter 706 hold so DPS will renew your license. Flat fee, no court.",
+    "es": "Abogado en El Paso para falta de comparecencia y bloqueos OmniBase. Limpiamos el cargo FTA y el bloqueo para que DPS renueve su licencia. Tarifa fija, sin corte."
+  },
+  "eyebrow": {
+    "en": "EL PASO FAILURE TO APPEAR & OMNIBASE HOLD ATTORNEY",
+    "es": "ABOGADO DE FALTA DE COMPARECENCIA Y BLOQUEO OMNIBASE EN EL PASO"
+  },
+  "h1": {
+    "en": "Failure to Appear and OmniBase Hold Lawyer in El Paso — Get Your License Renewed Again",
+    "es": "Abogado de Falta de Comparecencia y Bloqueo OmniBase en El Paso — Renueve su Licencia de Nuevo"
+  },
+  "summary": {
+    "en": "We resolve failure-to-appear charges and the OmniBase holds that stop DPS from renewing your license, clearing every reporting court in El Paso for one flat fee without you going to court.",
+    "es": "Resolvemos cargos por falta de comparecencia y los bloqueos OmniBase que impiden que DPS renueve su licencia, liberando cada corte de El Paso que lo reportó por una tarifa fija y sin ir a corte."
+  },
+  "feeModel": {
+    "en": "Flat fee per reporting court, quoted upfront",
+    "es": "Tarifa fija por corte que lo reportó, cotizada por adelantado"
+  },
+  "timeline": {
+    "en": "Typically 2–8 weeks from filing to OmniBase clearance",
+    "es": "Normalmente de 2 a 8 semanas desde la presentación hasta la liberación en OmniBase"
+  },
+  "intro": [
+    {
+      "en": "Many El Paso drivers first learn about an OmniBase hold at the DPS office on Hondo Pass or Scott Simpson, when the clerk refuses to renew their license because of a ticket from years ago. The hold comes from the Texas Failure to Appear program: when you miss an appearance date or stop paying a fine on a Class C case, the court reports you to OmniBase Services of Texas and DPS denies renewal until that court clears you. Meanwhile the court has usually filed a separate failure-to-appear charge and issued a warrant. The Law Office of Robert Navar untangles the whole chain, court by court, for a flat fee.",
+      "es": "Muchos conductores de El Paso se enteran de un bloqueo OmniBase en la oficina de DPS en Hondo Pass o Scott Simpson, cuando el empleado se niega a renovar su licencia por una multa de hace años. El bloqueo viene del programa de Falta de Comparecencia de Texas: cuando falta a una fecha de comparecencia o deja de pagar una multa en un caso Clase C, la corte lo reporta a OmniBase Services of Texas y DPS niega la renovación hasta que esa corte lo libere. Mientras tanto, la corte por lo general ya presentó un cargo aparte por falta de comparecencia y emitió una orden de arresto. La Oficina Legal de Robert Navar desenreda la cadena completa, corte por corte, por una tarifa fija."
+    },
+    {
+      "en": "The program is authorized by Texas Transportation Code Chapter 706, which lets a municipal or justice court contract with a vendor to report anyone who fails to appear or fails to pay. Section 706.006 adds a reimbursement fee for each reported violation, on top of the fine, before the court will issue a clearance. The missed court date itself is a separate Class C offense: Section 543.009 makes violating a written promise to appear a misdemeanor, and El Paso courts routinely file that charge alongside the original ticket. Then Texas Code of Criminal Procedure Article 45.014 warrants follow. One missed date can quietly become two cases, a warrant and a license hold.",
+      "es": "El programa está autorizado por el Capítulo 706 del Código de Transporte de Texas, que permite a una corte municipal o de Juez de Paz contratar a un proveedor para reportar a quien no comparece o no paga. La Sección 706.006 agrega una cuota de reembolso por cada violación reportada, además de la multa, antes de que la corte emita la liberación. La fecha de corte perdida es en sí una ofensa Clase C aparte: la Sección 543.009 convierte en delito menor violar una promesa escrita de comparecer, y las cortes de El Paso presentan ese cargo de rutina junto con la multa original. Después vienen las órdenes de arresto bajo el Artículo 45.014 del Código de Procedimiento Penal de Texas. Una sola fecha perdida puede convertirse calladamente en dos casos, una orden de arresto y un bloqueo de licencia."
+    },
+    {
+      "en": "You do not need to appear in court to fix any of this. Robert Navar pulls your OmniBase report and your DPS eligibility record to identify every reporting court, files his appearance to recall any warrant, and negotiates both the original citation and the failure-to-appear charge, often getting the FTA dismissed when the underlying ticket is resolved. He then pays the Chapter 706 fee, obtains the court's clearance and verifies with DPS that the hold is gone before you go back to renew. People who try to do this alone in El Paso often pay one court, discover a second hold, and lose weeks; we clear them all in one pass.",
+      "es": "Usted no necesita comparecer en corte para arreglar nada de esto. Robert Navar obtiene su reporte de OmniBase y su récord de elegibilidad de DPS para identificar cada corte que lo reportó, registra su representación para cancelar cualquier orden de arresto, y negocia tanto la citación original como el cargo por falta de comparecencia, logrando muchas veces que el cargo FTA se deseche cuando se resuelve la multa de fondo. Luego paga la cuota del Capítulo 706, obtiene la liberación de la corte y verifica con DPS que el bloqueo desapareció antes de que usted regrese a renovar. Quienes intentan hacerlo solos en El Paso muchas veces pagan una corte, descubren un segundo bloqueo y pierden semanas; nosotros los liberamos en una sola pasada."
+    }
+  ],
+  "sections": [
+    {
+      "heading": {
+        "en": "How an OmniBase hold is cleared, step by step",
+        "es": "Cómo se libera un bloqueo OmniBase, paso por paso"
+      },
+      "body": [
+        {
+          "en": "A hold is not released by DPS; it is released by the court that reported it. That court must first consider the case resolved, whether by dismissal, a completed deferred disposition, payment in full or a payment plan the judge accepts. Then the Section 706.006 reimbursement fee and any court-side administrative fee must be paid. Only after both does the clerk transmit the clearance to OmniBase, which typically posts to the DPS system within a few business days. If you were reported by three El Paso courts, you need three clearances. We track each one and give you a written confirmation before you go to DPS.",
+          "es": "Un bloqueo no lo libera DPS; lo libera la corte que lo reportó. Esa corte primero debe considerar el caso resuelto, ya sea por desechamiento, disposición diferida cumplida, pago completo o un plan de pagos que el juez acepte. Luego se debe pagar la cuota de reembolso de la Sección 706.006 y cualquier cuota administrativa de la corte. Solo después de ambas el secretario transmite la liberación a OmniBase, que normalmente se refleja en el sistema de DPS en pocos días hábiles. Si lo reportaron tres cortes de El Paso, necesita tres liberaciones. Le damos seguimiento a cada una y le entregamos confirmación por escrito antes de que vaya a DPS."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "en": "Driving on an expired license while the hold is pending",
+        "es": "Manejar con licencia vencida mientras el bloqueo sigue pendiente"
+      },
+      "body": [
+        {
+          "en": "The trap with an OmniBase hold is that people keep driving on the expired license while they figure it out, and each new stop produces a driving while license invalid citation under Transportation Code Section 521.457 and possibly a no-insurance ticket, which then create new holds. If your license has expired for more than two years you may also have to retest. The fastest way out is to stop the cycle now: let us clear the reporting courts, confirm the DPS eligibility screen shows no other suspensions, and get you renewed. Where DPS also shows a suspension, our license reinstatement service handles that in the same engagement.",
+          "es": "La trampa del bloqueo OmniBase es que la gente sigue manejando con la licencia vencida mientras lo resuelve, y cada parada nueva produce una citación por manejar con licencia inválida bajo la Sección 521.457 del Código de Transporte y posiblemente una multa por no tener seguro, que luego crean bloqueos nuevos. Si su licencia lleva más de dos años vencida quizá también tenga que volver a hacer el examen. La salida más rápida es cortar el ciclo ahora: permítanos liberar las cortes que lo reportaron, confirmar que la pantalla de elegibilidad de DPS no muestre otras suspensiones y lograr su renovación. Cuando DPS también muestra una suspensión, nuestro servicio de reinstalación de licencia lo maneja dentro del mismo caso."
+        }
+      ]
+    }
+  ],
+  "included": [
+    {
+      "en": "OmniBase and DPS License Eligibility report review to identify every reporting court",
+      "es": "Revisión del reporte de OmniBase y de elegibilidad de DPS para identificar cada corte que lo reportó"
+    },
+    {
+      "en": "Attorney appearance and warrant recall in each El Paso court involved",
+      "es": "Registro de representación y cancelación de orden de arresto en cada corte de El Paso involucrada"
+    },
+    {
+      "en": "Negotiation of the original ticket and the failure-to-appear charge, seeking dismissal of the FTA",
+      "es": "Negociación de la multa original y del cargo por falta de comparecencia, buscando el desechamiento del FTA"
+    },
+    {
+      "en": "Payment of Chapter 706 reimbursement fees and court clearance fees on your behalf from funds you provide",
+      "es": "Pago de las cuotas de reembolso del Capítulo 706 y de liberación de la corte en su nombre con fondos que usted proporciona"
+    },
+    {
+      "en": "Confirmation that each clearance has posted to OmniBase and DPS",
+      "es": "Confirmación de que cada liberación se registró en OmniBase y DPS"
+    },
+    {
+      "en": "Written checklist of anything else DPS requires before renewal",
+      "es": "Lista escrita de cualquier otro requisito de DPS antes de la renovación"
+    }
+  ],
+  "process": [
+    {
+      "title": {
+        "en": "We map every hold",
+        "es": "Identificamos cada bloqueo"
+      },
+      "body": {
+        "en": "With your license number and date of birth we pull the OmniBase and DPS eligibility records, list each reporting court and open case in El Paso, and quote a single flat fee covering the entire cleanup.",
+        "es": "Con su número de licencia y fecha de nacimiento obtenemos los registros de OmniBase y de elegibilidad de DPS, enumeramos cada corte que lo reportó y cada caso abierto en El Paso, y cotizamos una sola tarifa fija por la limpieza completa."
+      }
+    },
+    {
+      "title": {
+        "en": "We resolve each court",
+        "es": "Resolvemos cada corte"
+      },
+      "body": {
+        "en": "Robert Navar files his appearance, recalls any warrants and negotiates the ticket and the FTA charge in each court. You approve every plea or plan by phone; you never attend a setting.",
+        "es": "Robert Navar registra su representación, cancela las órdenes de arresto y negocia la multa y el cargo FTA en cada corte. Usted aprueba cada acuerdo o plan por teléfono; nunca asiste a una fecha."
+      }
+    },
+    {
+      "title": {
+        "en": "Clearances posted, license renewed",
+        "es": "Liberaciones registradas, licencia renovada"
+      },
+      "body": {
+        "en": "We pay the Chapter 706 fees, obtain each court's clearance, confirm it has posted to DPS and send you a written go-ahead so your visit to the DPS office ends with a new license, not another denial.",
+        "es": "Pagamos las cuotas del Capítulo 706, obtenemos la liberación de cada corte, confirmamos que se registró en DPS y le mandamos un visto bueno por escrito para que su visita a DPS termine con licencia nueva, no con otra negativa."
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "What is an OmniBase hold on my Texas driver's license?",
+        "es": "¿Qué es un bloqueo OmniBase en mi licencia de Texas?"
+      },
+      "a": {
+        "en": "OmniBase Services of Texas runs the Failure to Appear program under Transportation Code Chapter 706. When you miss a court date or stop paying a Class C fine, the court reports you, and DPS will not renew your license until that court sends a clearance. It does not suspend a valid license, but once it expires you cannot renew, and driving on it becomes a new offense.",
+        "es": "OmniBase Services of Texas administra el programa de Falta de Comparecencia bajo el Capítulo 706 del Código de Transporte. Cuando falta a una fecha de corte o deja de pagar una multa Clase C, la corte lo reporta, y DPS no renueva su licencia hasta que esa corte mande una liberación. No suspende una licencia vigente, pero una vez vencida no la puede renovar, y manejar con ella se vuelve una ofensa nueva."
+      }
+    },
+    {
+      "q": {
+        "en": "How do I remove an OmniBase hold in El Paso?",
+        "es": "¿Cómo quito un bloqueo OmniBase en El Paso?"
+      },
+      "a": {
+        "en": "Identify every reporting court, resolve each underlying case by dismissal, plea, payment or approved plan, pay the Section 706.006 reimbursement fee and the court's clearance fee, and wait for each clearance to post at DPS. We handle all of it without you appearing in court, including recalling any warrant that issued when you missed the date, and confirm the release before you return to the El Paso DPS office.",
+        "es": "Identifique cada corte que lo reportó, resuelva cada caso de fondo por desechamiento, acuerdo, pago o plan aprobado, pague la cuota de reembolso de la Sección 706.006 y la cuota de liberación de la corte, y espere a que cada liberación se registre en DPS. Nosotros lo hacemos completo sin que usted comparezca, incluyendo cancelar la orden de arresto que se emitió cuando faltó a la fecha, y confirmamos la liberación antes de que regrese a la oficina de DPS en El Paso."
+      }
+    },
+    {
+      "q": {
+        "en": "Is failure to appear a separate charge in Texas?",
+        "es": "¿La falta de comparecencia es un cargo aparte en Texas?"
+      },
+      "a": {
+        "en": "Yes. Under Transportation Code Section 543.009, violating your written promise to appear on a citation is its own Class C misdemeanor, with its own fine, and El Paso courts file it alongside the original ticket. It is often the easier of the two to get dismissed once the original case is resolved, which is one of the first things we negotiate.",
+        "es": "Sí. Bajo la Sección 543.009 del Código de Transporte, violar su promesa escrita de comparecer en una citación es un delito menor Clase C aparte, con su propia multa, y las cortes de El Paso lo presentan junto con la multa original. Suele ser el más fácil de los dos de desechar una vez resuelto el caso original, y es una de las primeras cosas que negociamos."
+      }
+    },
+    {
+      "q": {
+        "en": "How long does it take to clear an OmniBase hold?",
+        "es": "¿Cuánto tarda en liberarse un bloqueo OmniBase?"
+      },
+      "a": {
+        "en": "In El Paso, a single-court hold with a straightforward ticket can be cleared in about two to three weeks: a few days to recall the warrant, a docket setting to resolve the case, then a few business days for the clearance to post. Multiple courts, payment plans or a judgment that needs to be reconsidered push the range toward six to eight weeks. We give you a realistic estimate after the initial record pull.",
+        "es": "En El Paso, un bloqueo de una sola corte con una multa sencilla se puede liberar en unas dos o tres semanas: unos días para cancelar la orden de arresto, una fecha de calendario para resolver el caso y unos días hábiles para que se registre la liberación. Varias cortes, planes de pago o una sentencia que debe reconsiderarse llevan el rango hacia seis u ocho semanas. Le damos un estimado realista después de obtener los registros."
+      }
+    },
+    {
+      "q": {
+        "en": "How much does it cost to clear a failure to appear in El Paso?",
+        "es": "¿Cuánto cuesta limpiar una falta de comparecencia en El Paso?"
+      },
+      "a": {
+        "en": "Our flat fee depends on how many El Paso courts reported you and how many cases sit in each. Separate from our fee, each reported violation carries the Chapter 706 reimbursement fee plus the court's own administrative fee, and whatever fine or deferred disposition cost is negotiated on the underlying ticket. We give you the full number, fee and costs together, before you commit.",
+        "es": "Nuestra tarifa fija depende de cuántas cortes de El Paso lo reportaron y cuántos casos hay en cada una. Aparte de nuestra tarifa, cada violación reportada lleva la cuota de reembolso del Capítulo 706 más la cuota administrativa de la corte, y la multa o el costo de disposición diferida que se negocie en la multa de fondo. Le damos la cifra completa, tarifa y costos juntos, antes de que se comprometa."
+      }
+    }
+  ],
+  "keywords": [
+    "failure to appear lawyer El Paso",
+    "OmniBase hold El Paso attorney",
+    "clear OmniBase hold Texas",
+    "license renewal denied El Paso",
+    "Chapter 706 failure to appear Texas",
+    "FTA ticket lawyer El Paso"
+  ],
+  "related": [
+    "warrant-recall",
+    "license-reinstatement",
+    "traffic-tickets"
+  ],
+  "outbound": [
+    {
+      "label": {
+        "en": "Texas Transportation Code Chapter 706 — Denial of Renewal of License for Failure to Appear",
+        "es": "Código de Transporte de Texas, Capítulo 706 — Negación de Renovación de Licencia por Falta de Comparecencia"
+      },
+      "url": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.706.htm"
+    },
+    {
+      "label": {
+        "en": "OmniBase Services of Texas — Failure to Appear program",
+        "es": "OmniBase Services of Texas — Programa de Falta de Comparecencia"
+      },
+      "url": "https://www.omnibase.com/"
+    }
+  ]
+}

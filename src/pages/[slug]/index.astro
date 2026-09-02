@@ -1,0 +1,11 @@
+---
+import HubPage from '../../templates/HubPage.astro';
+import ServicePage from '../../templates/ServicePage.astro';
+import { allSlugs, resolveSlug } from '../../lib/content';
+export function getStaticPaths() {
+  return allSlugs('en').map((slug) => ({ params: { slug } }));
+}
+const { slug } = Astro.params;
+const r = resolveSlug(slug!, 'en')!;
+---
+{r.kind === 'hub' ? <HubPage lang="en" hub={r.hub} /> : <ServicePage lang="en" hub={r.hub} service={r.service} />}

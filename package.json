@@ -1,0 +1,22 @@
+{
+  "name": "el-paso-law-center",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "content:merge": "for h in traffic-license record-cleanup estate-planning probate family personal-injury immigration business real-estate consumer-debt employment documents; do node scripts/merge-content.mjs $h; done",
+    "content:validate": "node scripts/validate-content.mjs traffic-license record-cleanup estate-planning probate family personal-injury immigration business real-estate consumer-debt employment documents",
+    "deploy": "astro build && wrangler deploy"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^7.2.10"
+  },
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "playwright": "^1.62.1",
+    "wrangler": "^4.128.0"
+  }
+}
