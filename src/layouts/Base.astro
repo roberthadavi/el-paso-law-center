@@ -15,7 +15,7 @@ interface Props {
   ogImage?: string;
   noindex?: boolean;
 }
-const { lang, title, description, path, altPath, jsonLd = [], ogImage = '/images/og-el-paso-law-center.jpg', noindex = false } = Astro.props;
+const { lang, title, description, path, altPath, jsonLd = [], ogImage = '/images/og-navar-law.jpg', noindex = false } = Astro.props;
 const canonical = new URL(path, SITE.url).href;
 const alt = new URL(altPath, SITE.url).href;
 const enUrl = lang === 'en' ? canonical : alt;
@@ -31,7 +31,7 @@ const org = {
   telephone: '+1-915-526-0787',
   email: SITE.email,
   image: `${SITE.url}/images/robert-navar-el-paso-attorney.webp`,
-  logo: `${SITE.url}/images/og-el-paso-law-center.jpg`,
+  logo: `${SITE.url}/images/og-navar-law.jpg`,
   priceRange: '$$',
   address: { '@type': 'PostalAddress', streetAddress: SITE.address.street, addressLocality: SITE.address.city, addressRegion: SITE.address.state, postalCode: SITE.address.zip, addressCountry: 'US' },
   geo: { '@type': 'GeoCoordinates', latitude: SITE.geo.lat, longitude: SITE.geo.lng },

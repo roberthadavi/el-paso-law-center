@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "el-paso-law-center",
+  "name": "navar-law",
   "main": "worker/index.ts",
   "compatibility_date": "2026-08-01",
   "assets": {
