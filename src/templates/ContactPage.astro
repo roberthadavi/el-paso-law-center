@@ -35,7 +35,6 @@ const mapQ = encodeURIComponent(`${SITE.address.street}, ${SITE.address.city}, $
           <li><b>{lang === 'en' ? 'Languages' : 'Idiomas'}</b>{t('englishSpanish', lang)}</li>
         </ul>
         <iframe class="map" style="margin-top:1.5rem" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title={lang === 'en' ? 'Map to the Law Office of Robert Navar' : 'Mapa a Law Office of Robert Navar'} src={`https://www.google.com/maps?q=${mapQ}&output=embed`}></iframe>
-        <p class="muted" style="font-size:.85rem;margin-top:1rem">{lang === 'en' ? 'Traffic tickets, warrants and DWI are handled by the same firm on its dedicated site, ' : 'Multas de tráfico, órdenes de arresto y DWI se manejan por esta misma firma en su sitio dedicado, '}<a href={SITE.trafficSite} rel="noopener">trafficticketlawyerelpaso.com</a>.</p>
       </div>
     </div>
   </section>
