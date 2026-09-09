@@ -21,7 +21,7 @@ const { lang, altPath } = Astro.props;
   <div class="container">
     <a class="brand" href={PATHS.home[lang]} aria-label={SITE.name}>
       <span class="name">{SITE.name}</span>
-      <span class="sub">{SITE.firm} · El Paso, TX</span>
+      <span class="sub">{SITE.tagline[lang]}</span>
     </a>
     <nav class="nav" aria-label="Main">
       <div class="has-menu">

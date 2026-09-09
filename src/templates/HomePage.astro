@@ -31,7 +31,7 @@ const faqLd = {
         <blockquote class="quote">“{HOME.quote[lang]}”<cite>— {SITE.attorneyFull}</cite></blockquote>
       </div>
       <div class="hero-photo">
-        <img src="/images/robert-navar-el-paso-attorney.webp" width="900" height="1200" alt={lang === 'en' ? 'Robert Navar, El Paso attorney, at his desk — Law Office of Robert Navar, El Paso Law Center' : 'Robert Navar, abogado de El Paso, en su escritorio — Law Office of Robert Navar, El Paso Law Center'} fetchpriority="high" />
+        <img src="/images/robert-navar-el-paso-attorney.webp" width="900" height="1200" alt={lang === 'en' ? 'Robert Navar, El Paso attorney, at his desk — Law Office of Robert Navar' : 'Robert Navar, abogado de El Paso, en su escritorio — Law Office of Robert Navar'} fetchpriority="high" />
       </div>
     </div>
   </section>
@@ -97,10 +97,10 @@ const faqLd = {
         <p><strong>{SITE.address.street}, {SITE.address.city}, {SITE.address.state} {SITE.address.zip}</strong></p>
         <div class="pills">{HOME.localPills.map((p) => <span>{p}</span>)}</div>
       </div>
-      <img src="/images/franklin-mountains-el-paso.webp" width="1200" height="1500" loading="lazy" alt={lang === 'en' ? 'Franklin Mountains over El Paso, Texas — El Paso Law Center serves all of El Paso County' : 'Montañas Franklin sobre El Paso, Texas — El Paso Law Center sirve a todo el Condado de El Paso'} />
+      <img src="/images/franklin-mountains-el-paso.webp" width="1200" height="1500" loading="lazy" alt={lang === 'en' ? 'Franklin Mountains over El Paso, Texas — the Law Office of Robert Navar serves all of El Paso County' : 'Montañas Franklin sobre El Paso, Texas — Law Office of Robert Navar sirve a todo el Condado de El Paso'} />
     </div>
   </section>
 
-  <Faq lang={lang} faqs={HOME.faqs} heading={lang === 'en' ? 'Common questions about El Paso Law Center' : 'Preguntas comunes sobre El Paso Law Center'} />
+  <Faq lang={lang} faqs={HOME.faqs} heading={lang === 'en' ? 'Common questions about the Law Office of Robert Navar' : 'Preguntas comunes sobre Law Office of Robert Navar'} />
   <CtaBand lang={lang} />
 </Base>

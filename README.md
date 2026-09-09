@@ -1,4 +1,4 @@
-# El Paso Law Center — elpasolawyers.org
+# Law Office of Robert Navar — elpasolawyers.org
 
 Bilingual (EN/ES) static site for the Law Office of Robert Navar, built with Astro and served by a Cloudflare Worker (static assets + `/api/contact` lead endpoint via Resend).
 

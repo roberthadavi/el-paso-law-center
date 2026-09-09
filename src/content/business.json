@@ -1,8 +1,8 @@
 {
   "hub": {
     "title": {
-      "en": "El Paso Business Lawyer | El Paso Law Center",
-      "es": "Abogado de Negocios en El Paso | El Paso Law Center"
+      "en": "El Paso Business Lawyer | Navar Law",
+      "es": "Abogado de Negocios en El Paso | Navar Law"
     },
     "metaDescription": {
       "en": "Flat-fee El Paso business lawyer for LLCs, corporations, contracts, DBAs, trademarks and business sales. No court, bilingual. Call (915) 526-0787.",
@@ -57,8 +57,8 @@
           "es": "¿Pueden ayudar con un negocio binacional que trabaja con Juárez?"
         },
         "a": {
-          "en": "Yes, on the Texas side. Many El Paso companies supply, broker for or contract with maquiladoras and Mexican vendors. We form the Texas entity, draft bilingual NDAs and supplier or contractor agreements governed by Texas law, register the brand with the USPTO and help structure the U.S. side of a purchase or sale. For Mexican corporate filings or an S.A. de C.V., we coordinate with licensed Mexican counsel rather than practicing Mexican law ourselves.",
-          "es": "Sí, del lado de Texas. Muchas empresas de El Paso surten, hacen de intermediarias o contratan con maquiladoras y proveedores mexicanos. Formamos la entidad de Texas, redactamos NDA y contratos de proveedor o contratista bilingües regidos por la ley de Texas, registramos la marca ante la USPTO y ayudamos a estructurar el lado estadounidense de una compraventa. Para trámites corporativos en México o una S.A. de C.V., coordinamos con abogados mexicanos con licencia en lugar de ejercer derecho mexicano nosotros."
+          "en": "Yes, on the Texas side. Many El Paso companies supply, broker for or contract with maquiladoras and Mexican vendors. We form the Texas entity, draft bilingual NDAs and supplier or contractor agreements governed by Texas law, register the brand with the USPTO and help structure the U.S. side of a purchase or sale. We do not practice Mexican law; Mexican corporate filings such as an S.A. de C.V. must be handled by a lawyer licensed in Mexico.",
+          "es": "Sí, del lado de Texas. Muchas empresas de El Paso surten, hacen de intermediarias o contratan con maquiladoras y proveedores mexicanos. Formamos la entidad de Texas, redactamos NDA y contratos de proveedor o contratista bilingües regidos por la ley de Texas, registramos la marca ante la USPTO y ayudamos a estructurar el lado estadounidense de una compraventa. No ejercemos derecho mexicano; los trámites corporativos en México, como una S.A. de C.V., deben ser manejados por un abogado con licencia en México."
         }
       }
     ]
@@ -66,8 +66,8 @@
   "services": {
     "business-purchase": {
       "title": {
-        "en": "Business Purchase & Sale Lawyer El Paso | El Paso Law Center",
-        "es": "Compraventa de Negocios en El Paso | El Paso Law Center"
+        "en": "Business Purchase & Sale Lawyer El Paso | Navar Law",
+        "es": "Compraventa de Negocios en El Paso | Navar Law"
       },
       "metaDescription": {
         "en": "Buying or selling a business in El Paso? Flat-fee purchase agreements, due diligence, lien and tax clearance and closing — no court. Call (915) 526-0787.",
@@ -280,8 +280,8 @@
     },
     "contract-drafting": {
       "title": {
-        "en": "Business Contract Lawyer El Paso | El Paso Law Center",
-        "es": "Abogado de Contratos Comerciales en El Paso | El Paso Law Center"
+        "en": "Business Contract Lawyer El Paso | Navar Law",
+        "es": "Abogado de Contratos Comerciales en El Paso | Navar Law"
       },
       "metaDescription": {
         "en": "Flat-fee business contract drafting and review in El Paso: service, vendor and supplier agreements and bilingual cross-border deals. Call (915) 526-0787.",
@@ -329,8 +329,8 @@
           },
           "body": [
             {
-              "en": "Typical work includes service agreements and statements of work, master services agreements for recurring clients, supplier and distribution agreements, website terms and conditions and privacy policies, equipment and vehicle leases, consulting and referral agreements, subcontractor agreements for construction and Fort Bliss work, franchise agreement reviews, and freight broker-carrier agreements for the transportation companies clustered along the border. For cross-border deals we draft Texas-law contracts that address currency, Incoterms, customs responsibility and where a dispute will be decided, and we coordinate with Mexican counsel when a Mexican entity is the counterparty.",
-              "es": "El trabajo típico incluye contratos de servicios y órdenes de trabajo, contratos marco de servicios para clientes recurrentes, contratos de proveedores y distribución, términos y condiciones y políticas de privacidad para sitios web, arrendamientos de equipo y vehículos, contratos de consultoría y referidos, contratos de subcontratistas para construcción y trabajos en Fort Bliss, revisión de contratos de franquicia y contratos broker-transportista para las empresas de carga concentradas en la frontera. Para tratos binacionales redactamos contratos bajo la ley de Texas que atienden moneda, Incoterms, responsabilidad aduanal y dónde se decidirá una disputa, y coordinamos con abogados mexicanos cuando la contraparte es una entidad mexicana."
+              "en": "Typical work includes service agreements and statements of work, master services agreements for recurring clients, supplier and distribution agreements, website terms and conditions and privacy policies, equipment and vehicle leases, consulting and referral agreements, subcontractor agreements for construction and Fort Bliss work, franchise agreement reviews, and freight broker-carrier agreements for the transportation companies clustered along the border. For cross-border deals we draft Texas-law contracts that address currency, Incoterms, customs responsibility and where a dispute will be decided, and we flag the Mexican-law issues the Mexican counterparty's own advisors will need to address.",
+              "es": "El trabajo típico incluye contratos de servicios y órdenes de trabajo, contratos marco de servicios para clientes recurrentes, contratos de proveedores y distribución, términos y condiciones y políticas de privacidad para sitios web, arrendamientos de equipo y vehículos, contratos de consultoría y referidos, contratos de subcontratistas para construcción y trabajos en Fort Bliss, revisión de contratos de franquicia y contratos broker-transportista para las empresas de carga concentradas en la frontera. Para tratos binacionales redactamos contratos bajo la ley de Texas que atienden moneda, Incoterms, responsabilidad aduanal y dónde se decidirá una disputa, y señalamos los puntos de ley mexicana que los asesores de la contraparte deberán atender."
             }
           ]
         },
@@ -436,8 +436,8 @@
             "es": "¿Un contrato con una empresa de Juárez puede regirse por la ley de Texas?"
           },
           "a": {
-            "en": "Yes. Parties may choose Texas law and El Paso County venue, and Texas courts generally honor that choice when the transaction has a reasonable relationship to Texas. Enforcing a Texas judgment in Mexico is a separate step, so for larger cross-border deals we often recommend an arbitration clause, since arbitration awards are enforceable in both countries under the New York Convention. We coordinate with Mexican counsel when needed.",
-            "es": "Sí. Las partes pueden elegir la ley de Texas y la jurisdicción del Condado de El Paso, y las cortes de Texas generalmente respetan esa elección cuando la transacción tiene una relación razonable con Texas. Ejecutar una sentencia de Texas en México es un paso aparte, así que para tratos binacionales grandes solemos recomendar una cláusula de arbitraje, ya que los laudos arbitrales son ejecutables en ambos países bajo la Convención de Nueva York. Coordinamos con abogados mexicanos cuando es necesario."
+            "en": "Yes. Parties may choose Texas law and El Paso County venue, and Texas courts generally honor that choice when the transaction has a reasonable relationship to Texas. Enforcing a Texas judgment in Mexico is a separate step, so for larger cross-border deals we often recommend an arbitration clause, since arbitration awards are enforceable in both countries under the New York Convention. We draft the Texas side of that clause.",
+            "es": "Sí. Las partes pueden elegir la ley de Texas y la jurisdicción del Condado de El Paso, y las cortes de Texas generalmente respetan esa elección cuando la transacción tiene una relación razonable con Texas. Ejecutar una sentencia de Texas en México es un paso aparte, así que para tratos binacionales grandes solemos recomendar una cláusula de arbitraje, ya que los laudos arbitrales son ejecutables en ambos países bajo la Convención de Nueva York. Nosotros redactamos el lado de Texas de esa cláusula."
           }
         },
         {
@@ -494,8 +494,8 @@
     },
     "corporation-formation": {
       "title": {
-        "en": "Corporation Formation Lawyer El Paso | El Paso Law Center",
-        "es": "Formación de Corporación en El Paso | El Paso Law Center"
+        "en": "Corporation Formation Lawyer El Paso | Navar Law",
+        "es": "Formación de Corporación en El Paso | Navar Law"
       },
       "metaDescription": {
         "en": "Form a Texas corporation in El Paso for a flat fee: Form 201 filing, bylaws, stock issuance, S-corp election and first board consent. Call (915) 526-0787.",
@@ -708,8 +708,8 @@
     },
     "dba-filing": {
       "title": {
-        "en": "DBA Assumed Name Filing El Paso | El Paso Law Center",
-        "es": "Registro de DBA en El Paso | El Paso Law Center"
+        "en": "DBA Assumed Name Filing El Paso | Navar Law",
+        "es": "Registro de DBA en El Paso | Navar Law"
       },
       "metaDescription": {
         "en": "File a DBA / assumed name in El Paso the right way — County Clerk for sole proprietors, Secretary of State Form 503 for LLCs. Flat fee. (915) 526-0787.",
@@ -917,8 +917,8 @@
     },
     "independent-contractor": {
       "title": {
-        "en": "Contractor Agreement Lawyer El Paso | El Paso Law Center",
-        "es": "Contrato de Contratista Independiente en El Paso | El Paso Law Center"
+        "en": "Contractor Agreement Lawyer El Paso | Navar Law",
+        "es": "Contrato de Contratista Independiente en El Paso | Navar Law"
       },
       "metaDescription": {
         "en": "Flat-fee independent contractor agreements in El Paso that hold up with the IRS and Texas Workforce Commission. Scope, pay, IP and 1099s. (915) 526-0787.",
@@ -978,8 +978,8 @@
           },
           "body": [
             {
-              "en": "Two El Paso situations deserve special drafting. Owner-operator lease agreements for motor carriers must comply with the federal Truth-in-Leasing regulations at 49 CFR Part 376, which dictate specific terms on compensation, chargebacks, escrow and insurance, and are a frequent source of driver claims. And contractors who live or work in Ciudad Juárez raise questions about work authorization, U.S. tax withholding on payments to foreign persons, and which country's labor law applies. Mexican labor law treats many contractor arrangements as employment. We coordinate with a CPA and, where needed, Mexican counsel so the agreement works on both sides of the bridge.",
-              "es": "Dos situaciones en El Paso merecen redacción especial. Los contratos de arrendamiento con owner-operators para transportistas deben cumplir las regulaciones federales Truth-in-Leasing del 49 CFR Parte 376, que dictan términos específicos sobre compensación, descuentos, depósitos en garantía y seguros, y son fuente frecuente de reclamos de choferes. Y los contratistas que viven o trabajan en Ciudad Juárez plantean preguntas sobre autorización de trabajo, retención de impuestos de EE. UU. en pagos a personas extranjeras y qué ley laboral aplica. La ley laboral mexicana trata muchos arreglos de contratista como empleo. Coordinamos con un contador y, cuando se necesita, con abogados mexicanos para que el contrato funcione en ambos lados del puente."
+              "en": "Two El Paso situations deserve special drafting. Owner-operator lease agreements for motor carriers must comply with the federal Truth-in-Leasing regulations at 49 CFR Part 376, which dictate specific terms on compensation, chargebacks, escrow and insurance, and are a frequent source of driver claims. And contractors who live or work in Ciudad Juárez raise questions about work authorization, U.S. tax withholding on payments to foreign persons, and which country's labor law applies. Mexican labor law treats many contractor arrangements as employment. We draft the Texas agreement with those issues in mind and tell you which questions belong to your CPA or to a Mexican-licensed lawyer.",
+              "es": "Dos situaciones en El Paso merecen redacción especial. Los contratos de arrendamiento con owner-operators para transportistas deben cumplir las regulaciones federales Truth-in-Leasing del 49 CFR Parte 376, que dictan términos específicos sobre compensación, descuentos, depósitos en garantía y seguros, y son fuente frecuente de reclamos de choferes. Y los contratistas que viven o trabajan en Ciudad Juárez plantean preguntas sobre autorización de trabajo, retención de impuestos de EE. UU. en pagos a personas extranjeras y qué ley laboral aplica. La ley laboral mexicana trata muchos arreglos de contratista como empleo. Redactamos el contrato de Texas con esos temas en mente y le decimos qué preguntas corresponden a su contador o a un abogado con licencia en México."
             }
           ]
         }
@@ -1131,8 +1131,8 @@
     },
     "llc-formation": {
       "title": {
-        "en": "LLC Formation Lawyer El Paso | El Paso Law Center",
-        "es": "Formación de LLC en El Paso | El Paso Law Center"
+        "en": "LLC Formation Lawyer El Paso | Navar Law",
+        "es": "Formación de LLC en El Paso | Navar Law"
       },
       "metaDescription": {
         "en": "Form a Texas LLC in El Paso for a flat fee: Form 205 filing, EIN, operating agreement and registered agent, done right the first time. Call (915) 526-0787.",
@@ -1345,8 +1345,8 @@
     },
     "nda": {
       "title": {
-        "en": "NDA Lawyer El Paso | El Paso Law Center",
-        "es": "Acuerdo de Confidencialidad (NDA) en El Paso | El Paso Law Center"
+        "en": "NDA Lawyer El Paso | Navar Law",
+        "es": "Acuerdo de Confidencialidad (NDA) en El Paso | Navar Law"
       },
       "metaDescription": {
         "en": "Flat-fee NDAs in El Paso: mutual and one-way agreements for employees, contractors, investors and Juárez suppliers, enforceable in Texas. (915) 526-0787.",
@@ -1521,8 +1521,8 @@
             "es": "¿Un NDA protegerá mi información compartida con un proveedor en Juárez?"
           },
           "a": {
-            "en": "A Texas-law NDA with El Paso County venue is enforceable against a Mexican company that signs it, but collecting a Texas judgment in Mexico takes an additional recognition proceeding there. For high-value technical information we often add an arbitration clause, whose awards are enforceable in Mexico under the New York Convention, and prepare a Spanish version so the counterparty cannot claim it did not understand. Mexican counsel can add protections under Mexican industrial property law when warranted.",
-            "es": "Un NDA bajo la ley de Texas con jurisdicción en el Condado de El Paso es exigible contra una empresa mexicana que lo firma, pero cobrar una sentencia de Texas en México requiere un procedimiento de reconocimiento adicional allá. Para información técnica de alto valor solemos agregar una cláusula de arbitraje, cuyos laudos son ejecutables en México bajo la Convención de Nueva York, y preparamos una versión en español para que la contraparte no pueda alegar que no entendió. Un abogado mexicano puede agregar protecciones bajo la ley de propiedad industrial de México cuando se justifica."
+            "en": "A Texas-law NDA with El Paso County venue is enforceable against a Mexican company that signs it, but collecting a Texas judgment in Mexico takes an additional recognition proceeding there. For high-value technical information we often add an arbitration clause, whose awards are enforceable in Mexico under the New York Convention, and prepare a Spanish version so the counterparty cannot claim it did not understand. Protections under Mexican industrial property law are a matter of Mexican law and are outside the scope of our engagement.",
+            "es": "Un NDA bajo la ley de Texas con jurisdicción en el Condado de El Paso es exigible contra una empresa mexicana que lo firma, pero cobrar una sentencia de Texas en México requiere un procedimiento de reconocimiento adicional allá. Para información técnica de alto valor solemos agregar una cláusula de arbitraje, cuyos laudos son ejecutables en México bajo la Convención de Nueva York, y preparamos una versión en español para que la contraparte no pueda alegar que no entendió. Las protecciones bajo la ley de propiedad industrial de México son materia de derecho mexicano y quedan fuera del alcance de nuestro trabajo."
           }
         }
       ],
@@ -1559,8 +1559,8 @@
     },
     "operating-agreement": {
       "title": {
-        "en": "LLC Operating Agreement Lawyer El Paso | El Paso Law Center",
-        "es": "Acuerdo Operativo de LLC en El Paso | El Paso Law Center"
+        "en": "LLC Operating Agreement Lawyer El Paso | Navar Law",
+        "es": "Acuerdo Operativo de LLC en El Paso | Navar Law"
       },
       "metaDescription": {
         "en": "Custom Texas LLC operating agreements in El Paso for a flat fee. Ownership, voting, buyouts and partner exits in plain English. Call (915) 526-0787.",
@@ -1766,8 +1766,8 @@
     },
     "registered-agent": {
       "title": {
-        "en": "Registered Agent Service El Paso | El Paso Law Center",
-        "es": "Agente Registrado en El Paso | El Paso Law Center"
+        "en": "Registered Agent Service El Paso | Navar Law",
+        "es": "Agente Registrado en El Paso | Navar Law"
       },
       "metaDescription": {
         "en": "Attorney registered agent in El Paso for Texas LLCs and corporations. Physical address, same-day notice of lawsuits, flat yearly fee. Call (915) 526-0787.",
@@ -1827,8 +1827,8 @@
           },
           "body": [
             {
-              "en": "Under the Texas Rules of Civil Procedure, a defendant served with a citation generally must file an answer by 10 a.m. on the Monday after twenty days have passed. Miss it and the plaintiff can take a default judgment for everything requested. When a process server delivers a suit to our office, we log the date and time of service, scan the full packet to you within hours, calculate the answer deadline and explain your options, whether that is a demand letter response, negotiation or referral to litigation counsel. The same applies to Comptroller franchise tax notices, which carry their own deadlines before forfeiture.",
-              "es": "Bajo las Reglas de Procedimiento Civil de Texas, un demandado notificado con un citatorio generalmente debe presentar su contestación antes de las 10 a.m. del lunes siguiente a que pasen veinte días. Si se pasa, el demandante puede obtener una sentencia en rebeldía por todo lo que pidió. Cuando un notificador entrega una demanda en nuestra oficina, registramos la fecha y hora de notificación, le escaneamos el paquete completo en cuestión de horas, calculamos el plazo de contestación y le explicamos sus opciones, ya sea responder con una carta, negociar o referirlo a un abogado litigante. Lo mismo aplica a los avisos de impuesto de franquicia del Contralor, que tienen sus propios plazos antes de la pérdida de derechos."
+              "en": "Under the Texas Rules of Civil Procedure, a defendant served with a citation generally must file an answer by 10 a.m. on the Monday after twenty days have passed. Miss it and the plaintiff can take a default judgment for everything requested. When a process server delivers a suit to our office, we log the date and time of service, scan the full packet to you within hours, calculate the answer deadline and explain your options, whether that is a demand letter response, negotiation, or a lawsuit answer that you would engage counsel for separately. The same applies to Comptroller franchise tax notices, which carry their own deadlines before forfeiture.",
+              "es": "Bajo las Reglas de Procedimiento Civil de Texas, un demandado notificado con un citatorio generalmente debe presentar su contestación antes de las 10 a.m. del lunes siguiente a que pasen veinte días. Si se pasa, el demandante puede obtener una sentencia en rebeldía por todo lo que pidió. Cuando un notificador entrega una demanda en nuestra oficina, registramos la fecha y hora de notificación, le escaneamos el paquete completo en cuestión de horas, calculamos el plazo de contestación y le explicamos sus opciones, ya sea responder con una carta, negociar o contestar la demanda mediante un contrato de representación aparte. Lo mismo aplica a los avisos de impuesto de franquicia del Contralor, que tienen sus propios plazos antes de la pérdida de derechos."
             }
           ]
         }
@@ -1886,8 +1886,8 @@
             "es": "Asesoría y siguientes pasos"
           },
           "body": {
-            "en": "We tell you the deadline and what the document means. If a response is needed, we can handle it or refer you to the right lawyer. Your service renews annually until you cancel or change agents.",
-            "es": "Le decimos el plazo y qué significa el documento. Si se necesita una respuesta, podemos manejarla o referirlo al abogado adecuado. Su servicio se renueva anualmente hasta que usted lo cancele o cambie de agente."
+            "en": "We tell you the deadline and what the document means. If a response is needed, that is a separate engagement you decide on at the time. Your service renews annually until you cancel or change agents.",
+            "es": "Le decimos el plazo y qué significa el documento. Si se necesita una respuesta, esa es una contratación aparte que usted decide en ese momento. Su servicio se renueva anualmente hasta que usted lo cancele o cambie de agente."
           }
         }
       ],
@@ -1928,8 +1928,8 @@
             "es": "¿El agente registrado tiene que ir a la corte por mí?"
           },
           "a": {
-            "en": "No. A registered agent's legal role is only to receive documents on behalf of the entity. Appointing us as agent does not by itself make us your litigation counsel and does not require you to appear anywhere. If a lawsuit is served, we explain the deadline and options; you then decide whether to hire us or another attorney for the response. The vast majority of what an agent receives is routine state mail, not lawsuits.",
-            "es": "No. El papel legal de un agente registrado es únicamente recibir documentos en nombre de la entidad. Designarnos como agente no nos convierte por sí solo en su abogado litigante ni le exige comparecer en ningún lado. Si se notifica una demanda, le explicamos el plazo y las opciones; usted decide entonces si nos contrata a nosotros o a otro abogado para la respuesta. La gran mayoría de lo que recibe un agente es correo estatal de rutina, no demandas."
+            "en": "No. A registered agent's legal role is only to receive documents on behalf of the entity. Appointing us as agent does not by itself make us your litigation counsel and does not require you to appear anywhere. If a lawsuit is served, we explain the deadline and options; you then decide how you want to respond. The vast majority of what an agent receives is routine state mail, not lawsuits.",
+            "es": "No. El papel legal de un agente registrado es únicamente recibir documentos en nombre de la entidad. Designarnos como agente no nos convierte por sí solo en su abogado litigante ni le exige comparecer en ningún lado. Si se notifica una demanda, le explicamos el plazo y las opciones; usted decide entonces cómo desea responder. La gran mayoría de lo que recibe un agente es correo estatal de rutina, no demandas."
           }
         },
         {
@@ -1975,8 +1975,8 @@
     },
     "trademark": {
       "title": {
-        "en": "Trademark Registration Lawyer El Paso | El Paso Law Center",
-        "es": "Registro de Marca en El Paso | El Paso Law Center"
+        "en": "Trademark Registration Lawyer El Paso | Navar Law",
+        "es": "Registro de Marca en El Paso | Navar Law"
       },
       "metaDescription": {
         "en": "Flat-fee trademark search and USPTO registration for El Paso businesses. Clearance search, filing, office actions and Texas marks. Call (915) 526-0787.",

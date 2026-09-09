@@ -1,7 +1,7 @@
 {
   "title": {
-    "en": "Registered Agent Service El Paso | El Paso Law Center",
-    "es": "Agente Registrado en El Paso | El Paso Law Center"
+    "en": "Registered Agent Service El Paso | Navar Law",
+    "es": "Agente Registrado en El Paso | Navar Law"
   },
   "metaDescription": {
     "en": "Attorney registered agent in El Paso for Texas LLCs and corporations. Physical address, same-day notice of lawsuits, flat yearly fee. Call (915) 526-0787.",
@@ -61,8 +61,8 @@
       },
       "body": [
         {
-          "en": "Under the Texas Rules of Civil Procedure, a defendant served with a citation generally must file an answer by 10 a.m. on the Monday after twenty days have passed. Miss it and the plaintiff can take a default judgment for everything requested. When a process server delivers a suit to our office, we log the date and time of service, scan the full packet to you within hours, calculate the answer deadline and explain your options, whether that is a demand letter response, negotiation or referral to litigation counsel. The same applies to Comptroller franchise tax notices, which carry their own deadlines before forfeiture.",
-          "es": "Bajo las Reglas de Procedimiento Civil de Texas, un demandado notificado con un citatorio generalmente debe presentar su contestación antes de las 10 a.m. del lunes siguiente a que pasen veinte días. Si se pasa, el demandante puede obtener una sentencia en rebeldía por todo lo que pidió. Cuando un notificador entrega una demanda en nuestra oficina, registramos la fecha y hora de notificación, le escaneamos el paquete completo en cuestión de horas, calculamos el plazo de contestación y le explicamos sus opciones, ya sea responder con una carta, negociar o referirlo a un abogado litigante. Lo mismo aplica a los avisos de impuesto de franquicia del Contralor, que tienen sus propios plazos antes de la pérdida de derechos."
+          "en": "Under the Texas Rules of Civil Procedure, a defendant served with a citation generally must file an answer by 10 a.m. on the Monday after twenty days have passed. Miss it and the plaintiff can take a default judgment for everything requested. When a process server delivers a suit to our office, we log the date and time of service, scan the full packet to you within hours, calculate the answer deadline and explain your options, whether that is a demand letter response, negotiation, or a lawsuit answer that you would engage counsel for separately. The same applies to Comptroller franchise tax notices, which carry their own deadlines before forfeiture.",
+          "es": "Bajo las Reglas de Procedimiento Civil de Texas, un demandado notificado con un citatorio generalmente debe presentar su contestación antes de las 10 a.m. del lunes siguiente a que pasen veinte días. Si se pasa, el demandante puede obtener una sentencia en rebeldía por todo lo que pidió. Cuando un notificador entrega una demanda en nuestra oficina, registramos la fecha y hora de notificación, le escaneamos el paquete completo en cuestión de horas, calculamos el plazo de contestación y le explicamos sus opciones, ya sea responder con una carta, negociar o contestar la demanda mediante un contrato de representación aparte. Lo mismo aplica a los avisos de impuesto de franquicia del Contralor, que tienen sus propios plazos antes de la pérdida de derechos."
         }
       ]
     }
@@ -120,8 +120,8 @@
         "es": "Asesoría y siguientes pasos"
       },
       "body": {
-        "en": "We tell you the deadline and what the document means. If a response is needed, we can handle it or refer you to the right lawyer. Your service renews annually until you cancel or change agents.",
-        "es": "Le decimos el plazo y qué significa el documento. Si se necesita una respuesta, podemos manejarla o referirlo al abogado adecuado. Su servicio se renueva anualmente hasta que usted lo cancele o cambie de agente."
+        "en": "We tell you the deadline and what the document means. If a response is needed, that is a separate engagement you decide on at the time. Your service renews annually until you cancel or change agents.",
+        "es": "Le decimos el plazo y qué significa el documento. Si se necesita una respuesta, esa es una contratación aparte que usted decide en ese momento. Su servicio se renueva anualmente hasta que usted lo cancele o cambie de agente."
       }
     }
   ],
@@ -162,8 +162,8 @@
         "es": "¿El agente registrado tiene que ir a la corte por mí?"
       },
       "a": {
-        "en": "No. A registered agent's legal role is only to receive documents on behalf of the entity. Appointing us as agent does not by itself make us your litigation counsel and does not require you to appear anywhere. If a lawsuit is served, we explain the deadline and options; you then decide whether to hire us or another attorney for the response. The vast majority of what an agent receives is routine state mail, not lawsuits.",
-        "es": "No. El papel legal de un agente registrado es únicamente recibir documentos en nombre de la entidad. Designarnos como agente no nos convierte por sí solo en su abogado litigante ni le exige comparecer en ningún lado. Si se notifica una demanda, le explicamos el plazo y las opciones; usted decide entonces si nos contrata a nosotros o a otro abogado para la respuesta. La gran mayoría de lo que recibe un agente es correo estatal de rutina, no demandas."
+        "en": "No. A registered agent's legal role is only to receive documents on behalf of the entity. Appointing us as agent does not by itself make us your litigation counsel and does not require you to appear anywhere. If a lawsuit is served, we explain the deadline and options; you then decide how you want to respond. The vast majority of what an agent receives is routine state mail, not lawsuits.",
+        "es": "No. El papel legal de un agente registrado es únicamente recibir documentos en nombre de la entidad. Designarnos como agente no nos convierte por sí solo en su abogado litigante ni le exige comparecer en ningún lado. Si se notifica una demanda, le explicamos el plazo y las opciones; usted decide entonces cómo desea responder. La gran mayoría de lo que recibe un agente es correo estatal de rutina, no demandas."
       }
     },
     {

@@ -2,8 +2,10 @@ import type { Lang } from './catalog';
 
 export const SITE = {
   url: 'https://elpasolawyers.org',
-  name: 'El Paso Law Center',
+  name: 'Law Office of Robert Navar',
+  short: 'Navar Law',
   firm: 'Law Office of Robert Navar',
+  tagline: { en: 'Flat-fee legal services · El Paso, TX', es: 'Servicios legales a tarifa fija · El Paso, TX' },
   attorney: 'Robert Navar',
   attorneyFull: 'Robert Andrew Navar, Esq.',
   phone: '(915) 526-0787',
@@ -62,6 +64,8 @@ export const UI: Record<string, Record<Lang, string>> = {
   haveACaseBody: { en: 'Call the office or send a message. Free case review, no obligation.', es: 'Llame a la oficina o envíe un mensaje. Revisión de caso gratis, sin compromiso.' },
   lastReviewed: { en: 'Last reviewed by', es: 'Revisado por' },
   stateBar: { en: 'State Bar of Texas', es: 'Barra de Abogados de Texas' },
+  attorneyResponsible: { en: 'Robert Andrew Navar, Esq. is the attorney responsible for the content of this website. Principal office: 11860 Vista Del Sol, El Paso, Texas 79935. elpasolawyers.org is the website of the Law Office of Robert Navar, a private law firm; it is not a governmental, nonprofit, or legal-aid organization.', es: 'Robert Andrew Navar, Esq. es el abogado responsable del contenido de este sitio. Oficina principal: 11860 Vista Del Sol, El Paso, Texas 79935. elpasolawyers.org es el sitio de Law Office of Robert Navar, una firma legal privada; no es una organización gubernamental, sin fines de lucro ni de asistencia legal.' },
+  referralDisclosure: { en: 'Some matters, in particular immigration, bankruptcy, trademark and employment matters, may be referred to or handled jointly with other lawyers who are not members of this firm. You will be told before you hire us if that applies to your matter.', es: 'Algunos asuntos, en particular de inmigración, bancarrota, marcas registradas y derecho laboral, pueden ser referidos a otros abogados que no forman parte de esta firma o manejados conjuntamente con ellos. Se le informará antes de contratarnos si eso aplica a su asunto.' },
   disclaimer: { en: 'Attorney advertising. The information on this website is general information and is not legal advice. Contacting us does not create an attorney-client relationship. Past results do not guarantee a similar outcome.', es: 'Publicidad de abogado. La información en este sitio es general y no constituye asesoría legal. Contactarnos no crea una relación abogado-cliente. Resultados pasados no garantizan un resultado similar.' },
   principalOffice: { en: 'Principal office in El Paso, Texas', es: 'Oficina principal en El Paso, Texas' },
   privacy: { en: 'Privacy Policy', es: 'Política de Privacidad' },
