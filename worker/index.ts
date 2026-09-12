@@ -1,4 +1,4 @@
-// Cloudflare Worker for El Paso Law Center
+// Cloudflare Worker for the Law Office of Robert Navar (elpasolawyers.org)
 // - Serves the static Astro build (assets binding, run_worker_first only for /api/*)
 // - POST /api/contact → emails the lead via Resend
 
@@ -10,7 +10,8 @@ export interface Env {
 }
 
 const DEFAULT_TO = 'help@elpasolawyers.org';
-const DEFAULT_FROM = 'El Paso Law Center Website <noreply@elpasolawyers.org>';
+const DEFAULT_FROM = 'Law Office of Robert Navar Website <noreply@elpasolawyers.org>';
+const CANONICAL_HOST = 'elpasolawyers.org';
 
 const esc = (s: string) => s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]!));
 
@@ -31,7 +32,7 @@ async function handleContact(req: Request, env: Env): Promise<Response> {
   const ip = req.headers.get('cf-connecting-ip') ?? '';
   const subject = `New lead: ${matter || 'General'} — ${name}`;
   const rows: [string, string][] = [['Name', name], ['Phone', phone], ['Email', email || '—'], ['Matter', matter || '—'], ['Language', lang], ['Page', page], ['IP', ip], ['Received', new Date().toISOString()]];
-  const html = `<div style="font-family:Inter,Arial,sans-serif;font-size:15px;color:#111"><h2 style="margin:0 0 12px">New website lead — El Paso Law Center</h2><table cellpadding="6" style="border-collapse:collapse">${rows.map(([k, v]) => `<tr><td style="color:#666;padding-right:14px"><b>${k}</b></td><td>${esc(v)}</td></tr>`).join('')}</table><h3 style="margin:18px 0 6px">Message</h3><p style="white-space:pre-wrap;background:#f6f6f6;padding:12px;border-radius:6px">${esc(message)}</p></div>`;
+  const html = `<div style="font-family:Inter,Arial,sans-serif;font-size:15px;color:#111"><h2 style="margin:0 0 12px">New website lead — Law Office of Robert Navar</h2><table cellpadding="6" style="border-collapse:collapse">${rows.map(([k, v]) => `<tr><td style="color:#666;padding-right:14px"><b>${k}</b></td><td>${esc(v)}</td></tr>`).join('')}</table><h3 style="margin:18px 0 6px">Message</h3><p style="white-space:pre-wrap;background:#f6f6f6;padding:12px;border-radius:6px">${esc(message)}</p></div>`;
   const text = rows.map(([k, v]) => `${k}: ${v}`).join('\n') + `\n\nMessage:\n${message}`;
 
   const r = await fetch('https://api.resend.com/emails', {
@@ -54,6 +55,11 @@ function json(obj: unknown, status = 200) {
 export default {
   async fetch(req: Request, env: Env): Promise<Response> {
     const url = new URL(req.url);
+    // Canonical host: send www.* and *.workers.dev visitors to the production domain (301, path + query preserved).
+    if (url.hostname !== CANONICAL_HOST && !url.pathname.startsWith('/api/') && (req.method === 'GET' || req.method === 'HEAD')) {
+      url.hostname = CANONICAL_HOST; url.protocol = 'https:'; url.port = '';
+      return Response.redirect(url.toString(), 301);
+    }
     if (url.pathname === '/api/contact') return handleContact(req, env);
     if (url.pathname.startsWith('/api/')) return new Response('Not found', { status: 404 });
     return env.ASSETS.fetch(req);
