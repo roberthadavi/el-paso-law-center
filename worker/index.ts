@@ -55,8 +55,8 @@ function json(obj: unknown, status = 200) {
 export default {
   async fetch(req: Request, env: Env): Promise<Response> {
     const url = new URL(req.url);
-    // Canonical host: send www.* and *.workers.dev visitors to the production domain (301, path + query preserved).
-    if (url.hostname !== CANONICAL_HOST && !url.pathname.startsWith('/api/') && (req.method === 'GET' || req.method === 'HEAD')) {
+    // Canonical host + HTTPS: send http://, www.* and *.workers.dev visitors to the production domain (301, path + query preserved).
+    if ((url.hostname !== CANONICAL_HOST || url.protocol !== 'https:') && !url.pathname.startsWith('/api/') && (req.method === 'GET' || req.method === 'HEAD')) {
       url.hostname = CANONICAL_HOST; url.protocol = 'https:'; url.port = '';
       return Response.redirect(url.toString(), 301);
     }
