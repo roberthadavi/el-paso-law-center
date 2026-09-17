@@ -1,6 +1,7 @@
 // Usage: node scripts/validate-content.mjs <hub-id> [...]
 import fs from 'node:fs';
 import path from 'node:path';
+const existsSync = fs.existsSync; const join = path.join; const root = path.resolve(new URL('..', import.meta.url).pathname);
 
 const catalogSrc = fs.readFileSync(new URL('../src/data/catalog.ts', import.meta.url), 'utf8');
 // crude parse: extract hub ids and their service ids in order
@@ -27,7 +28,7 @@ function checkLArr(v, name, min, max) {
   if (Array.isArray(v)) v.forEach((x, i) => checkL(x, `${name}[${i}]`));
 }
 function checkFaqs(v, name, n) {
-  chk(Array.isArray(v) && v.length === n, `${name}: need exactly ${n} faqs`);
+  chk(Array.isArray(v) && v.length >= n && v.length <= 12, `${name}: need ${n}-12 faqs`);
   if (Array.isArray(v)) v.forEach((f, i) => { checkL(f.q, `${name}[${i}].q`); checkL(f.a, `${name}[${i}].a`); });
 }
 
@@ -47,9 +48,9 @@ for (const hubId of process.argv.slice(2)) {
     if (!s) { errs.push(`${q}: missing`); continue; }
     checkL(s.title, `${q}.title`, 60); checkL(s.metaDescription, `${q}.metaDescription`, 155); checkL(s.eyebrow, `${q}.eyebrow`); checkL(s.h1, `${q}.h1`, 90); checkL(s.summary, `${q}.summary`);
     checkL(s.feeModel, `${q}.feeModel`); checkL(s.timeline, `${q}.timeline`);
-    checkLArr(s.intro, `${q}.intro`, 3, 3);
-    chk(Array.isArray(s.sections) && s.sections.length === 2, `${q}.sections: need 2`);
-    if (Array.isArray(s.sections)) s.sections.forEach((sec, i) => { checkL(sec.heading, `${q}.sections[${i}].heading`); checkLArr(sec.body, `${q}.sections[${i}].body`, 1, 2); });
+    checkLArr(s.intro, `${q}.intro`, 3, 5);
+    chk(Array.isArray(s.sections) && s.sections.length >= 2 && s.sections.length <= 8, `${q}.sections: need 2-8`);
+    if (Array.isArray(s.sections)) s.sections.forEach((sec, i) => { checkL(sec.heading, `${q}.sections[${i}].heading`); checkLArr(sec.body, `${q}.sections[${i}].body`, 1, 4); });
     checkLArr(s.included, `${q}.included`, 5, 7);
     chk(Array.isArray(s.process) && s.process.length === 3, `${q}.process: need 3`);
     if (Array.isArray(s.process)) s.process.forEach((st, i) => { checkL(st.title, `${q}.process[${i}].title`); checkL(st.body, `${q}.process[${i}].body`); });
@@ -59,6 +60,16 @@ for (const hubId of process.argv.slice(2)) {
     if (Array.isArray(s.related)) s.related.forEach((r) => chk(courtOf[r] !== undefined, `${q}.related: unknown service id "${r}"`));
     chk(Array.isArray(s.outbound) && s.outbound.length >= 1 && s.outbound.length <= 2, `${q}.outbound: need 1-2`);
     if (Array.isArray(s.outbound)) s.outbound.forEach((o, i) => { checkL(o.label, `${q}.outbound[${i}].label`); chk(/^https:\/\//.test(o.url || ''), `${q}.outbound[${i}].url must be https`); });
+    if (s.images !== undefined) {
+      chk(Array.isArray(s.images) && s.images.length <= 6, `${q}.images: array of <=6`);
+      if (Array.isArray(s.images)) s.images.forEach((im, i) => {
+        const r = `${q}.images[${i}]`;
+        chk(typeof im.src === 'string' && im.src.startsWith('/images/') && existsSync(join(root, 'public', im.src)), `${r}.src must exist under public/images`);
+        chk(Number.isInteger(im.width) && Number.isInteger(im.height), `${r}: width/height required`);
+        checkL(im.alt, `${r}.alt`, 160); checkL(im.caption, `${r}.caption`);
+        chk(im.slot === 'intro' || (Number.isInteger(im.slot) && im.slot >= 0 && im.slot < (s.sections || []).length), `${r}.slot must be 'intro' or a section index`);
+      });
+    }
     const blob = JSON.stringify(s);
     chk((blob.match(/El Paso/g) || []).length >= 3, `${q}: mention "El Paso" >= 3 times`);
   }

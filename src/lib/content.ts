@@ -8,6 +8,12 @@ export interface ServiceContent {
   intro: L[]; sections: { heading: L; body: L[] }[]; included: L[];
   process: { title: L; body: L }[]; faqs: { q: L; a: L }[];
   keywords: string[]; related: string[]; outbound: { label: L; url: string }[];
+  /** Optional in-article images. slot: 'intro' = after the intro paragraphs, N = after sections[N]. */
+  images?: ServiceImage[];
+}
+export interface ServiceImage {
+  src: string; width: number; height: number; alt: L; caption: L; slot: 'intro' | number;
+  credit?: { text: string; url?: string; license?: string; licenseUrl?: string };
 }
 interface HubFile { hub: HubContent; services: Record<string, ServiceContent> }
 

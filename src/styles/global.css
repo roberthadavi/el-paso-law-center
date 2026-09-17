@@ -167,6 +167,11 @@ p { margin: 0 0 1em; }
 .prose h3 { margin-top: 1.75rem; }
 .prose p { margin-bottom: 1.15em; }
 .prose a { color: var(--gold-dark); }
+.article-figure { margin: 1.75rem 0 2rem; }
+.article-figure img { display: block; width: 100%; height: auto; border-radius: var(--radius); border: 1px solid var(--line); }
+.article-figure figcaption { font-size: .85rem; color: var(--muted-text); margin-top: .55rem; line-height: 1.45; }
+.article-figure .credit { color: oklch(60% .02 255); }
+.article-figure .credit a { color: inherit; text-decoration: underline; }
 .prose ul { padding-left: 1.2rem; }
 .prose li { margin-bottom: .4rem; }
 

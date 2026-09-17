@@ -1,0 +1,11 @@
+---
+import type { Lang } from '../data/catalog';
+import type { ServiceImage } from '../lib/content';
+interface Props { im: ServiceImage; lang: Lang }
+const { im, lang } = Astro.props;
+const creditLabel = lang === 'en' ? 'Photo' : 'Foto';
+---
+<figure class="article-figure">
+  <img src={im.src} alt={im.alt[lang]} width={im.width} height={im.height} loading="lazy" decoding="async" />
+  <figcaption>{im.caption[lang]}{im.credit && <span class="credit"> · {creditLabel}: {im.credit.url ? <a href={im.credit.url} target="_blank" rel="noopener nofollow">{im.credit.text}</a> : im.credit.text}{im.credit.license && <>, {im.credit.licenseUrl ? <a href={im.credit.licenseUrl} target="_blank" rel="noopener nofollow">{im.credit.license}</a> : im.credit.license}</>}</span>}</figcaption>
+</figure>

@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import Faq from '../components/Faq.astro';
 import CtaBand from '../components/CtaBand.astro';
+import Figure from '../components/Figure.astro';
 import { COURT_LABEL, hubPath, servicePath, type Lang, type CatalogHub } from '../data/catalog';
 import { SITE, PATHS, t } from '../data/site';
 import { serviceContent, serviceById, hubOf, type ServiceWithHub } from '../lib/content';
@@ -18,7 +19,10 @@ const crumbs = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', it
   { '@type': 'ListItem', position: 3, name: service.name[lang], item: new URL(path, SITE.url).href },
 ] };
 const faqLd = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: c.faqs.map((f) => ({ '@type': 'Question', name: f.q[lang], acceptedAnswer: { '@type': 'Answer', text: f.a[lang] } })) };
-const svcLd = { '@context': 'https://schema.org', '@type': 'Service', name: service.name[lang], serviceType: service.name.en, provider: { '@id': `${SITE.url}/#organization` }, areaServed: 'El Paso County, Texas', url: new URL(path, SITE.url).href, description: c.metaDescription[lang], offers: { '@type': 'Offer', description: c.feeModel[lang], areaServed: 'El Paso, TX' } };
+const images = c.images ?? [];
+const imgLd = images.map((im) => ({ '@type': 'ImageObject', contentUrl: new URL(im.src, SITE.url).href, url: new URL(im.src, SITE.url).href, name: im.alt[lang], caption: im.caption[lang], width: im.width, height: im.height, ...(im.credit ? { creditText: im.credit.text, license: im.credit.licenseUrl, acquireLicensePage: im.credit.url } : { creditText: SITE.name, copyrightHolder: { '@id': `${SITE.url}/#organization` } }) }));
+const figs = (slot: 'intro' | number) => images.filter((im) => im.slot === slot);
+const svcLd = { '@context': 'https://schema.org', '@type': 'Service', ...(imgLd.length ? { image: imgLd } : {}), name: service.name[lang], serviceType: service.name.en, provider: { '@id': `${SITE.url}/#organization` }, areaServed: 'El Paso County, Texas', url: new URL(path, SITE.url).href, description: c.metaDescription[lang], offers: { '@type': 'Offer', description: c.feeModel[lang], areaServed: 'El Paso, TX' } };
 // split H1 so the last 2–3 words render gold like the source site
 const h1 = c.h1[lang];
 const words = h1.split(' ');
@@ -48,7 +52,8 @@ const h1b = words.slice(cut).join(' ');
     <div class="container svc-layout">
       <article class="prose">
         {c.intro.map((p) => <p>{p[lang]}</p>)}
-        {c.sections.map((s) => <><h2>{s.heading[lang]}</h2>{s.body.map((p) => <p>{p[lang]}</p>)}</>)}
+        {figs('intro').map((im) => <Figure im={im} lang={lang} />)}
+        {c.sections.map((s, i) => <><h2>{s.heading[lang]}</h2>{s.body.map((p) => <p>{p[lang]}</p>)}{figs(i).map((im) => <Figure im={im} lang={lang} />)}</>)}
 
         <h2>{t('whatsIncluded', lang)}</h2>
         <ul class="included">{c.included.map((i) => <li>{i[lang]}</li>)}</ul>
