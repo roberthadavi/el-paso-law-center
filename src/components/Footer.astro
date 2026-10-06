@@ -39,6 +39,7 @@ const year = new Date().getFullYear();
     <div class="container">
       <span>© {year} {SITE.firm}. {t('allRights', lang)}</span>
       <span><a href={PATHS.privacy[lang]}>{t('privacy', lang)}</a></span>
+      <a class="powered" href="https://seocandy.ai/" target="_blank" rel="noopener" title={lang === 'en' ? 'SEO & web design by SEOCANDY.ai, El Paso' : 'SEO y diseño web por SEOCANDY.ai, El Paso'}><img src="/images/seocandy-rocket-mark.webp" width="16" height="20" alt="SEOCANDY.ai lollipop rocket logo" loading="lazy" decoding="async" /><span>{lang === 'en' ? 'Humbly powered by' : 'Humildemente impulsado por'} <b>SEOCANDY.ai</b></span></a>
     </div>
     <div class="container" style="display:block;margin-top:.6rem;max-width:var(--max)"><p style="margin:0 0 .5rem">{t('attorneyResponsible', lang)}</p><p style="margin:0 0 .5rem">{t('contingencyDisclosure', lang)}</p><p style="margin:0">{t('disclaimer', lang)}</p></div>
   </div>
