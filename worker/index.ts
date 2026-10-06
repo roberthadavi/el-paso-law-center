@@ -12,6 +12,8 @@ export interface Env {
 const DEFAULT_TO = 'help@elpasolawyers.org';
 const DEFAULT_FROM = 'Law Office of Robert Navar Website <noreply@elpasolawyers.org>';
 const CANONICAL_HOST = 'elpasolawyers.org';
+// Bump the `id` in the _mta-sts DNS TXT record whenever this policy changes. mode: testing -> enforce once TLS-RPT reports are clean.
+const MTA_STS_POLICY = 'version: STSv1\nmode: testing\nmx: mail.elpasolawyers.org\nmax_age: 604800\n';
 
 const esc = (s: string) => s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]!));
 
@@ -55,6 +57,11 @@ function json(obj: unknown, status = 200) {
 export default {
   async fetch(req: Request, env: Env): Promise<Response> {
     const url = new URL(req.url);
+    // MTA-STS policy for inbound mail (RFC 8461): https://mta-sts.elpasolawyers.org/.well-known/mta-sts.txt
+    if (url.hostname === `mta-sts.${CANONICAL_HOST}`) {
+      if (url.pathname === '/.well-known/mta-sts.txt') return new Response(MTA_STS_POLICY, { headers: { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'public, max-age=3600' } });
+      return new Response('Not found', { status: 404 });
+    }
     // Canonical host + HTTPS: send http://, www.* and *.workers.dev visitors to the production domain (301, path + query preserved).
     if ((url.hostname !== CANONICAL_HOST || url.protocol !== 'https:') && !url.pathname.startsWith('/api/') && (req.method === 'GET' || req.method === 'HEAD')) {
       url.hostname = CANONICAL_HOST; url.protocol = 'https:'; url.port = '';
